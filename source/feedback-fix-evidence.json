@@ -1,0 +1,187 @@
+{
+  "version": "0.5.1",
+  "native_capture_build": "0.5.0",
+  "images_not_redistributed": true,
+  "files": [
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133134_00.png",
+      "sha256": "63745d814c1e4b267e16ea6e7d9bf25a9d1c6f2f6dc3b18fd8ea1c0a4b12354e",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133158_00.png",
+      "sha256": "bd7dcdd0bc52540d0f31045e65289a5549151b660a239959b29bc71f6ea54c06",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133205_00.png",
+      "sha256": "60c7d32193baebbfc6a7b4255c4a3700223d751d9bc3538aee66d2b4b572b444",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133217_00.png",
+      "sha256": "a97623e25950c3eed31f316a1d8f2c9e7ca1ac20a60c3396c646612c2ab98999",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133309_00.png",
+      "sha256": "b62d2e5c7e0c05d82072997d1718853f23b5721e6a2a055f16c636f81474f5dd",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133316_00.png",
+      "sha256": "7d2dc124b62a6afc67d1b19a701722172eacdaaf5db5cb09be297f3ed6fcffa6",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "ets2_20261127_133331_00.png",
+      "sha256": "185d9af992461629bd1942cb584e2a2af4fbe44a5966d64e5cba0bf12fe2056c",
+      "annotation": false
+    },
+    {
+      "vehicle": "MAN Lion's Coach L 13.9m",
+      "file": "stripe_suggestion.png",
+      "sha256": "510f8ac32fcb2edbdea09657a49a3b4a49cc9798632fc19c207af84aebb07900",
+      "annotation": true
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_132901_00.png",
+      "sha256": "3b25752a3e2c4786f645d230429ce0ff0ff98ee6c7e6bbdc6dcd8c365cfc6099",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_132920_00.png",
+      "sha256": "5d67483ca251b29bdd676cd37ffa062aa12ae2f5a74918db2c0b846808c28a40",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_132927_00.png",
+      "sha256": "c4a446bec1e19d762d79376df7d791aac03ed0f840dedffc71479fcf9c737257",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_132940_00.png",
+      "sha256": "c6354666d01c4f32e18cdd3b9bbbbf48ac7f2e389c379c01cca462500418bea5",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_133028_00.png",
+      "sha256": "a069c9b3dce82c936054d5002161ad5526d81bbefc9c312bfe6c49bd11f4e15d",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_133044_00.png",
+      "sha256": "a30e8727d09f723a8ec367d61def95f5ff45f836e14a4e82bfdd47a614aada66",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "ets2_20261127_133050_00.png",
+      "sha256": "9ac564fd9e383e37a0cc7d390eb6c81ec4bd4a350f6dacbfb4a3bd8cc8241f31",
+      "annotation": false
+    },
+    {
+      "vehicle": "Scania Touring HD 13.7m, 6x2 4",
+      "file": "stripe_suggestion.png",
+      "sha256": "c19f56e178e7e3fdf9b5b9a4b9f4fadc219184c93263ca2cc92c3a4c358fb642",
+      "annotation": true
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_133939_00.png",
+      "sha256": "e44ca192de0a540f3ffc63ccac950687dc1cecc6a4155e9b3e9f25c974062ad9",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_133956_00.png",
+      "sha256": "4947dcd5aeebcddf94e46a3ea6601efc995a54034118c1fa8af97a933cb8d1d2",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_134001_00.png",
+      "sha256": "7c2b6ba0a97e2c5340be176d82101ebe07e50b9b1a6cca6bc887ca204ced030a",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_134016_00.png",
+      "sha256": "33a6fdaab299460c79f1fb24dabc0e824921130fdefd6fd68c3c9c6526a1febe",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_134023_00.png",
+      "sha256": "e6c70879492e9b669787c7f1f62e2f29c70af8b37b34c37df9489d1e58718dd0",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_134030_00.png",
+      "sha256": "ad0bcc27da51bc359fce9c204d3253b73fe801ccf8aaddc96430d20921ec70f8",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo 9700 DD 4.0m",
+      "file": "ets2_20261127_134040_00.png",
+      "sha256": "17453cb0d6f25603d74040864c1c11c9ee45dec0c66aba40dda2348736b0afe8",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135303_00.png",
+      "sha256": "8ddd5426a9acd0e72938cf4c26b7d8f724f38211fc1a121769a2407c5a2d975e",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135310_00.png",
+      "sha256": "77a4b0e73bd04852f0250c71bb9dd17dbffbcece963cc9ff93f04e1fc6b352e2",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135317_00.png",
+      "sha256": "0c1c7bf093b678fdb0f7a77aed5314f42627ad52929286bbde96af4dbee3c775",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135338_00.png",
+      "sha256": "ff8db1a18b87c83c07a18eefd470c4f9abf6203a255938538eaaaa04dcd725cf",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135349_00.png",
+      "sha256": "e151c6304deea7234124568caf193e156dd8b76b8b79768ea5f6fd66a30b587f",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135401_00.png",
+      "sha256": "6644ea0929e61abab7b09fe114c6c4318f2a2d81f728b0d0ece803b76af6f2de",
+      "annotation": false
+    },
+    {
+      "vehicle": "Volvo FH6 Asero Globetrotter XL",
+      "file": "ets2_20261127_135457_00.png",
+      "sha256": "b5726fd20f136102b16f5bdc006a7a9345f1a132ebc11c9b09bda7e8170f711b",
+      "annotation": false
+    }
+  ]
+}

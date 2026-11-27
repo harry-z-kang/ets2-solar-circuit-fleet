@@ -11,7 +11,7 @@ These are crops of the supplied paint maps, not game renders. Eight new cabin ma
 ## Install and upgrade
 
 1. Deactivate/remove older Solar Circuit truck modules, including version 0.3, from your active ETS2 mod folder.
-2. Copy [current truck module](../mods/gtsr-trucks-v0.5.scs) into that folder, usually `Documents\Euro Truck Simulator 2\mod`, and enable it in Mod Manager. Use only one truck-module version.
+2. Copy [current truck module](../mods/gtsr-trucks-v0.5.1.scs) into that folder, usually `Documents\Euro Truck Simulator 2\mod`, and enable it in Mod Manager. Use only one truck-module version.
 3. Configure a supported standard SCS 8×4 chassis and its compatible cabin. Choose **Solar Circuit - Heavy Support 8x4** at the paint shop. Price: EUR 1,000; unlock level: 0. The vehicle's own cabin/chassis unlock requirements still apply.
 4. Inspect both sides, equipment tower, roof, skirts and rear painted parts in daylight before applying across the fleet.
 

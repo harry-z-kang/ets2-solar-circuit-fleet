@@ -54,7 +54,7 @@ python source/rebuild.py --texture volvo-9700-dd --texture trk_volvo_fh_2024_cab
 The Alumni and Heavy Support FH6 sources are separate so that their role labels remain distinct. To regenerate this focused recipe from the included maps and current modules:
 
 ```sh
-python source/build_focused_fix.py --truck-seed mods/gtsr-trucks-v0.5.scs --coach-seed mods/gtsr-coaches-v0.2.scs
+python source/build_focused_fix.py --truck-seed mods/gtsr-trucks-v0.5.1.scs --coach-seed mods/gtsr-coaches-v0.2.1.scs
 ```
 
 This overwrites the targeted lettering/layout edits. Use `rebuild.py` to retain manual edits. Optional `--templates /path/to/templates.zip --qa-dir /private/qa` checks the pinned Paint Job Packer v2.1.3 archive and creates private overlays. Template member hashes are in [focused-fix-template-hashes.json](../source/focused-fix-template-hashes.json). Run this focused recipe last when reconstructing earlier expansion stages.

@@ -1,0 +1,423 @@
+{
+  "version": "0.5.1",
+  "blender_version": "5.3.0",
+  "engine": "Cycles CPU",
+  "scene_count": 4,
+  "render_count": 32,
+  "visual_views_reviewed": 32,
+  "native_game_captures_reviewed": 28,
+  "stripe_annotations_reviewed": 2,
+  "saved_scene_checks": {
+    "blender_version": "5.3.0",
+    "checks_passed": 40,
+    "checks_total": 40,
+    "failures": [],
+    "checks": [
+      {
+        "check": "fh6-van-leer saved cameras",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV aero_1",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV chs_8x4_10",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV digital_2",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV globe_xl_aero_2024_1",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV paint_aero_0",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV painted_0",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV stock_8x_0",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV stock_aero_1",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint UV stock_aero_6",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer paint images loaded",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer external paint hashes",
+        "passed": true
+      },
+      {
+        "check": "fh6-van-leer complete renders",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 saved cameras",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint UV cab_139h6_6",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint UV doors_139h6_4",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint UV standard_0",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint UV standard_paint_0",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint UV standard_paint_0.001",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 paint images loaded",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 external paint hashes",
+        "passed": true
+      },
+      {
+        "check": "man-lions-coach-139 complete renders",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 saved cameras",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint UV cab_137h6_9",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint UV doors_7",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint UV standard_paint_0.001",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint UV standard_paint_2",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint UV standard_paint_2.001",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 paint images loaded",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 external paint hashes",
+        "passed": true
+      },
+      {
+        "check": "scania-touring-137 complete renders",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd saved cameras",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint UV cab_143d6_12",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint UV doors_1",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint UV standard_paint_0",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint UV standard_paint_1.002",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint UV standard_paint_2.001",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd paint images loaded",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd external paint hashes",
+        "passed": true
+      },
+      {
+        "check": "volvo-9700-dd complete renders",
+        "passed": true
+      }
+    ]
+  },
+  "vehicles": [
+    {
+      "vehicle": "fh6-van-leer",
+      "blender_version": "5.3.0",
+      "views": [
+        {
+          "view": "left",
+          "path": "left.png",
+          "sha256": "98dd6ad492e373be5e2a8d1e917eff8458070f979cfef9bcab02a004f553424e"
+        },
+        {
+          "view": "right",
+          "path": "right.png",
+          "sha256": "0d44f8ff4c184199779b40ae287adf251d91a6377feb07c6f2226bae12fed52b"
+        },
+        {
+          "view": "front",
+          "path": "front.png",
+          "sha256": "589d07c6f611935cd1cdc43ae08587619842c8572d3f1afe671c89054e1d291a"
+        },
+        {
+          "view": "rear",
+          "path": "rear.png",
+          "sha256": "bb01bdb17fccda818e2dc71073a3b29ca26814e696b7d4e03546d5d5ec0f082f"
+        },
+        {
+          "view": "front-left",
+          "path": "front-left.png",
+          "sha256": "b5cb21ac04dc293877f631a906079e284d750e69701b1fdc13ec3058219ecbed"
+        },
+        {
+          "view": "front-right",
+          "path": "front-right.png",
+          "sha256": "944bcefc3dadda07d41c5a44eff90f607afd63737675f2872f4e4c909ed4348f"
+        },
+        {
+          "view": "rear-right",
+          "path": "rear-right.png",
+          "sha256": "a807f80a15a61d2cec4b7a456306b2f6d6026330ab890d73f132dc75b985bfa8"
+        },
+        {
+          "view": "roof",
+          "path": "roof.png",
+          "sha256": "8db4187e4f903b8754bf7661e015423452ecc0c705367b038debe4cd1a6c064b"
+        }
+      ],
+      "model_count": 27,
+      "paint_textures": {
+        "trk_volvo_fh_2024_cabin_b_aero": {
+          "file": "trk_volvo_fh_2024_cabin_b_aero.dds",
+          "sha256": "ff64b19ddf74978efa1774ef2d9927008957e3e6058dad01a95c4a335d36e284"
+        },
+        "vl_fh6_aero_side": {
+          "file": "vl_fh6_aero_side.dds",
+          "sha256": "10d7f886d7ce8345c5195e5eb4a124199e3ce3aad78dd749fd6fc3b6ca896428"
+        },
+        "vl_fh6_8x4_roof": {
+          "file": "vl_fh6_8x4_roof.dds",
+          "sha256": "de7ffb7004d3eec5304a4d3391dccdc45c9e90a1e829ad489ac17f14ba8f57cd"
+        },
+        "vl_fh6_8x4_chassis": {
+          "file": "vl_fh6_8x4_chassis.dds",
+          "sha256": "f72935f79f50c65d8edf69de9d5fcf94eea1ad9645793f2a3c5ec2f198d8428e"
+        },
+        "solid-navy": {
+          "file": "solid-navy.dds",
+          "sha256": "ae7ef38308bbbac614da343f22909575d1c32fbdb37af257c094a953112822d4"
+        },
+        "solid-white": {
+          "file": "solid-white.dds",
+          "sha256": "58e07d1d2252d3c7304ab84f471f3f88ae43d2afd7278cb6104704d5e7593a89"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "vehicle": "man-lions-coach-139",
+      "blender_version": "5.3.0",
+      "views": [
+        {
+          "view": "left",
+          "path": "left.png",
+          "sha256": "b5b1693bec4d6a558129788fa40feefc4e64520c15146d76dfd1256f9c333271"
+        },
+        {
+          "view": "right",
+          "path": "right.png",
+          "sha256": "8fadf1762f6d5695fa847ffbf7c0ab8208439f73344d9076f9c7d1e7752cc07b"
+        },
+        {
+          "view": "front",
+          "path": "front.png",
+          "sha256": "a290af6a5d061975f407de4cdb8c310fb5804f560f21b53fcc5f79ee88764e5a"
+        },
+        {
+          "view": "rear",
+          "path": "rear.png",
+          "sha256": "868c1bd85c99f96ba9a3b8e9a44d23cc80a3def09a08fa810369e58cd0b78d73"
+        },
+        {
+          "view": "front-left",
+          "path": "front-left.png",
+          "sha256": "77153a6d57d430c4cf770c402488482f3f1bb7aca57d4995eaa05b9066ab53e2"
+        },
+        {
+          "view": "front-right",
+          "path": "front-right.png",
+          "sha256": "d50031926f67edff23a3c66498a583d997ea801b85655de3e40f6bd26ca1e675"
+        },
+        {
+          "view": "rear-right",
+          "path": "rear-right.png",
+          "sha256": "7e69627007931b5f70af94efc17384e1ccc1ee78940168e260b09f3462a0984a"
+        },
+        {
+          "view": "roof",
+          "path": "roof.png",
+          "sha256": "513d8a6cb2f047b2f55459e46bc60ddb84e27b5aa90356fcca55f7d8bc74e567"
+        }
+      ],
+      "model_count": 20,
+      "paint_textures": {
+        "man-lions-coach-139": {
+          "file": "man-lions-coach-139.dds",
+          "sha256": "4949937384618ed5a72a97463412cc1abf323bc00d5f79ccd1416daee3c19835"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "vehicle": "scania-touring-137",
+      "blender_version": "5.3.0",
+      "views": [
+        {
+          "view": "left",
+          "path": "left.png",
+          "sha256": "a3b9eb9856274224ec0d0b3c068e0e671c15d7605588b7d241766a924021b962"
+        },
+        {
+          "view": "right",
+          "path": "right.png",
+          "sha256": "c589ddd5070ff63cecd6aa9209fad3c841736fa31d6011c94a7cba7002b86528"
+        },
+        {
+          "view": "front",
+          "path": "front.png",
+          "sha256": "fb04bc08359643d78de2e239a6b9c15b94532134fe2a5ae34a3057b7cd6cbc3d"
+        },
+        {
+          "view": "rear",
+          "path": "rear.png",
+          "sha256": "1d40623032d84197c45674ef1a07ea0339c71d22989283f83858816714a442d5"
+        },
+        {
+          "view": "front-left",
+          "path": "front-left.png",
+          "sha256": "146c6f678b8a66d8e8b97d91c53a1ba94b0d430f5bd825db097bf307adb54372"
+        },
+        {
+          "view": "front-right",
+          "path": "front-right.png",
+          "sha256": "ec64a2b9bb3d306f8f63308d1adcca0f96726e6d498473d9abece391c3845e3e"
+        },
+        {
+          "view": "rear-right",
+          "path": "rear-right.png",
+          "sha256": "4710c52ab6a3fa87b3089773c44a03966a2f87a6c949562c6c70e3f43f3e2c97"
+        },
+        {
+          "view": "roof",
+          "path": "roof.png",
+          "sha256": "3c5637d76296e8dac88c87f3a16465a9e4c638f826ef0f33d7b4f78b101f6a8c"
+        }
+      ],
+      "model_count": 20,
+      "paint_textures": {
+        "scania-touring-137": {
+          "file": "scania-touring-137.dds",
+          "sha256": "420a02c96c76ac2b72910f06416a2d57c1c87c4c9397e3099c4d603c8df9807b"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "vehicle": "volvo-9700-dd",
+      "blender_version": "5.3.0",
+      "views": [
+        {
+          "view": "left",
+          "path": "left.png",
+          "sha256": "f323c33b93456610df1b25f26377073059210b629f63ead8b43c3b2bc3ac38d6"
+        },
+        {
+          "view": "right",
+          "path": "right.png",
+          "sha256": "34da166a0338a174741182d2f72698ef532498a77284a627504e61e92b25d013"
+        },
+        {
+          "view": "front",
+          "path": "front.png",
+          "sha256": "a54299d2a47f6cdfd1afb8ba3ccbb9722ee44cb77db405e5a49753b091a0b9a4"
+        },
+        {
+          "view": "rear",
+          "path": "rear.png",
+          "sha256": "857cc878c7de1c07c88b9db0e948eab16b176c13a07470d258eb9449f87698b1"
+        },
+        {
+          "view": "front-left",
+          "path": "front-left.png",
+          "sha256": "c3476d27d40bd4e3b9bdf9e8faf3a752aa4a41fdcaacd9321e12e0e94a1e7d52"
+        },
+        {
+          "view": "front-right",
+          "path": "front-right.png",
+          "sha256": "d9d80ce2473427da11ae274834062041c2326ae362550c6789948187dda00715"
+        },
+        {
+          "view": "rear-right",
+          "path": "rear-right.png",
+          "sha256": "44cfda79658f47f86dcd5627294a8e1524ef6ed0a03ae5cf1873587ecdde2c3f"
+        },
+        {
+          "view": "roof",
+          "path": "roof.png",
+          "sha256": "c7e2793cc0f1529f78c219a80e57af14f7eb885f25a15a759eee17280d4a6772"
+        }
+      ],
+      "model_count": 20,
+      "paint_textures": {
+        "volvo-9700-dd": {
+          "file": "volvo-9700-dd.dds",
+          "sha256": "5227823bf8a6d04be556d02bcef78238a6abcd22abdddaff2df668bfe2ab27b6"
+        }
+      },
+      "warnings": []
+    }
+  ],
+  "all_geometry_and_scenes_private": true,
+  "corrected_build_in_game_tested": false,
+  "limits": [
+    "Approximate SCS materials and studio lighting.",
+    "Opaque glazing; interior and unconfigured accessories omitted.",
+    "Reference wheels, not saved-profile inventory."
+  ]
+}

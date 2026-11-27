@@ -1,0 +1,206 @@
+{
+  "man-lions-coach-139": {
+    "name": "man-lions-coach-139",
+    "main": "vehicle/bus/man_lions_24/cabin/cab_139h6.pim",
+    "parts": [
+      {
+        "model": "vehicle/bus/man_lions_24/cabin/cab_139h6.pim",
+        "locator": null,
+        "texture": "man-lions-coach-139"
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/cabin/doors_139h6.pim",
+        "locator": null,
+        "texture": "man-lions-coach-139"
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/accessory/f_bumper/standard_paint.pim",
+        "locator": "f_bumper",
+        "texture": "man-lions-coach-139"
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/accessory/r_bumper/standard_paint.pim",
+        "locator": "r_bumper",
+        "texture": "man-lions-coach-139"
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/accessory/r_panel/standard.pim",
+        "locator": "r_panel",
+        "texture": "man-lions-coach-139"
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/chassis/chs_139_6x24.pim",
+        "texture": null,
+        "wheel_root": true
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/cabin/windscreen.pim",
+        "texture": null
+      },
+      {
+        "model": "vehicle/bus/man_lions_24/accessory/mirror/standard_plastic.pim",
+        "locator": "mirror",
+        "texture": null
+      }
+    ]
+  },
+  "scania-touring-137": {
+    "name": "scania-touring-137",
+    "main": "vehicle/bus/scania_touring_23/cabin/cab_137h6.pim",
+    "parts": [
+      {
+        "model": "vehicle/bus/scania_touring_23/cabin/cab_137h6.pim",
+        "locator": null,
+        "texture": "scania-touring-137"
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/cabin/doors.pim",
+        "locator": null,
+        "texture": "scania-touring-137"
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/accessory/f_bumper/standard_paint.pim",
+        "locator": "f_bumper",
+        "texture": "scania-touring-137"
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/accessory/r_bumper/standard_paint.pim",
+        "locator": "r_bumper",
+        "texture": "scania-touring-137"
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/accessory/r_panel/standard_paint.pim",
+        "locator": "r_panel",
+        "texture": "scania-touring-137"
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/chassis/chs_137_6x24.pim",
+        "texture": null,
+        "wheel_root": true
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/cabin/windscreen.pim",
+        "texture": null
+      },
+      {
+        "model": "vehicle/bus/scania_touring_23/accessory/mirror/standard_plastic.pim",
+        "locator": "mirror",
+        "texture": null
+      }
+    ]
+  },
+  "volvo-9700-dd": {
+    "name": "volvo-9700-dd",
+    "main": "vehicle/bus/volvo_9700_23/cabin/cab_143d6.pim",
+    "parts": [
+      {
+        "model": "vehicle/bus/volvo_9700_23/cabin/cab_143d6.pim",
+        "locator": null,
+        "texture": "volvo-9700-dd"
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/cabin/doors.pim",
+        "locator": null,
+        "texture": "volvo-9700-dd"
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/accessory/f_bumper/standard_paint.pim",
+        "locator": "f_bumper",
+        "texture": "volvo-9700-dd"
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/accessory/r_bumper/standard_paint.pim",
+        "locator": "r_bumper",
+        "texture": "volvo-9700-dd"
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/accessory/r_panel/standard_paint.pim",
+        "locator": "r_panel",
+        "texture": "volvo-9700-dd"
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/chassis/chs_143_6x24.pim",
+        "texture": null,
+        "wheel_root": true
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/cabin/windscreen.pim",
+        "texture": null
+      },
+      {
+        "model": "vehicle/bus/volvo_9700_23/accessory/mirror/standard_plastic.pim",
+        "locator": "mirror",
+        "texture": null
+      }
+    ]
+  },
+  "fh6-van-leer": {
+    "name": "FH6 Aero XL Van Leer 8x4",
+    "main": "vehicle/truck/volvo_fh_2024/cabin/globe_xl_aero_2024.pim",
+    "parts": [
+      {
+        "model": "vehicle/truck/volvo_fh_2024/cabin/globe_xl_aero_2024.pim",
+        "texture": "trk_volvo_fh_2024_cabin_b_aero"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/s_deflector/aero.pim",
+        "locator": "s_deflector",
+        "texture": "vl_fh6_aero_side",
+        "wheel_root": false
+      },
+      {
+        "model": "vehicle/truck/volvo_fh16_2012/accessory/r_deflector/stock_8x.pim",
+        "locator": "r_deflector",
+        "texture": "vl_fh6_8x4_roof",
+        "wheel_root": false
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/chassis/chs_8x4.pim",
+        "locator": null,
+        "texture": "vl_fh6_8x4_chassis",
+        "wheel_root": true
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_bumper/stock_aero.pim",
+        "locator": "f_bumper",
+        "locator_root": "chassis",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2021/accessory/f_fender_chs/stock_2021.pim",
+        "locator": "f_fender_chs",
+        "locator_root": "chassis",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_inlay_chs/painted.pim",
+        "locator": "f_inlay_chs",
+        "locator_root": "chassis",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/mirror/digital.pim",
+        "locator": "mirror",
+        "locator_root": "main",
+        "texture": "solid-white"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_intake_cab/paint_aero.pim",
+        "locator": "f_intake_cab",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_light_chs/stock_aero.pim",
+        "locator": "f_light_chs",
+        "locator_root": "chassis",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_intake_chs/plastic_aero.pim",
+        "locator": "f_intake_chs",
+        "locator_root": "chassis",
+        "texture": "solid-navy"
+      }
+    ]
+  }
+}

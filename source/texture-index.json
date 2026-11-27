@@ -118,7 +118,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/scania.touring_23/Body A (HD 13.7 m, 6x2_4).dds",
-    "scope": "Panel continuity / Aurora / Van Leer 0.5"
+    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
   },
   {
     "name": "scania-touring-129",
@@ -139,7 +139,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/man.lions_24/Body A (L 13.9 m).dds",
-    "scope": "Panel continuity / Aurora / Van Leer 0.5"
+    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
   },
   {
     "name": "man-lions-coach-121",
@@ -160,7 +160,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/volvo.9700_23/Body A (DD 4.0 m).dds",
-    "scope": "Panel continuity / Aurora / Van Leer 0.5"
+    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
   },
   {
     "name": "solid-navy",
@@ -412,7 +412,7 @@
     "vehicle_id": "volvo.fh_2024",
     "cabin": "Aero Globetrotter XL",
     "mount": "dlc_volvo_fh_2024",
-    "scope": "Panel continuity / Aurora / Van Leer 0.5"
+    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
   },
   {
     "name": "trk_volvo_fh_2024_cabin_c",

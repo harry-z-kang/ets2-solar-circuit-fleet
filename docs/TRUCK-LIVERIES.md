@@ -11,7 +11,7 @@ The preview shows actual paint regions on schematic cab illustrations. It is not
 ## Install or upgrade
 
 1. Remove or deactivate older truck-module versions from your ETS2 mod folder.
-2. Copy [current truck module](../mods/gtsr-trucks-v0.5.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
+2. Copy [current truck module](../mods/gtsr-trucks-v0.5.1.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
 3. Select **Solar Circuit - Alumni Support** in the matching truck's paint shop. Price: EUR 1,000; unlock level: 0.
 4. Check both sides, front, rear, roof, seams and painted accessories on each cabin/chassis combination before applying it across the fleet.
 
