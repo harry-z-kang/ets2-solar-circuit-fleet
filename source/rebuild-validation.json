@@ -1,0 +1,27 @@
+{
+  "test": "Modified gold in temporary copies of three SVGs, rebuilt them, verified the expected DDS replacements and unchanged unrelated members. Release artwork was not altered.",
+  "cases": [
+    {
+      "module": "gtsr-trucks-v0.2.scs",
+      "entry": "base/gtsr_solar/scania-s-high-roof.dds",
+      "replacement_applied": true,
+      "changed_from_original": true
+    },
+    {
+      "module": "gtsr-trucks-v0.2.scs",
+      "entry": "dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.dds",
+      "replacement_applied": true,
+      "changed_from_original": true
+    },
+    {
+      "module": "gtsr-trailers-v0.1.scs",
+      "entry": "gtsr_solar/scs-box-dry-freighter-long.dds",
+      "replacement_applied": true,
+      "changed_from_original": true
+    },
+    {
+      "check": "Non-target archive entries preserved filenames, sizes and CRCs",
+      "passed": true
+    }
+  ]
+}

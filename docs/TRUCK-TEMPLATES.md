@@ -2,7 +2,7 @@
 
 Checked 26 November 2026. This reference covers **14 SCS truck models and 37 cabin layouts**, with **56 verified DDS templates** in total: 37 main cabin maps plus 19 auxiliary maps. All main cabin maps are **4096 × 4096**.
 
-These are source templates for extending the fleet theme. They are not additional finished Solar Circuit paint jobs; the existing Scania, trailer and coach modules keep their current scope.
+These source templates now underpin the [version 0.2 truck liveries](TRUCK-LIVERIES.md). The reference below records the author’s source templates and metadata; the livery build also checks runtime cabin IDs against the installed game.
 
 ## Downloads
 

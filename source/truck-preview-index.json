@@ -1,0 +1,156 @@
+[
+  {
+    "model": "Volvo FH3",
+    "vehicle": "volvo.fh16",
+    "texture": "trk_volvo_fh16_cabin_a",
+    "crop": [
+      80,
+      300,
+      1140,
+      1400
+    ]
+  },
+  {
+    "model": "Volvo FH4",
+    "vehicle": "volvo.fh16_2012",
+    "texture": "trk_volvo_fh16_2012_cabin_a",
+    "crop": [
+      60,
+      1730,
+      1380,
+      3400
+    ]
+  },
+  {
+    "model": "Volvo FH5",
+    "vehicle": "volvo.fh_2021",
+    "texture": "trk_volvo_fh_2021_cabin_a",
+    "crop": [
+      60,
+      1730,
+      1380,
+      3400
+    ]
+  },
+  {
+    "model": "Volvo FH6",
+    "vehicle": "volvo.fh_2024",
+    "texture": "trk_volvo_fh_2024_cabin_a",
+    "crop": [
+      60,
+      1730,
+      1380,
+      3400
+    ]
+  },
+  {
+    "model": "Iveco Stralis",
+    "vehicle": "iveco.stralis",
+    "texture": "trk_iveco_stralis_cabin_a",
+    "crop": [
+      150,
+      120,
+      1100,
+      1380
+    ]
+  },
+  {
+    "model": "Iveco Stralis Hi-Way",
+    "vehicle": "iveco.hiway",
+    "texture": "trk_iveco_hiway_cabin_a",
+    "crop": [
+      50,
+      220,
+      1140,
+      1420
+    ]
+  },
+  {
+    "model": "Iveco S-Way",
+    "vehicle": "iveco.sway",
+    "texture": "trk_iveco_sway_cabin_a",
+    "crop": [
+      40,
+      1950,
+      1400,
+      3650
+    ]
+  },
+  {
+    "model": "MAN TGX Euro 5",
+    "vehicle": "man.tgx",
+    "texture": "trk_man_tgx_cabin_a",
+    "crop": [
+      60,
+      200,
+      1090,
+      1240
+    ]
+  },
+  {
+    "model": "MAN TGX Euro 6",
+    "vehicle": "man.tgx_euro6",
+    "texture": "trk_man_tgx_euro6_cabin_a",
+    "crop": [
+      100,
+      2150,
+      1470,
+      3580
+    ]
+  },
+  {
+    "model": "MAN TGX",
+    "vehicle": "man.tgx_2020",
+    "texture": "trk_man_tgx_2020_cabin_a",
+    "crop": [
+      30,
+      1530,
+      1390,
+      3090
+    ]
+  },
+  {
+    "model": "Renault Magnum",
+    "vehicle": "renault.magnum",
+    "texture": "trk_renault_magnum_cabin_a",
+    "crop": [
+      40,
+      300,
+      1130,
+      1350
+    ]
+  },
+  {
+    "model": "Renault Premium",
+    "vehicle": "renault.premium",
+    "texture": "trk_renault_premium_cabin_a",
+    "crop": [
+      130,
+      150,
+      1130,
+      1340
+    ]
+  },
+  {
+    "model": "Renault T",
+    "vehicle": "renault.t",
+    "texture": "trk_renault_t_cabin_a",
+    "crop": [
+      330,
+      130,
+      1390,
+      1470
+    ]
+  },
+  {
+    "model": "Renault E-Tech T",
+    "vehicle": "renault.etech_t",
+    "texture": "trk_renault_etech_t_cabin_a",
+    "crop": [
+      330,
+      130,
+      1390,
+      1470
+    ]
+  }
+]

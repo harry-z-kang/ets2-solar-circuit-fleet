@@ -40,7 +40,11 @@ def main():
         print('Rebuilt',f.stem,w,h)
     for src in sorted((root/'mods').glob('*.scs')):
         with zipfile.ZipFile(src) as zin,zipfile.ZipFile(output/'mods'/src.name,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as zout:
-            for n in zin.namelist():zout.writestr(n,replacements.get(n,zin.read(n)))
+            for n in zin.namelist():
+                first,_,rest=n.partition('/')
+                virtual=rest if first=='base' or first.startswith('dlc_') else n
+                data=replacements[virtual] if virtual in replacements else zin.read(n)
+                zout.writestr(n,data)
     print('Updated modules:',output/'mods')
     print('Install one copy of each module: originals OR rebuilt files. Check the result in game.')
 

@@ -1,0 +1,436 @@
+{
+  "version": "0.2.0",
+  "additional_models": 14,
+  "additional_cabins": 37,
+  "additional_textures": 56,
+  "truck_models_total": 15,
+  "truck_cabins_total": 39,
+  "conditional_mounts": {
+    "volvo.fh_2021": "dlc_volvo_fh_2021",
+    "volvo.fh_2024": "dlc_volvo_fh_2024",
+    "iveco.sway": "dlc_iveco_sway",
+    "man.tgx_2020": "dlc_man_tgx_2020",
+    "renault.etech_t": "dlc_renault_etech_t"
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "volvo.fh16",
+      "name": "Volvo FH3",
+      "mount": "base",
+      "fleet_number": "TK-02",
+      "cabin_count": 3,
+      "template_count": 3,
+      "cabins": [
+        {
+          "name": "Globetrotter XL",
+          "ids": [
+            "l2h3"
+          ],
+          "texture": "trk_volvo_fh16_cabin_a"
+        },
+        {
+          "name": "Globetrotter",
+          "ids": [
+            "l2h2"
+          ],
+          "texture": "trk_volvo_fh16_cabin_b"
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "l2h1"
+          ],
+          "texture": "trk_volvo_fh16_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "volvo.fh16_2012",
+      "name": "Volvo FH4",
+      "mount": "base",
+      "fleet_number": "TK-03",
+      "cabin_count": 3,
+      "template_count": 5,
+      "cabins": [
+        {
+          "name": "Globetrotter XL",
+          "ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ],
+          "texture": "trk_volvo_fh16_2012_cabin_a"
+        },
+        {
+          "name": "Globetrotter",
+          "ids": [
+            "l2h2"
+          ],
+          "texture": "trk_volvo_fh16_2012_cabin_b"
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "l2h1"
+          ],
+          "texture": "trk_volvo_fh16_2012_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 2
+    },
+    {
+      "vehicle_id": "volvo.fh_2021",
+      "name": "Volvo FH5",
+      "mount": "dlc_volvo_fh_2021",
+      "fleet_number": "TK-04",
+      "cabin_count": 3,
+      "template_count": 5,
+      "cabins": [
+        {
+          "name": "Globetrotter XL",
+          "ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ],
+          "texture": "trk_volvo_fh_2021_cabin_a"
+        },
+        {
+          "name": "Globetrotter",
+          "ids": [
+            "l2h2"
+          ],
+          "texture": "trk_volvo_fh_2021_cabin_b"
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "l2h1"
+          ],
+          "texture": "trk_volvo_fh_2021_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 2
+    },
+    {
+      "vehicle_id": "volvo.fh_2024",
+      "name": "Volvo FH6",
+      "mount": "dlc_volvo_fh_2024",
+      "fleet_number": "TK-05",
+      "cabin_count": 8,
+      "template_count": 11,
+      "cabins": [
+        {
+          "name": "Globetrotter XXL",
+          "ids": [
+            "l3h3",
+            "l3h3_8x4"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_a"
+        },
+        {
+          "name": "Aero Globetrotter XXL",
+          "ids": [
+            "l3h3_aero",
+            "l3h3_8x4_a"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_a_aero"
+        },
+        {
+          "name": "Globetrotter XL",
+          "ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_b"
+        },
+        {
+          "name": "Aero Globetrotter XL",
+          "ids": [
+            "l2h3_aero",
+            "l2h3_8x4_a"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_b_aero"
+        },
+        {
+          "name": "Globetrotter",
+          "ids": [
+            "l2h2"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_c"
+        },
+        {
+          "name": "Aero Globetrotter",
+          "ids": [
+            "l2h2_aero"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_c_aero"
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "l2h1"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_d"
+        },
+        {
+          "name": "Aero Sleeper",
+          "ids": [
+            "l2h1_aero"
+          ],
+          "texture": "trk_volvo_fh_2024_cabin_d_aero"
+        }
+      ],
+      "auxiliary_map_count": 3
+    },
+    {
+      "vehicle_id": "iveco.stralis",
+      "name": "Iveco Stralis",
+      "mount": "base",
+      "fleet_number": "TK-06",
+      "cabin_count": 3,
+      "template_count": 3,
+      "cabins": [
+        {
+          "name": "Active Space Super",
+          "ids": [
+            "as_higher"
+          ],
+          "texture": "trk_iveco_stralis_cabin_a"
+        },
+        {
+          "name": "Active Super",
+          "ids": [
+            "at_higher"
+          ],
+          "texture": "trk_iveco_stralis_cabin_b"
+        },
+        {
+          "name": "Active Space",
+          "ids": [
+            "at"
+          ],
+          "texture": "trk_iveco_stralis_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "iveco.hiway",
+      "name": "Iveco Stralis Hi-Way",
+      "mount": "base",
+      "fleet_number": "TK-07",
+      "cabin_count": 1,
+      "template_count": 1,
+      "cabins": [
+        {
+          "name": "Hi-Way",
+          "ids": [
+            "hiway"
+          ],
+          "texture": "trk_iveco_hiway_cabin_a"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "iveco.sway",
+      "name": "Iveco S-Way",
+      "mount": "dlc_iveco_sway",
+      "fleet_number": "TK-08",
+      "cabin_count": 1,
+      "template_count": 2,
+      "cabins": [
+        {
+          "name": "Active Space",
+          "ids": [
+            "as"
+          ],
+          "texture": "trk_iveco_sway_cabin_a"
+        }
+      ],
+      "auxiliary_map_count": 1
+    },
+    {
+      "vehicle_id": "man.tgx",
+      "name": "MAN TGX Euro 5",
+      "mount": "base",
+      "fleet_number": "TK-09",
+      "cabin_count": 3,
+      "template_count": 3,
+      "cabins": [
+        {
+          "name": "XXL",
+          "ids": [
+            "xxl_cab"
+          ],
+          "texture": "trk_man_tgx_cabin_a"
+        },
+        {
+          "name": "XLX",
+          "ids": [
+            "xlx_cab"
+          ],
+          "texture": "trk_man_tgx_cabin_b"
+        },
+        {
+          "name": "XL",
+          "ids": [
+            "xl_cab"
+          ],
+          "texture": "trk_man_tgx_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "man.tgx_euro6",
+      "name": "MAN TGX Euro 6",
+      "mount": "base",
+      "fleet_number": "TK-10",
+      "cabin_count": 3,
+      "template_count": 8,
+      "cabins": [
+        {
+          "name": "XXL",
+          "ids": [
+            "xxl_cab"
+          ],
+          "texture": "trk_man_tgx_euro6_cabin_a"
+        },
+        {
+          "name": "XLX",
+          "ids": [
+            "xlx_cab"
+          ],
+          "texture": "trk_man_tgx_euro6_cabin_b"
+        },
+        {
+          "name": "XL",
+          "ids": [
+            "xl_cab"
+          ],
+          "texture": "trk_man_tgx_euro6_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 5
+    },
+    {
+      "vehicle_id": "man.tgx_2020",
+      "name": "MAN TGX",
+      "mount": "dlc_man_tgx_2020",
+      "fleet_number": "TK-11",
+      "cabin_count": 3,
+      "template_count": 5,
+      "cabins": [
+        {
+          "name": "GX",
+          "ids": [
+            "gx"
+          ],
+          "texture": "trk_man_tgx_2020_cabin_a"
+        },
+        {
+          "name": "GM",
+          "ids": [
+            "gm"
+          ],
+          "texture": "trk_man_tgx_2020_cabin_b"
+        },
+        {
+          "name": "GN",
+          "ids": [
+            "gn"
+          ],
+          "texture": "trk_man_tgx_2020_cabin_c"
+        }
+      ],
+      "auxiliary_map_count": 2
+    },
+    {
+      "vehicle_id": "renault.magnum",
+      "name": "Renault Magnum",
+      "mount": "base",
+      "fleet_number": "TK-12",
+      "cabin_count": 1,
+      "template_count": 1,
+      "cabins": [
+        {
+          "name": "Excellence",
+          "ids": [
+            "solo"
+          ],
+          "texture": "trk_renault_magnum_cabin_a"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "renault.premium",
+      "name": "Renault Premium",
+      "mount": "base",
+      "fleet_number": "TK-13",
+      "cabin_count": 2,
+      "template_count": 2,
+      "cabins": [
+        {
+          "name": "High Roof",
+          "ids": [
+            "higher"
+          ],
+          "texture": "trk_renault_premium_cabin_a"
+        },
+        {
+          "name": "Normal Roof",
+          "ids": [
+            "normal"
+          ],
+          "texture": "trk_renault_premium_cabin_b"
+        }
+      ],
+      "auxiliary_map_count": 0
+    },
+    {
+      "vehicle_id": "renault.t",
+      "name": "Renault T",
+      "mount": "base",
+      "fleet_number": "TK-14",
+      "cabin_count": 2,
+      "template_count": 5,
+      "cabins": [
+        {
+          "name": "High Sleeper",
+          "ids": [
+            "high_sleeper"
+          ],
+          "texture": "trk_renault_t_cabin_a"
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "sleeper"
+          ],
+          "texture": "trk_renault_t_cabin_b"
+        }
+      ],
+      "auxiliary_map_count": 3
+    },
+    {
+      "vehicle_id": "renault.etech_t",
+      "name": "Renault E-Tech T",
+      "mount": "dlc_renault_etech_t",
+      "fleet_number": "TK-15",
+      "cabin_count": 1,
+      "template_count": 2,
+      "cabins": [
+        {
+          "name": "Sleeper",
+          "ids": [
+            "sleeper"
+          ],
+          "texture": "trk_renault_etech_t_cabin_a"
+        }
+      ],
+      "auxiliary_map_count": 1
+    }
+  ]
+}

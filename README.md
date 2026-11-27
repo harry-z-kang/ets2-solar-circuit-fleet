@@ -4,13 +4,15 @@ A Georgia Tech Solar Racing inspired personal alumni fleet theme for Euro Truck 
 
 ![Solar Circuit fleet design preview](previews/fleet-preview.png)
 
-**Version 0.1 is an installable first build for testing.** Static checks passed, but the paint jobs have not been tested in an ETS2 game session. Preview drawings are flat design elevations, not game screenshots.
+![Volvo, Iveco, MAN and Renault livery preview](previews/truck-expansion-preview.png)
+
+**Version 0.2 is an installable build for testing.** Static checks passed, but the paint jobs have not been tested in an ETS2 game session. Preview drawings are flat design elevations, not game screenshots.
 
 ## Included paint-job modules
 
 | Module | Vehicles and layouts | Limits |
 | --- | --- | --- |
-| [Scania S trucks](mods/gtsr-trucks-v0.1.scs) | SCS Scania S 2016 High Roof and Normal Roof; painted 4x2 and 6x short/long skirts | Excludes 8x4 and third-party Scania variants |
+| [15-model truck fleet](mods/gtsr-trucks-v0.2.scs) | Scania S plus Volvo, Iveco, MAN and Renault: 39 cabin layouts, including FH6 Aero | [Full coverage and upgrade guide](docs/TRUCK-LIVERIES.md); Scania 8x4 and third-party trucks excluded |
 | [SCS box trailers](mods/gtsr-trailers-v0.1.scs) | Owned curtainsider and dry-freighter maps in Long, Double and B-Double layouts; related bodies assigned the matching dry atlas | Related insulated, refrigerated, side-door and moving-floor variants need individual visual checks |
 | [SCS coaches](mods/gtsr-coaches-v0.1.scs) | MAN Lion's Coach 13.9 m / 12.1 m; Scania Touring HD 13.7 m / 12.9 m; Volvo 9700 DD | Requires SCS Coaches DLC; third-party coaches are not mapped |
 
@@ -18,7 +20,7 @@ A Georgia Tech Solar Racing inspired personal alumni fleet theme for Euro Truck 
 
 1. Download or clone this repository. For an individual module on GitHub, open its file and use **Download raw file**.
 2. Copy the desired `.scs` files from `mods/` into your active ETS2 user-data `mod` folder. On Windows this is usually `Documents\Euro Truck Simulator 2\mod`; OneDrive redirection or a custom `-homedir` can change the location.
-3. Activate the modules in ETS2 Mod Manager. All three can be enabled together.
+3. Activate the modules in ETS2 Mod Manager. All three can be enabled together. When upgrading, remove/deactivate the old truck v0.1 module and enable only truck v0.2.
 4. At the matching vehicle's paint shop, choose **Solar Circuit - Alumni Support**. Price: EUR 1,000; unlock level: 0.
 5. Check both sides, front, rear, roof, seams and painted accessories before applying across your fleet. Use your usual profile backup when testing mods.
 
@@ -27,7 +29,7 @@ See [README.txt](README.txt) for complete instructions. Open [FLEET-GUIDE.html](
 ## Package contents
 
 - `artwork/` — editable SVG and PNG decal masters, fleet numbers, rear panel, solar strip, circuit trace and unchanged source team logo.
-- `textures/` — 19 SVG, PNG and DDS textures: 16 mapped cab/body/skirt maps and three solid fallback colors.
+- `textures/` — 75 SVG, PNG and DDS textures, including 56 new truck cabin/accessory maps and three solid fallback colors.
 - `mods/` — three installable `.scs` archives, compressed as standard ZIP files with their original contents preserved.
 - `previews/` — fleet design board and example texture sheets.
 - `source/` — optional rebuilding utility, dependency list, texture index and validation reports.
@@ -35,9 +37,11 @@ See [README.txt](README.txt) for complete instructions. Open [FLEET-GUIDE.html](
 
 ## Templates for additional truck brands
 
-See the [Volvo, Iveco, MAN and Renault template reference](docs/TRUCK-TEMPLATES.md) for 14 SCS truck models, 37 cabin layouts, download links, exact filenames and verified dimensions. This reference supports future livery work; these brands have not yet been added to the installable truck module.
+See the [Volvo, Iveco, MAN and Renault template reference](docs/TRUCK-TEMPLATES.md) for 14 SCS truck models, 37 cabin layouts, download links, exact filenames and verified dimensions. These brands are now included in the truck module; see the [livery coverage and upgrade guide](docs/TRUCK-LIVERIES.md).
 
 ## Edit and rebuild
+
+The expanded truck module uses conditional DLC sections, supported by the rebuild utility. See [TRUCK-LIVERIES.md](docs/TRUCK-LIVERIES.md) for the template-based generator and layout recipe.
 
 Edit a vehicle SVG in `textures/` at its original canvas size. Keep the team logo proportional. Text uses Arial or a compatible system font; no font files are bundled. Editing a reusable decal master does not automatically change the mapped vehicle SVGs.
 
@@ -58,9 +62,11 @@ The utility writes updated PNG/DDS files and modules under `rebuilt/`, which Git
 
 ## Validation status
 
+The [version 0.2 expansion report](source/expansion-validation.json) records **777/777 static checks passed** for the new truck maps and definitions. All 37 new cabin layouts and 19 auxiliary maps were reviewed against templates. Installed 1.62.3.3 truck DLC definitions were also checked, correcting one FH6 8x4 cabin-ID typo. The editing utility was also verified against base, conditional-DLC and legacy archive entries ([report](source/rebuild-validation.json)). In-game appearance remains untested.
+
 The [original validation report](source/validation.json) records **258/258 static checks passed**: archive integrity, texture paths, image decoding, DDS DXT5/BC3 format and mip chains, dimensions, unit identifiers, UI images and coach dependency. Truck and SCS box assignments were compared with available local ETS2 **1.62.3.3** definitions. Some tuning-DLC assignments and coach definitions follow Paint Job Packer metadata and were not independently verified against extracted DLC files.
 
-[Repository preparation checks](source/repository-validation.json) verify that compressing the `.scs` archives preserved every member's size and CRC. Runtime loading, side reading direction, gloss, seams, model variants, multiplayer and compatibility with other vehicle mods remain unverified.
+[Historical version 0.1 repository preparation checks](source/repository-validation.json) verify that compressing the `.scs` archives preserved every member's size and CRC. Runtime loading, side reading direction, gloss, seams, model variants, multiplayer and compatibility with other vehicle mods remain unverified.
 
 ## Identity and sources
 

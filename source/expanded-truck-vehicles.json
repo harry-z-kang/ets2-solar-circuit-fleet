@@ -1,0 +1,1071 @@
+{
+  "volvo.fh16": {
+    "format_version": 2,
+    "name": "Volvo FH3",
+    "path": "volvo.fh16",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Globetrotter XL",
+        "internal_name": [
+          "l2h3"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Globetrotter",
+        "internal_name": [
+          "l2h2"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "Sleeper",
+        "internal_name": [
+          "l2h1"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Air Filter": [
+        "filter.paint_gl",
+        "filter.paint_glxl",
+        "filter.paint_slep"
+      ],
+      "Bull Bar": [
+        "f_grill.paint1"
+      ],
+      "Light Bar": [
+        "r_grill.paint1",
+        "r_grill.paint1_h1"
+      ],
+      "Sun Visor": [
+        "sunshld.shape2",
+        "sunshld.sunshield01",
+        "sunshld.sunshield02",
+        "sunshld.sunshield03"
+      ],
+      "Mirrors": [
+        "mirror.led3",
+        "mirror.led4",
+        "mirror.shape3",
+        "f_mirror.paint",
+        "f_mirror.paintl",
+        "s_mirror.paint"
+      ],
+      "Rear Bumper": [
+        "r_bumper.shape1",
+        "r_bumper.shape2"
+      ],
+      "Rear Fender": [
+        "r_fender.paint_4x",
+        "r_fender.paint_6x",
+        "r_fendr_top.paint_4x",
+        "r_fendr_top.paint_6x",
+        "r_fendr_top.paint_chr_4x",
+        "r_fendr_top.paint_chr_6x"
+      ],
+      "Chassis Cover": [
+        "r_chs_cover.paint_4x",
+        "r_chs_cover.paint_6x",
+        "r_chs_cover.paint_dia_4x",
+        "r_chs_cover.paint_dia_6x"
+      ],
+      "Rear Exhaust": [
+        "exhaust_m.exh_m_02",
+        "exhaust_m.exh_m_02b"
+      ]
+    }
+  },
+  "volvo.fh16_2012": {
+    "format_version": 2,
+    "name": "Volvo FH4",
+    "path": "volvo.fh16_2012",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Globetrotter XL",
+        "internal_name": [
+          "l2h3",
+          "l2h3_8x4"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Globetrotter",
+        "internal_name": [
+          "l2h2"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "Sleeper",
+        "internal_name": [
+          "l2h1"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sun Visor": [
+        "sunshld.dual",
+        "sunshld.quatro",
+        "sunshld.shape1",
+        "sunshld.shape2",
+        "sunshld.triangle"
+      ],
+      "Chassis Cover": [
+        "r_chs_cover.mix_4x",
+        "r_chs_cover.mix_6x",
+        "r_chs_cover.painted_4x",
+        "r_chs_cover.painted_6x"
+      ],
+      "Rear Exhaust": [
+        "exhaust_m.shape1",
+        "exhaust_m.shape2"
+      ],
+      "Rear Bumper": [
+        "r_bumper.bend",
+        "r_bumper.smoth",
+        "r_bumper.painted"
+      ],
+      "Mirrors": [
+        "f_mirror.painted",
+        "f_mirror.paintedl",
+        "s_mirror.paint",
+        "mirror.chrome_logo",
+        "mirror.chrome_led",
+        "mirror.shape3"
+      ],
+      "Rear Fender": [
+        "r_fender.paint_4x",
+        "r_fendr_top.paint_4x",
+        "r_fendr_top.chrome_p_4x",
+        "r_fender.paint_6x",
+        "r_fendr_top.paint_6x",
+        "r_fendr_top.chrome_p_6x",
+        "r_fender.paint_8x",
+        "r_fendr_top.paint_8x",
+        "r_fendr_top.chrome_p_8x"
+      ],
+      "Bull Bar": [
+        "f_grill.net"
+      ],
+      "Air Filter": [
+        "filter.paint_gl",
+        "filter.paint_glxl",
+        "filter.paint_slep"
+      ],
+      "Sideskirts": [
+        "sideskirt.shape2",
+        "sideskirt.chrome_4x",
+        "sideskirt.chrome_s4x",
+        "sideskirt.stock_6x",
+        "sideskirt.chrome_6x",
+        "sideskirt.chrome_s6x",
+        "f_fender_chs.paint"
+      ],
+      "Side Deflectors (8x)": [
+        "chassis.8x4"
+      ]
+    }
+  },
+  "volvo.fh_2021": {
+    "format_version": 2,
+    "name": "Volvo FH5",
+    "path": "volvo.fh_2021",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Globetrotter XL",
+        "internal_name": [
+          "l2h3",
+          "l2h3_8x4"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Globetrotter",
+        "internal_name": [
+          "l2h2"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "Sleeper",
+        "internal_name": [
+          "l2h1"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sun Visor": [
+        "sunshld.dual",
+        "sunshld.quatro",
+        "sunshld.shape1",
+        "sunshld.shape2",
+        "sunshld.triangle"
+      ],
+      "Chassis Cover": [
+        "r_chs_cover.mix_4x",
+        "r_chs_cover.mix_6x",
+        "r_chs_cover.painted_4x",
+        "r_chs_cover.painted_6x"
+      ],
+      "Rear Exhaust": [
+        "exhaust_m.shape1",
+        "exhaust_m.shape2"
+      ],
+      "Rear Bumper": [
+        "r_bumper.bend",
+        "r_bumper.smoth",
+        "r_bumper.painted"
+      ],
+      "Mirrors": [
+        "f_mirror.painted",
+        "f_mirror.paintedl",
+        "s_mirror.paint",
+        "mirror.chrome_logo",
+        "mirror.chrome_led",
+        "mirror.shape3"
+      ],
+      "Rear Fender": [
+        "r_fender.paint_4x",
+        "r_fendr_top.paint_4x",
+        "r_fendr_top.chrome_p_4x",
+        "r_fender.paint_6x",
+        "r_fendr_top.paint_6x",
+        "r_fendr_top.chrome_p_6x",
+        "r_fender.paint_8x",
+        "r_fendr_top.paint_8x",
+        "r_fendr_top.chrome_p_8x"
+      ],
+      "Bull Bar": [
+        "f_grill.net"
+      ],
+      "Air Filter": [
+        "filter.paint_h3",
+        "filter.paint_h2",
+        "filter.paint_h1"
+      ],
+      "Sideskirts": [
+        "sideskirt.stock_4x_a",
+        "sideskirt.chrome_4x",
+        "sideskirt.chrome_s4x",
+        "sideskirt.stock_6x_a",
+        "sideskirt.chrome_6x",
+        "sideskirt.chrome_s6x",
+        "f_fender_chs.paint"
+      ],
+      "Side Deflectors (8x)": [
+        "chassis.8x4"
+      ]
+    }
+  },
+  "volvo.fh_2024": {
+    "format_version": 2,
+    "name": "Volvo FH6",
+    "path": "volvo.fh_2024",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "e",
+        "designation": "Cabin A",
+        "name": "Globetrotter XXL",
+        "internal_name": [
+          "l3h3",
+          "l3h3_8x4"
+        ]
+      },
+      {
+        "code": "f",
+        "designation": "Cabin B",
+        "name": "Globetrotter XL",
+        "internal_name": [
+          "l2h3",
+          "l2h3_8x4"
+        ]
+      },
+      {
+        "code": "g",
+        "designation": "Cabin C",
+        "name": "Globetrotter",
+        "internal_name": [
+          "l2h2"
+        ]
+      },
+      {
+        "code": "h",
+        "designation": "Cabin D",
+        "name": "Sleeper",
+        "internal_name": [
+          "l2h1"
+        ]
+      },
+      {
+        "code": "a",
+        "designation": "Cabin A Aero",
+        "name": "Aero Globetrotter XXL",
+        "internal_name": [
+          "l3h3_aero",
+          "l3h3_8x4_a"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B Aero",
+        "name": "Aero Globetrotter XL",
+        "internal_name": [
+          "l2h3_aero",
+          "l2h3_8x4_a"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C Aero",
+        "name": "Aero Globetrotter",
+        "internal_name": [
+          "l2h2_aero"
+        ]
+      },
+      {
+        "code": "d",
+        "designation": "Cabin D Aero",
+        "name": "Aero Sleeper",
+        "internal_name": [
+          "l2h1_aero"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sun Visor": [
+        "sunshld.dual",
+        "sunshld.quatro",
+        "sunshld.shape1",
+        "sunshld.shape2",
+        "sunshld.triangle"
+      ],
+      "Chassis Cover": [
+        "r_chs_cover.mix_4x",
+        "r_chs_cover.mix_6x",
+        "r_chs_cover.painted_4x",
+        "r_chs_cover.painted_6x"
+      ],
+      "Rear Exhaust": [
+        "exhaust_m.shape1",
+        "exhaust_m.shape2"
+      ],
+      "Rear Bumper": [
+        "r_bumper.bend",
+        "r_bumper.smoth",
+        "r_bumper.painted"
+      ],
+      "Mirrors": [
+        "f_mirror.painted",
+        "f_mirror.paintedl",
+        "s_mirror.paint",
+        "mirror.chrome_logo",
+        "mirror.chrome_led",
+        "mirror.shape3",
+        "mirror.cam_digi_a"
+      ],
+      "Rear Fender": [
+        "r_fender.paint_4x",
+        "r_fendr_top.paint_4x",
+        "r_fendr_top.chrome_p_4x",
+        "r_fender.paint_6x",
+        "r_fendr_top.paint_6x",
+        "r_fendr_top.chrome_p_6x",
+        "r_fender.paint_8x",
+        "r_fendr_top.paint_8x",
+        "r_fendr_top.chrome_p_8x"
+      ],
+      "Bull Bar": [
+        "f_grill.net"
+      ],
+      "Air Filter": [
+        "filter.paint_gtxxl",
+        "filter.paint_gtxl",
+        "filter.paint_gt",
+        "filter.paint_slp"
+      ],
+      "Sideskirts": [
+        "sideskirt.stock_4x_a",
+        "sideskirt.chrome_4x",
+        "sideskirt.chrome_s4x",
+        "sideskirt.stock_6x_a",
+        "sideskirt.chrome_6x",
+        "sideskirt.chrome_s6x",
+        "f_fender_chs.paint"
+      ],
+      "Side Deflectors": [
+        "s_deflector.stock_gtxxl",
+        "s_deflector.light_xxl"
+      ],
+      "Side Deflectors (8x)": [
+        "chassis.8x4"
+      ]
+    },
+    "local_verification_notes": "Corrected upstream l3h34_8x4 to l3h3_8x4 after reading the installed ETS2 1.62.3.3 cabin unit."
+  },
+  "iveco.stralis": {
+    "format_version": 2,
+    "name": "Iveco Stralis",
+    "path": "iveco.stralis",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Active Space Super",
+        "internal_name": [
+          "as_higher"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Active Super",
+        "internal_name": [
+          "at_higher"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "Active Space",
+        "internal_name": [
+          "at"
+        ]
+      }
+    ],
+    "uses_accessories": false,
+    "accessories": {}
+  },
+  "iveco.hiway": {
+    "format_version": 2,
+    "name": "Iveco Stralis Hi-Way",
+    "path": "iveco.hiway",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": false,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Hi-Way",
+        "internal_name": [
+          "hiway"
+        ]
+      }
+    ],
+    "uses_accessories": false,
+    "accessories": {}
+  },
+  "iveco.sway": {
+    "format_version": 2,
+    "name": "Iveco S-Way",
+    "path": "iveco.sway",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": false,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Active Space",
+        "internal_name": [
+          "as"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sideskirts": [
+        "sideskirt.pnt_4x2",
+        "sideskirt.pnt_4x2_a"
+      ],
+      "Sun Visor": [
+        "sunshield.standard_p"
+      ],
+      "Rear Fender": [
+        "r_fendr_top.paint_4x2",
+        "r_fendr_top.plastic_4x2"
+      ]
+    }
+  },
+  "man.tgx": {
+    "format_version": 2,
+    "name": "MAN TGX Euro 5",
+    "path": "man.tgx",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "XXL",
+        "internal_name": [
+          "xxl_cab"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "XLX",
+        "internal_name": [
+          "xlx_cab"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "XL",
+        "internal_name": [
+          "xl_cab"
+        ]
+      }
+    ],
+    "uses_accessories": false,
+    "accessories": {}
+  },
+  "man.tgx_euro6": {
+    "format_version": 2,
+    "name": "MAN TGX Euro 6",
+    "path": "man.tgx_euro6",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "XXL",
+        "internal_name": [
+          "xxl_cab"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "XLX",
+        "internal_name": [
+          "xlx_cab"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "XL",
+        "internal_name": [
+          "xl_cab"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sideskirts (4x)": [
+        "sideskirt.paint_4x2",
+        "sideskirt.stock_4x2"
+      ],
+      "Sideskirts (6x2 Long)": [
+        "sideskirt.paint_6x2_2",
+        "sideskirt.stock_6x2_2"
+      ],
+      "Sideskirts (6x2 Short)": [
+        "sideskirt.paint_6x22",
+        "sideskirt.stock_6x22",
+        "sideskirt.paint_6x24",
+        "sideskirt.stock_6x24"
+      ],
+      "Sideskirts (6x4)": [
+        "sideskirt.paint_6x4",
+        "sideskirt.stock_6x4"
+      ],
+      "Sideskirts (8x)": [
+        "sideskirt.paint_8x4",
+        "sideskirt.stock_8x4"
+      ],
+      "Mirrors": [
+        "mirror.paint"
+      ],
+      "Rear Fender": [
+        "r_fender.paint_4x2",
+        "r_fender.paint_6x22",
+        "r_fender.paint_6x24",
+        "r_fender.paint_6x2_2",
+        "r_fender.paint_6x4",
+        "r_fender.paint_8x4",
+        "r_fendr_top.paint_4x2",
+        "r_fendr_top.paint_6x22",
+        "r_fendr_top.paint_6x24",
+        "r_fendr_top.paint_6x2_2",
+        "r_fendr_top.paint_6x4",
+        "r_fendr_top.paint_8x4"
+      ]
+    }
+  },
+  "man.tgx_2020": {
+    "format_version": 2,
+    "name": "MAN TGX",
+    "path": "man.tgx_2020",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "GX",
+        "internal_name": [
+          "gx"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "GM",
+        "internal_name": [
+          "gm"
+        ]
+      },
+      {
+        "code": "c",
+        "designation": "Cabin C",
+        "name": "GN",
+        "internal_name": [
+          "gn"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Front Bumper - Duty": [
+        "f_bumper.pnt_pla_duty"
+      ],
+      "Mirrors": [
+        "mirror.cam_pnt",
+        "mirror.pnt_pla",
+        "mirror.pnt_pla_bs",
+        "s_mirror.pnt"
+      ],
+      "Cabin Deflectors (Cabin B)": [
+        "r_deflector.gm",
+        "r_deflector.gm_2024"
+      ],
+      "Cabin Deflectors (Cabin C)": [
+        "r_deflector.gn"
+      ],
+      "Rear Fender": [
+        "r_fender.pnt_4x2",
+        "r_fender.pnt_6x22",
+        "r_fender.pnt_6x4",
+        "r_fender.pnt_8x4",
+        "r_fendr_top.pnt_4x2",
+        "r_fendr_top.pnt_6x22",
+        "r_fendr_top.pnt_6x4",
+        "r_fendr_top.pnt_8x4"
+      ],
+      "Sideskirts": [
+        "sideskirt.fender_s",
+        "sideskirt.fender_s_e",
+        "sideskirt.fender_p",
+        "sideskirt.fender_p_e",
+        "sideskirt.4x2",
+        "sideskirt.4x2_e",
+        "sideskirt.4x2_p",
+        "sideskirt.4x2_p_e"
+      ]
+    }
+  },
+  "renault.magnum": {
+    "format_version": 2,
+    "name": "Renault Magnum",
+    "path": "renault.magnum",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": false,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Excellence",
+        "internal_name": [
+          "solo"
+        ]
+      }
+    ],
+    "uses_accessories": false,
+    "accessories": {}
+  },
+  "renault.premium": {
+    "format_version": 2,
+    "name": "Renault Premium",
+    "path": "renault.premium",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "High Roof",
+        "internal_name": [
+          "higher"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Normal Roof",
+        "internal_name": [
+          "normal"
+        ]
+      }
+    ],
+    "uses_accessories": false,
+    "accessories": {}
+  },
+  "renault.t": {
+    "format_version": 2,
+    "name": "Renault T",
+    "path": "renault.t",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": true,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "High Sleeper",
+        "internal_name": [
+          "high_sleeper"
+        ]
+      },
+      {
+        "code": "b",
+        "designation": "Cabin B",
+        "name": "Sleeper",
+        "internal_name": [
+          "sleeper"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sideskirts (4x)": [
+        "sideskirt.4x2shp",
+        "sideskirt.4x2side1p",
+        "sideskirt.4x2side2pg",
+        "sideskirt.4x2side3",
+        "sideskirt.4x2plain",
+        "sideskirt.4x2satin"
+      ],
+      "Sideskirts (6x Short)": [
+        "sideskirt.6x24shp",
+        "sideskirt.6x24side1p",
+        "sideskirt.6x24side2pg",
+        "sideskirt.6x24side3"
+      ],
+      "Sideskirts (6x Short, Tuning Pack)": [
+        "sideskirt.6x24plain",
+        "sideskirt.6x24satin"
+      ],
+      "Sideskirts (6x Long)": [
+        "sideskirt.6x2shp",
+        "sideskirt.6x2side1p",
+        "sideskirt.6x2side2pg",
+        "sideskirt.6x2side3",
+        "sideskirt.6x2plain",
+        "sideskirt.6x2satin"
+      ],
+      "Rear Fender": [
+        "r_fender.4x2paintn",
+        "r_fender.4x2painto",
+        "r_fender.6x24paintn",
+        "r_fender.6x24painto",
+        "r_fender.6x2paintn",
+        "r_fender.6x2painto",
+        "r_fendr_top.4x2paintn",
+        "r_fendr_top.6x24paintn",
+        "r_fendr_top.6x2paintn"
+      ],
+      "Stoneguard": [
+        "s_guard.logo_pa",
+        "s_guard.renault_pa",
+        "s_guard.elegance"
+      ],
+      "Front Mudflaps": [
+        "f_mudflap.bl_pn",
+        "f_mudflap.bl_pn_lo"
+      ],
+      "Lower Grille Guard": [
+        "b_grill.paint_pride",
+        "b_grill.paint_mirage"
+      ],
+      "Headlight Guard": [
+        "hl_guard.paint",
+        "hl_guard.paint_evo"
+      ],
+      "Light Bar": [
+        "r_grill.boss_pn",
+        "r_grill.boss_pn_led"
+      ],
+      "Sideskirt Bars": [
+        "sideskrt_bar.4x2_paint",
+        "sideskrt_bar.6x4_paint",
+        "sideskrt_bar.6x24_paint"
+      ],
+      "Rear Fenders": [
+        "r_fender.4x2_pn",
+        "r_fender.4x2_pn_ch",
+        "r_fender.6x2_pn",
+        "r_fender.6x2_pn_ch",
+        "r_fender.6x24_pn",
+        "r_fender.6x24_pn_ch",
+        "r_fendr_top.4x2_pn",
+        "r_fendr_top.4x2_pn_ch",
+        "r_fendr_top.6x2_pn",
+        "r_fendr_top.6x2_pn_ch",
+        "r_fendr_top.6x24_pn",
+        "r_fendr_top.6x24_pn_ch"
+      ],
+      "Rear Mudflaps": [
+        "r_mudflap.4x2pnt",
+        "r_mudflap.4x2pntw",
+        "r_mudflap.6x2pnt",
+        "r_mudflap.6x2pntw",
+        "r_mudflap.6x24pnt",
+        "r_mudflap.6x24pntw"
+      ],
+      "Rear Bumper": [
+        "r_bumper.4x2_racing",
+        "r_bumper.6x2_racing",
+        "r_bumper.6x24_racing"
+      ],
+      "Bull Bar": [
+        "f_grill.joker_paint",
+        "f_grill.racing_paint",
+        "f_grill.hawk_paint"
+      ],
+      "Chassis Cover": [
+        "r_chs_cover.4x2_diva",
+        "r_chs_cover.4x2t_diva",
+        "r_chs_cover.6x2_diva",
+        "r_chs_cover.6x24_diva",
+        "r_chs_cover.4x2_satin",
+        "r_chs_cover.4x2t_satin",
+        "r_chs_cover.6x2_satin",
+        "r_chs_cover.6x24_satin",
+        "r_chs_cover.4x2_thor_pn",
+        "r_chs_cover.4x2t_thor_pn",
+        "r_chs_cover.6x2_thor_pn",
+        "r_chs_cover.6x24_thor_pn"
+      ]
+    }
+  },
+  "renault.etech_t": {
+    "format_version": 2,
+    "name": "Renault E-Tech T",
+    "path": "renault.etech_t",
+    "author": "scs",
+    "game": "ets",
+    "type": "truck",
+    "mod": false,
+    "mod_author": "",
+    "mod_links": {
+      "workshop": "",
+      "forums": "",
+      "trucky": "",
+      "author": ""
+    },
+    "colour_picker": false,
+    "alt_uv": false,
+    "separate_paint_jobs": false,
+    "cabins": [
+      {
+        "code": "a",
+        "designation": "Cabin A",
+        "name": "Sleeper",
+        "internal_name": [
+          "sleeper"
+        ]
+      }
+    ],
+    "uses_accessories": true,
+    "accessories": {
+      "Sideskirts": [
+        "sideskirt.4x2side"
+      ]
+    }
+  }
+}

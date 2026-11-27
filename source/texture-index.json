@@ -188,5 +188,733 @@
     "mip_levels": 7,
     "format": "DXT5 / BC3",
     "template": null
+  },
+  {
+    "name": "trk_volvo_fh16_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16/Cabin A (Globetrotter XL).dds",
+    "vehicle_id": "volvo.fh16",
+    "cabin": "Globetrotter XL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16/Cabin B (Globetrotter).dds",
+    "vehicle_id": "volvo.fh16",
+    "cabin": "Globetrotter",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16/Cabin C (Sleeper).dds",
+    "vehicle_id": "volvo.fh16",
+    "cabin": "Sleeper",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_2012_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16_2012/Cabin A (Globetrotter XL).dds",
+    "vehicle_id": "volvo.fh16_2012",
+    "cabin": "Globetrotter XL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_2012_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16_2012/Cabin B (Globetrotter).dds",
+    "vehicle_id": "volvo.fh16_2012",
+    "cabin": "Globetrotter",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_2012_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16_2012/Cabin C (Sleeper).dds",
+    "vehicle_id": "volvo.fh16_2012",
+    "cabin": "Sleeper",
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_2012_side_deflectors_8x",
+    "size": [
+      1024,
+      1024
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16_2012/Side Deflectors (8x).dds",
+    "vehicle_id": "volvo.fh16_2012",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh16_2012_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh16_2012/Sideskirts.dds",
+    "vehicle_id": "volvo.fh16_2012",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_volvo_fh_2021_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2021/Cabin A (Globetrotter XL).dds",
+    "vehicle_id": "volvo.fh_2021",
+    "cabin": "Globetrotter XL",
+    "mount": "dlc_volvo_fh_2021"
+  },
+  {
+    "name": "trk_volvo_fh_2021_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2021/Cabin B (Globetrotter).dds",
+    "vehicle_id": "volvo.fh_2021",
+    "cabin": "Globetrotter",
+    "mount": "dlc_volvo_fh_2021"
+  },
+  {
+    "name": "trk_volvo_fh_2021_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2021/Cabin C (Sleeper).dds",
+    "vehicle_id": "volvo.fh_2021",
+    "cabin": "Sleeper",
+    "mount": "dlc_volvo_fh_2021"
+  },
+  {
+    "name": "trk_volvo_fh_2021_side_deflectors_8x",
+    "size": [
+      1024,
+      1024
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2021/Side Deflectors (8x).dds",
+    "vehicle_id": "volvo.fh_2021",
+    "cabin": null,
+    "mount": "dlc_volvo_fh_2021"
+  },
+  {
+    "name": "trk_volvo_fh_2021_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2021/Sideskirts.dds",
+    "vehicle_id": "volvo.fh_2021",
+    "cabin": null,
+    "mount": "dlc_volvo_fh_2021"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin A (Globetrotter XXL).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Globetrotter XXL",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_a_aero",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin A Aero (Aero Globetrotter XXL).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Aero Globetrotter XXL",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin B (Globetrotter XL).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Globetrotter XL",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_b_aero",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Aero Globetrotter XL",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin C (Globetrotter).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Globetrotter",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_c_aero",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin C Aero (Aero Globetrotter).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Aero Globetrotter",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_d",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin D (Sleeper).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Sleeper",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_cabin_d_aero",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin D Aero (Aero Sleeper).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": "Aero Sleeper",
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_side_deflectors_8x",
+    "size": [
+      1024,
+      1024
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Side Deflectors (8x).dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": null,
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_side_deflectors",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Side Deflectors.dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": null,
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_volvo_fh_2024_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Sideskirts.dds",
+    "vehicle_id": "volvo.fh_2024",
+    "cabin": null,
+    "mount": "dlc_volvo_fh_2024"
+  },
+  {
+    "name": "trk_iveco_stralis_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.stralis/Cabin A (Active Space Super).dds",
+    "vehicle_id": "iveco.stralis",
+    "cabin": "Active Space Super",
+    "mount": "base"
+  },
+  {
+    "name": "trk_iveco_stralis_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.stralis/Cabin B (Active Super).dds",
+    "vehicle_id": "iveco.stralis",
+    "cabin": "Active Super",
+    "mount": "base"
+  },
+  {
+    "name": "trk_iveco_stralis_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.stralis/Cabin C (Active Space).dds",
+    "vehicle_id": "iveco.stralis",
+    "cabin": "Active Space",
+    "mount": "base"
+  },
+  {
+    "name": "trk_iveco_hiway_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.hiway/Cabin A (Hi-Way).dds",
+    "vehicle_id": "iveco.hiway",
+    "cabin": "Hi-Way",
+    "mount": "base"
+  },
+  {
+    "name": "trk_iveco_sway_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.sway/Cabin A (Active Space).dds",
+    "vehicle_id": "iveco.sway",
+    "cabin": "Active Space",
+    "mount": "dlc_iveco_sway"
+  },
+  {
+    "name": "trk_iveco_sway_sideskirts",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/iveco.sway/Sideskirts.dds",
+    "vehicle_id": "iveco.sway",
+    "cabin": null,
+    "mount": "dlc_iveco_sway"
+  },
+  {
+    "name": "trk_man_tgx_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx/Cabin A (XXL).dds",
+    "vehicle_id": "man.tgx",
+    "cabin": "XXL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx/Cabin B (XLX).dds",
+    "vehicle_id": "man.tgx",
+    "cabin": "XLX",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx/Cabin C (XL).dds",
+    "vehicle_id": "man.tgx",
+    "cabin": "XL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Cabin A (XXL).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": "XXL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Cabin B (XLX).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": "XLX",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Cabin C (XL).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": "XL",
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_sideskirts_4x",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Sideskirts (4x).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_sideskirts_6x2_long",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Sideskirts (6x2 Long).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_sideskirts_6x2_short",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Sideskirts (6x2 Short).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_sideskirts_6x4",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Sideskirts (6x4).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_euro6_sideskirts_8x",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_euro6/Sideskirts (8x).dds",
+    "vehicle_id": "man.tgx_euro6",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_man_tgx_2020_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_2020/Cabin A (GX).dds",
+    "vehicle_id": "man.tgx_2020",
+    "cabin": "GX",
+    "mount": "dlc_man_tgx_2020"
+  },
+  {
+    "name": "trk_man_tgx_2020_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_2020/Cabin B (GM).dds",
+    "vehicle_id": "man.tgx_2020",
+    "cabin": "GM",
+    "mount": "dlc_man_tgx_2020"
+  },
+  {
+    "name": "trk_man_tgx_2020_cabin_c",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_2020/Cabin C (GN).dds",
+    "vehicle_id": "man.tgx_2020",
+    "cabin": "GN",
+    "mount": "dlc_man_tgx_2020"
+  },
+  {
+    "name": "trk_man_tgx_2020_cabin_deflectors_cabin_b",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_2020/Cabin Deflectors (Cabin B).dds",
+    "vehicle_id": "man.tgx_2020",
+    "cabin": null,
+    "mount": "dlc_man_tgx_2020"
+  },
+  {
+    "name": "trk_man_tgx_2020_cabin_deflectors_cabin_c",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/man.tgx_2020/Cabin Deflectors (Cabin C).dds",
+    "vehicle_id": "man.tgx_2020",
+    "cabin": null,
+    "mount": "dlc_man_tgx_2020"
+  },
+  {
+    "name": "trk_renault_magnum_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.magnum/Cabin A (Excellence).dds",
+    "vehicle_id": "renault.magnum",
+    "cabin": "Excellence",
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_premium_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.premium/Cabin A (High Roof).dds",
+    "vehicle_id": "renault.premium",
+    "cabin": "High Roof",
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_premium_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.premium/Cabin B (Normal Roof).dds",
+    "vehicle_id": "renault.premium",
+    "cabin": "Normal Roof",
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_t_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.t/Cabin A (High Sleeper).dds",
+    "vehicle_id": "renault.t",
+    "cabin": "High Sleeper",
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_t_cabin_b",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.t/Cabin B (Sleeper).dds",
+    "vehicle_id": "renault.t",
+    "cabin": "Sleeper",
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_t_sideskirts_4x",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.t/Sideskirts (4x).dds",
+    "vehicle_id": "renault.t",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_t_sideskirts_6x_long",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.t/Sideskirts (6x Long).dds",
+    "vehicle_id": "renault.t",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_t_sideskirts_6x_short",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.t/Sideskirts (6x Short).dds",
+    "vehicle_id": "renault.t",
+    "cabin": null,
+    "mount": "base"
+  },
+  {
+    "name": "trk_renault_etech_t_cabin_a",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.etech_t/Cabin A (Sleeper).dds",
+    "vehicle_id": "renault.etech_t",
+    "cabin": "Sleeper",
+    "mount": "dlc_renault_etech_t"
+  },
+  {
+    "name": "trk_renault_etech_t_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/renault.etech_t/Sideskirts.dds",
+    "vehicle_id": "renault.etech_t",
+    "cabin": null,
+    "mount": "dlc_renault_etech_t"
   }
 ]

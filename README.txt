@@ -1,5 +1,5 @@
 SOLAR CIRCUIT — GEORGIA TECH SOLAR RACING INSPIRED FLEET
-Version 0.1 | Personal alumni tribute | 26 November 2026
+Version 0.2 | Personal alumni tribute | 26 November 2026
 
 START HERE
 Open FLEET-GUIDE.html for the visual guide, supported vehicles, sources and editing instructions.
@@ -12,14 +12,16 @@ QUICK INSTALL
 5. Inspect both sides, roof, front, rear and accessories in daylight before buying it for every fleet vehicle. Keep your usual profile backup when testing new mods.
 
 MODULES AND EXACT SCOPE
-gtsr-trucks-v0.1.scs
-  SCS Scania S (2016): High Roof and Normal Roof. Separate cabin maps; painted 4x2 / 6x short / 6x long skirts. The 8x4 high-roof map is NOT included. Other trucks, RJL and reworked Scania mods are not mapped.
+gtsr-trucks-v0.2.scs
+  15 SCS truck models, 39 cabin layouts. Original Scania S 2016 High Roof and Normal Roof; Volvo FH3/FH4/FH5/FH6 with standard and Aero cabs; Iveco Stralis/Hi-Way/S-Way; MAN TGX Euro 5/Euro 6/modern GX-GM-GN; Renault Magnum/Premium/T/E-Tech T. Scania 8x4 is excluded. Other models' listed 8x4 cabin IDs and accessories need individual visual checks. Optional truck-DLC sections load only when their matching DLC is present. See docs/TRUCK-LIVERIES.md for full coverage.
+  Upgrade: deactivate/remove gtsr-trucks-v0.1.scs and install only the new version.
 gtsr-trailers-v0.1.scs
   Player-owned SCS Box Trailer: curtainsider and dry-freighter maps, each in Long, Double and B-Double layouts. Insulated, refrigerated, side-door and moving-floor bodies are assigned the matching dry-freighter atlas through accessory definitions. Non-body painted accessories use solid navy. Those related body variants still need an individual visual check.
 gtsr-coaches-v0.1.scs
   SCS Coaches DLC: MAN Lion's Coach 13.9 m and 12.1 m; Scania Touring HD 13.7 m and 12.9 m; Volvo 9700 DD. Five separate 8192 x 4096 body textures. This does not skin third-party coach mods or DBus World vehicle mods.
 
 WHAT HAS BEEN CHECKED
+777/777 version 0.2 static checks passed; all 37 new cabin and 19 auxiliary template overlays reviewed. Current cabin IDs were checked against base and truck DLC definitions. One upstream FH6 8x4 identifier was corrected.
 Archive integrity; internal texture and material paths; DDS DXT5/BC3 format, full mip chains and power-of-two dimensions; image decode; unique paint-job IDs; manifest dependency; paint-job structure against PJP v2.1.3; texture placement against public wireframe templates. Truck and SCS box accessory names were also checked against locally installed ETS2 1.62.3.3 definitions.
 
 WHAT HAS NOT BEEN CHECKED
@@ -34,7 +36,7 @@ credits/: logo provenance, template attribution and MIT notice for adapted PJP c
 
 Edit an SVG in Inkscape or another SVG editor at its original canvas size. Keep the team logo's proportions and the clear space around it. Arial remains live editable text; the font is not bundled. To change fleet numbers, edit the text on the appropriate vehicle SVG as well as any decal master. Editing a master decal does not automatically alter the mapped vehicle sources.
 
-The optional source/rebuild.py utility regenerates PNG/DDS files from those SVGs and writes updated .scs modules under rebuilt/mods/. It needs Python, Pillow and PyMuPDF (pip install pillow pymupdf). Run it from any folder:
+The package now contains 75 textures, including 56 new truck maps. The optional source/rebuild.py utility supports conditional DLC sections and regenerates PNG/DDS files from those SVGs and writes updated .scs modules under rebuilt/mods/. It needs Python, Pillow and PyMuPDF (pip install pillow pymupdf). Run it from any folder:
   python source/rebuild.py
 or rebuild selected vehicle textures:
   python source/rebuild.py --texture scania-s-high-roof
@@ -61,5 +63,7 @@ https://modding.scssoft.com/wiki/Documentation/Engine/Units/accessory_paint_job_
 https://modding.scssoft.com/wiki/Documentation/Engine/Mod_manager
 https://modding.scssoft.com/wiki/Documentation/Tools/Game_Archive_Extractor
 https://discord.gg/HpWvgy5mh
+
+Version 0.2 truck details: docs/TRUCK-LIVERIES.md; source/expanded-truck-support.json; source/expansion-validation.json. The original source/validation.json is the historical version 0.1 report.
 
 Team and Georgia Tech marks remain their owners' property. Personal tribute, no official affiliation claimed. Original templates and game files are not redistributed. No sponsor logos or vehicle models are included.
