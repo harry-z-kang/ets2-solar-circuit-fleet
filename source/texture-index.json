@@ -1,0 +1,192 @@
+[
+  {
+    "name": "scania-s-high-roof",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scania.s_2016__Cabin A (High Roof).dds"
+  },
+  {
+    "name": "scania-s-normal-roof",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scania.s_2016__Cabin B (Normal Roof).dds"
+  },
+  {
+    "name": "scania-s-sideskirts-4x",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "scania.s_2016__Sideskirts (4x).dds"
+  },
+  {
+    "name": "scania-s-sideskirts-6x-short",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "scania.s_2016__Sideskirts (6x Short).dds"
+  },
+  {
+    "name": "scania-s-sideskirts-6x-long",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "scania.s_2016__Sideskirts (6x Long).dds"
+  },
+  {
+    "name": "scs-box-curtainsider-long",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Curtainsider (Long).dds"
+  },
+  {
+    "name": "scs-box-curtainsider-double",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Curtainsider (Double).dds"
+  },
+  {
+    "name": "scs-box-curtainsider-b-double",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Curtainsider (B-Double).dds"
+  },
+  {
+    "name": "scs-box-dry-freighter-long",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Dry Freighter (Long).dds"
+  },
+  {
+    "name": "scs-box-dry-freighter-double",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Dry Freighter (Double).dds"
+  },
+  {
+    "name": "scs-box-dry-freighter-b-double",
+    "size": [
+      4096,
+      2048
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "scs.box__Body - Dry Freighter (B-Double).dds"
+  },
+  {
+    "name": "scania-touring-137",
+    "size": [
+      8192,
+      4096
+    ],
+    "mip_levels": 14,
+    "format": "DXT5 / BC3",
+    "template": "scania.touring_23__Body A (HD 13.7 m, 6x2_4).dds"
+  },
+  {
+    "name": "scania-touring-129",
+    "size": [
+      8192,
+      4096
+    ],
+    "mip_levels": 14,
+    "format": "DXT5 / BC3",
+    "template": "scania.touring_23__Body B (HD 12.9 m, 4x2).dds"
+  },
+  {
+    "name": "man-lions-coach-139",
+    "size": [
+      8192,
+      4096
+    ],
+    "mip_levels": 14,
+    "format": "DXT5 / BC3",
+    "template": "man.lions_24__Body A (L 13.9 m).dds"
+  },
+  {
+    "name": "man-lions-coach-121",
+    "size": [
+      8192,
+      4096
+    ],
+    "mip_levels": 14,
+    "format": "DXT5 / BC3",
+    "template": "man.lions_24__Body B (12.1 m).dds"
+  },
+  {
+    "name": "volvo-9700-dd",
+    "size": [
+      8192,
+      4096
+    ],
+    "mip_levels": 14,
+    "format": "DXT5 / BC3",
+    "template": "volvo.9700_23__Body A (DD 4.0 m).dds"
+  },
+  {
+    "name": "solid-navy",
+    "size": [
+      64,
+      64
+    ],
+    "mip_levels": 7,
+    "format": "DXT5 / BC3",
+    "template": null
+  },
+  {
+    "name": "solid-gold",
+    "size": [
+      64,
+      64
+    ],
+    "mip_levels": 7,
+    "format": "DXT5 / BC3",
+    "template": null
+  },
+  {
+    "name": "solid-white",
+    "size": [
+      64,
+      64
+    ],
+    "mip_levels": 7,
+    "format": "DXT5 / BC3",
+    "template": null
+  }
+]

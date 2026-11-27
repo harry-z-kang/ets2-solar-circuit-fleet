@@ -1,0 +1,9 @@
+Georgia Tech Solar Racing logo: downloaded unchanged from https://gtsolar.org/assets/images/gtsr-logo.png on 2026-11-26. Georgia Tech and team marks belong to their respective owners. This is a personal alumni tribute, not an official team product. No sponsor logos are included.
+
+Palette: current Georgia Tech Brand Guide https://brand.gatech.edu/our-look/colors and team CSS https://gtsolar.org/assets/css/custom.css (Gold #B39051; Navy #051E39; White #FFFFFF).
+
+Vehicle UV layouts: Carsmaniac, Paint Job Packer v2.1.3, templates.zip. Original wireframe templates are used for development only and are not redistributed here. Download originals from https://github.com/Carsmaniac/paintjob-packer/releases/tag/v2.1.3 . Template pack: https://forum.scssoft.com/viewtopic.php?f=33&t=272386 . Template artwork is separately governed; do not assume it shares the program's MIT license.
+
+TOBJ construction and paint-job definition patterns adapted from Carsmaniac's MIT-licensed ModGeneration.gd, commit f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e. Copyright notice is included alongside this file. Original vehicle JSON metadata is used for accessory assignments.
+
+New livery composition, solar-cell motif and circuit trace: created for this personal fleet package. SVG artwork remains editable. Arial is referenced as a system font and is not redistributed.

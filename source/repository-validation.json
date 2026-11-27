@@ -1,0 +1,24 @@
+{
+  "scs_repacking": [
+    {
+      "module": "gtsr-coaches-v0.1.scs",
+      "original_bytes": 223738893,
+      "compressed_bytes": 1217902,
+      "contents_unchanged": true
+    },
+    {
+      "module": "gtsr-trailers-v0.1.scs",
+      "original_bytes": 67160376,
+      "compressed_bytes": 1001782,
+      "contents_unchanged": true
+    },
+    {
+      "module": "gtsr-trucks-v0.1.scs",
+      "original_bytes": 58774605,
+      "compressed_bytes": 211334,
+      "contents_unchanged": true
+    }
+  ],
+  "verification": "All archive members retained identical filenames, sizes and CRCs; new archives passed ZIP integrity checks.",
+  "github_file_size_limit_bytes": 104857600
+}

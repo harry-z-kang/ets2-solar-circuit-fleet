@@ -1,0 +1,9 @@
+# Generated rebuild outputs and local Python environments
+rebuilt/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.tmp
+.DS_Store
+Thumbs.db

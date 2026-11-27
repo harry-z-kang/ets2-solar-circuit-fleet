@@ -1,0 +1,1351 @@
+{
+  "build": "0.1.0",
+  "date": "2026-11-26",
+  "local_game_version_observed": "1.62.3.3",
+  "game_session_launched": false,
+  "installed_in_active_profile": false,
+  "checks_passed": 258,
+  "checks_total": 258,
+  "errors": [],
+  "checks": [
+    {
+      "check": "DDS scania-s-high-roof",
+      "pass": true,
+      "detail": "4096x4096, 13 mip levels, 22369776 bytes"
+    },
+    {
+      "check": "Decoded scania-s-high-roof",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-s-normal-roof",
+      "pass": true,
+      "detail": "4096x4096, 13 mip levels, 22369776 bytes"
+    },
+    {
+      "check": "Decoded scania-s-normal-roof",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-s-sideskirts-4x",
+      "pass": true,
+      "detail": "2048x1024, 12 mip levels, 2796368 bytes"
+    },
+    {
+      "check": "Decoded scania-s-sideskirts-4x",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-s-sideskirts-6x-short",
+      "pass": true,
+      "detail": "2048x2048, 12 mip levels, 5592560 bytes"
+    },
+    {
+      "check": "Decoded scania-s-sideskirts-6x-short",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-s-sideskirts-6x-long",
+      "pass": true,
+      "detail": "2048x2048, 12 mip levels, 5592560 bytes"
+    },
+    {
+      "check": "Decoded scania-s-sideskirts-6x-long",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-curtainsider-long",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-curtainsider-long",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-curtainsider-double",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-curtainsider-double",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-curtainsider-b-double",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-curtainsider-b-double",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-dry-freighter-long",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-dry-freighter-long",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-dry-freighter-double",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-dry-freighter-double",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scs-box-dry-freighter-b-double",
+      "pass": true,
+      "detail": "4096x2048, 13 mip levels, 11184976 bytes"
+    },
+    {
+      "check": "Decoded scs-box-dry-freighter-b-double",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-touring-137",
+      "pass": true,
+      "detail": "8192x4096, 14 mip levels, 44739408 bytes"
+    },
+    {
+      "check": "Decoded scania-touring-137",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS scania-touring-129",
+      "pass": true,
+      "detail": "8192x4096, 14 mip levels, 44739408 bytes"
+    },
+    {
+      "check": "Decoded scania-touring-129",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS man-lions-coach-139",
+      "pass": true,
+      "detail": "8192x4096, 14 mip levels, 44739408 bytes"
+    },
+    {
+      "check": "Decoded man-lions-coach-139",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS man-lions-coach-121",
+      "pass": true,
+      "detail": "8192x4096, 14 mip levels, 44739408 bytes"
+    },
+    {
+      "check": "Decoded man-lions-coach-121",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS volvo-9700-dd",
+      "pass": true,
+      "detail": "8192x4096, 14 mip levels, 44739408 bytes"
+    },
+    {
+      "check": "Decoded volvo-9700-dd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS solid-navy",
+      "pass": true,
+      "detail": "64x64, 7 mip levels, 5616 bytes"
+    },
+    {
+      "check": "Decoded solid-navy",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS solid-gold",
+      "pass": true,
+      "detail": "64x64, 7 mip levels, 5616 bytes"
+    },
+    {
+      "check": "Decoded solid-gold",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS solid-white",
+      "pass": true,
+      "detail": "64x64, 7 mip levels, 5616 bytes"
+    },
+    {
+      "check": "Decoded solid-white",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ZIP integrity gtsr-coaches-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Manifest gtsr-coaches-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/bus/man.lions_24/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/bus/man.lions_24/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/man-lions-coach-139.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_a.man.lions_24.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_a.man.lions_24.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/volvo-9700-dd.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/volvo-9700-dd.dds"
+    },
+    {
+      "check": "TOBJ target material/ui/accessory/gtsrsc_icon.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/icon.dds"
+    },
+    {
+      "check": "Balanced definition manifest.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-touring-137.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_a.scania.touring_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_a.scania.touring_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/man-lions-coach-121.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/man-lions-coach-121.dds"
+    },
+    {
+      "check": "Balanced definition def/vehicle/bus/man.lions_24/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/bus/man.lions_24/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/man-lions-coach-121.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_b.man.lions_24.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_b.man.lions_24.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/man-lions-coach-139.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/man-lions-coach-139.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-touring-129.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-touring-129.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-touring-137.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-touring-137.dds"
+    },
+    {
+      "check": "Balanced definition def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-touring-129.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_b.scania.touring_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_b.scania.touring_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/bus/volvo.9700_23/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/bus/volvo.9700_23/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/volvo-9700-dd.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_a.volvo.9700_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_a.volvo.9700_23.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "UI icon gtsr-coaches-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Mod image gtsr-coaches-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Coach DLC dependency",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ZIP integrity gtsr-trailers-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Manifest gtsr-trailers-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-curtainsider-b-double.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-b-double.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-curtainsider-long.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-long.dds"
+    },
+    {
+      "check": "TOBJ target material/ui/accessory/gtsrsc_icon.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/icon.dds"
+    },
+    {
+      "check": "Balanced definition manifest.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/trailer_owned/scs.box/paint_job/gtsrsc.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc.scs.box.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc.scs.box.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-curtainsider-double.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-double.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-dry-freighter-b-double.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-b-double.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-dry-freighter-long.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-long.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/solid-navy.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.dds"
+    },
+    {
+      "check": "Balanced definition def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-b-double.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-double.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-curtainsider-long.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-b-double.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-double.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-long.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scs-box-dry-freighter-double.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scs-box-dry-freighter-double.dds"
+    },
+    {
+      "check": "UI icon gtsr-trailers-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Mod image gtsr-trailers-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ZIP integrity gtsr-trucks-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Manifest gtsr-trucks-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "TOBJ target material/ui/accessory/gtsrsc_icon.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/icon.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-s-high-roof.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-high-roof.dds"
+    },
+    {
+      "check": "Balanced definition manifest.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-high-roof.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_a.scania.s_2016.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_a.scania.s_2016.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-s-sideskirts-6x-long.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.dds"
+    },
+    {
+      "check": "Balanced definition def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-s-normal-roof.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-normal-roof.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-s-sideskirts-4x.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/scania-s-sideskirts-6x-short.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.dds"
+    },
+    {
+      "check": "TOBJ target gtsr_solar/solid-navy.tobj",
+      "pass": true,
+      "detail": "gtsr_solar/solid-navy.dds"
+    },
+    {
+      "check": "Balanced definition def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Paint mask def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "pass": true,
+      "detail": "gtsr_solar/scania-s-normal-roof.tobj"
+    },
+    {
+      "check": "Unique unit gtsrsc_b.scania.s_2016.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Icon gtsrsc_b.scania.s_2016.paint_job",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "UI icon gtsr-trucks-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Mod image gtsr-trucks-v0.1.scs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/f_mirror.painted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/mirror.painted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/s_mirror.painted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sunshld.stock",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p_v8",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p_v8_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.4x2_p_v8_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p_v8",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p_v8_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2_p_v8_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p_v8",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p_v8_1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.6x2l_p_v8_2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/sideskirt.8x4_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_bumper.duty_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_bumper.stock_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fender.4x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fender.6x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fender.6x2l_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fender.8x4_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.4x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.low_4x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.6x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.low_6x2_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.6x2l_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.low_6x2l_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.8x4_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scania.s_2016/r_fendr_top.low_8x4_p",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.curtain_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.curtain_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.curtain_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.door_c",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.wall_c",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_van_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefer_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_vs_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_s_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefers_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.m_floor_78bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_van_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefer_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_vans_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_s_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefers_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.m_floor_78",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_van_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefer_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.dry_vans_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.ins_s_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.reefers_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.m_floor_136",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/body.m_floor_136r",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.door_dv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.door_dvsd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.ladder",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.ladder_bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/f_body.f_toolbox",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/r_bumper.paint",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/r_bumper.paint_bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/r_bumper.paint_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.sideskirt_01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.sideskirt_01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.palletbox",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.palletbox",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_l.sideskirt_01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_r.sideskirt_01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_l.palletbox",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_r.palletbox",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.sideskirt_02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.sideskirt_02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.sideskirt_2d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.sideskirt_2d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.sideskirt_03",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.sideskirt_03",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.sideskirt_1d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.sideskirt_1d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.p_box_cage",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.paint_box",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_l.paint_box_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.p_box_cage",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.paint_box",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_f_r.paint_box_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_l.sideskirt_bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_l.sideskirt_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_r.sideskirt_bd",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_r.sideskirt_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_l.sideskirt",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_r.sideskirt",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_l.paint_box_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_l.paint_box_m",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_r.paint_box_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_m_r.paint_box_m",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_l.sideskirt_02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_r.sideskirt_02",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_l.paint_box",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_l.paint_box_d",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_r.paint_box",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Base accessory scs.box/chs_r_r.paint_box_d",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "limitations": [
+    "Static structure checks are not an ETS2 runtime test.",
+    "Coach cabin IDs and definitions follow PJP v2.1.3; dlc_bus archive contents were not independently extracted.",
+    "Opposite-side reading direction, seams, gloss, model variants and multiplayer need in-game verification.",
+    "Accessory assignments missing from the base archive may belong to tuning DLCs; those entries follow PJP metadata and were not independently verified. See accessory_assignments_not_found_in_base_archive."
+  ],
+  "accessory_assignments_not_found_in_base_archive": [
+    "scania.s_2016/exhaust_m.mg01",
+    "scania.s_2016/f_logo.painted",
+    "scania.s_2016/mirror.painted_f",
+    "scania.s_2016/sunshld.sunshld_01",
+    "scania.s_2016/sunshld.sunshld_04",
+    "scania.s_2016/sunshld.sunshld_05",
+    "scania.s_2016/sunshld.sunshld_06",
+    "scania.s_2016/f_mudflap.kotr",
+    "scania.s_2016/f_mudflap.kotrh",
+    "scania.s_2016/f_mudflap.kotrl",
+    "scania.s_2016/f_mudflap.scania",
+    "scania.s_2016/f_mudflap.scaniah",
+    "scania.s_2016/f_mudflap.scanial",
+    "scania.s_2016/f_mudflap.scaniamg",
+    "scania.s_2016/f_mudflap.scaniamgh",
+    "scania.s_2016/f_mudflap.scaniamgl",
+    "scania.s_2016/f_mudflap.v8",
+    "scania.s_2016/f_mudflap.v8h",
+    "scania.s_2016/f_mudflap.v8l",
+    "scania.s_2016/r_bumper.mg01",
+    "scania.s_2016/r_bumper.mg03",
+    "scania.s_2016/r_bumper.mg04",
+    "scania.s_2016/r_chs_cover.4x2_p",
+    "scania.s_2016/r_chs_cover.6xn_p",
+    "scania.s_2016/r_chs_cover.6xnl_p",
+    "scania.s_2016/r_fender.4x2_blk_p",
+    "scania.s_2016/r_fender.4x2_spcgr_p",
+    "scania.s_2016/r_fender.6x2_blk_p",
+    "scania.s_2016/r_fender.6x2_spcgr_p",
+    "scania.s_2016/r_fender.6x2l_blk_p",
+    "scania.s_2016/r_fender.6x2l_spcgr_p",
+    "scania.s_2016/r_fender.8x4_blk_p",
+    "scania.s_2016/r_fender.8x4_spcgr_p",
+    "scs.box/rear_body.wind_def",
+    "scs.box/f_body.th_box_p_mf",
+    "scs.box/f_body.th_box_paint",
+    "scs.box/chs_f_l.p_box_doubl",
+    "scs.box/chs_f_r.p_box_doubl",
+    "scs.box/chs_m_l.paint_box_bd",
+    "scs.box/chs_m_r.paint_box_bd",
+    "scs.box/chs_f_l.t_box"
+  ]
+}
