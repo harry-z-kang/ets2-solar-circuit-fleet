@@ -1,0 +1,80 @@
+{
+  "blender_version": "5.3.0",
+  "checks_passed": 18,
+  "checks_total": 18,
+  "failures": [],
+  "checks": [
+    {
+      "check": "man-lions-coach-139 saved cameras",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint UV cab_139h6_6",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint UV doors_139h6_4",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint UV standard_0",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint UV standard_paint_0",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint UV standard_paint_0.001",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 paint images loaded",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 external paint hashes",
+      "passed": true
+    },
+    {
+      "check": "man-lions-coach-139 complete renders",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 saved cameras",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV cab_137h6_9",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV doors_7",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_0.001",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_2",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_2.001",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint images loaded",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 external paint hashes",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 complete renders",
+      "passed": true
+    }
+  ]
+}

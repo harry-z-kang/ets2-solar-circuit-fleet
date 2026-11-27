@@ -118,7 +118,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/scania.touring_23/Body A (HD 13.7 m, 6x2_4).dds",
-    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
+    "scope": "MAN/Scania physical logo alignment 0.5.2"
   },
   {
     "name": "scania-touring-129",
@@ -139,7 +139,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/man.lions_24/Body A (L 13.9 m).dds",
-    "scope": "Native v0.5.0 feedback / Blender refinement 0.5.1"
+    "scope": "MAN/Scania physical logo alignment 0.5.2"
   },
   {
     "name": "man-lions-coach-121",

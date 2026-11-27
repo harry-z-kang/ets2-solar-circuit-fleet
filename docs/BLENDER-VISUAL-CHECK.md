@@ -34,7 +34,7 @@ The second command writes a local HTML gallery and contact sheets. Other vehicle
 
 The override folder supplies edited DDS files, or PNG files if a DDS is absent. Unchanged maps fall back to the current module. Rebuild before inspecting an SVG change; an existing DDS takes priority over a PNG. Existing open Blender scenes can reload external images, but rerunning the command is the reproducible route and records fresh texture hashes.
 
-By default the current module names come from `feedback-fix-layouts.json`. To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
+By default the current module names come from `logo-alignment-layouts.json` (falling back to the earlier feedback/refinement layouts if absent). To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
 
 ## Recreate private model inputs
 

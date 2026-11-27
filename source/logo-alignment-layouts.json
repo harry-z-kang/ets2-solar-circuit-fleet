@@ -1,0 +1,79 @@
+{
+  "version": "0.5.2",
+  "truck_module": "gtsr-trucks-v0.5.1.scs",
+  "coach_module": "gtsr-coaches-v0.2.2.scs",
+  "center_above_ground_m": 1.0,
+  "logo_height_m": 0.5,
+  "coaches": {
+    "man-lions-coach-139": {
+      "fleet": "CO-01",
+      "ground_model_y_m": 0.008745014667510986,
+      "model": "vehicle/bus/man_lions_24/cabin/cab_139h6.pim",
+      "sides": [
+        {
+          "side": "left",
+          "logo": [
+            2093.2798097816076,
+            3564.029003035005,
+            1073.4403804367848
+          ],
+          "fleet_y": 3836.8828180792952,
+          "fleet_size": 39.03419565224672,
+          "before_center_above_ground_m": 0.9107605156236674,
+          "measured_top_above_ground_m": 1.2500000846867632,
+          "measured_center_above_ground_m": 0.9999999200932133,
+          "measured_bottom_above_ground_m": 0.7500000000000006
+        },
+        {
+          "side": "right",
+          "logo": [
+            2093.358564701204,
+            3488.3719285762586,
+            1073.2828705975912
+          ],
+          "fleet_y": 3761.185258878335,
+          "fleet_size": 39.028468021730596,
+          "before_center_above_ground_m": 0.7359980733480533,
+          "measured_top_above_ground_m": 1.25,
+          "measured_center_above_ground_m": 0.9999974996661658,
+          "measured_bottom_above_ground_m": 0.75
+        }
+      ]
+    },
+    "scania-touring-137": {
+      "fleet": "CO-02",
+      "ground_model_y_m": 0.0513494610786438,
+      "model": "vehicle/bus/scania_touring_23/cabin/cab_137h6.pim",
+      "sides": [
+        {
+          "side": "left",
+          "logo": [
+            2110.5145030163753,
+            3576.178606929685,
+            1038.9709939672491
+          ],
+          "fleet_y": 3840.3414521658688,
+          "fleet_size": 37.78076341699088,
+          "before_center_above_ground_m": 0.9283279595246354,
+          "measured_top_above_ground_m": 1.2499999999999998,
+          "measured_center_above_ground_m": 0.9998731263262064,
+          "measured_bottom_above_ground_m": 0.75
+        },
+        {
+          "side": "right",
+          "logo": [
+            2109.800396754837,
+            3570.7231388791715,
+            1040.3992064903257
+          ],
+          "fleet_y": 3835.179009439021,
+          "fleet_size": 37.832698417830024,
+          "before_center_above_ground_m": 0.9159320040206048,
+          "measured_top_above_ground_m": 1.2499999999999998,
+          "measured_center_above_ground_m": 0.9999986425544081,
+          "measured_bottom_above_ground_m": 0.75
+        }
+      ]
+    }
+  }
+}

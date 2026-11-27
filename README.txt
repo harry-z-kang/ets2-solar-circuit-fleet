@@ -1,5 +1,8 @@
 SOLAR CIRCUIT — GEORGIA TECH SOLAR RACING INSPIRED FLEET
-Version 0.5.1 | Personal alumni tribute | 27 November 2026
+Version 0.5.2 | Personal alumni tribute | 27 November 2026
+
+COACH LOGO ALIGNMENT IN 0.5.2
+MAN 13.9 m and Scania 13.7 m logos share a 1.00 m centerline and 0.50 m image height on both sides. Separate UV placements, unchanged logo proportions. Eight Blender views, 381 checks and 18 reopened-scene checks passed. Install coach v0.2.2; truck v0.5.1 and trailer v0.1 are unchanged. Details and previews: docs/COACH-LOGO-ALIGNMENT.md.
 
 NATIVE SCREENSHOT FEEDBACK / BLENDER IN 0.5.1
 Raised MAN/Scania bands to the marked panel lines. Removed the Volvo DD logo plaque; the original gold mark sits directly on white. Replaced the sketch with the team's own SR-4 illustration. FH6 Aero XL now reads TK-05 / VAN LEER; lower-front painted accessories are navy and painted upper mirrors white. Details: docs/FEEDBACK-FIX.md.
@@ -18,11 +21,11 @@ QUICK INSTALL
 MODULES AND EXACT SCOPE
 gtsr-trucks-v0.5.1.scs
   25 SCS truck families, 77 paint-job definitions. All seven Mercedes-Benz and DAF families are covered, with 19 new standard-cab options and four refreshed heavy maps. All previous stock 8x4 coverage remains. Exact cabins and dependencies: docs/MERCEDES-DAF-LIVERIES.md. Heavy coverage: docs/8X4-LIVERIES.md. Earlier trucks: docs/TRUCK-LIVERIES.md.
-  Upgrade: deactivate/remove older truck modules and install only truck version 0.5.1 and coach version 0.2.1.
+  Upgrade: deactivate/remove older truck modules and install only truck version 0.5.1 and coach version 0.2.2.
 
 gtsr-trailers-v0.1.scs
   Player-owned SCS Box Trailer: curtainsider and dry-freighter maps, each in Long, Double and B-Double layouts. Insulated, refrigerated, side-door and moving-floor bodies are assigned the matching dry-freighter atlas through accessory definitions. Non-body painted accessories use solid navy. Those related body variants still need an individual visual check.
-gtsr-coaches-v0.2.1.scs
+gtsr-coaches-v0.2.2.scs
   SCS Coaches DLC: MAN Lion's Coach 13.9 m and 12.1 m; Scania Touring HD 13.7 m and 12.9 m; Volvo 9700 DD. Five separate 8192 x 4096 body textures. This does not skin third-party coach mods or DBus World vehicle mods.
 
 WHAT HAS BEEN CHECKED
