@@ -1,4 +1,6 @@
-# Mercedes-Benz and DAF liveries — version 0.4
+# Mercedes-Benz and DAF liveries — version 0.4 recipe
+
+**Current fleet release: 0.4.1.** The [focused coach/FH6 patch](FOCUSED-FIX.md) preserves this Mercedes/DAF coverage. Counts and validation below describe the 0.4 stage; the complete package now has 115 texture sets. Use the current module for installation; an original 0.4 seed remains available from its GitHub release for recipe reconstruction.
 
 The truck module now covers **all seven standard SCS Mercedes-Benz and DAF families present in the inspected ETS2 1.62.3.3 installation**. This addition supplies 19 standard-cab paint definitions, refreshes four existing Heavy Support maps, and preserves the previous truck coverage. The whole truck module contains **25 families and 78 paint definitions**.
 
@@ -23,7 +25,7 @@ Standard-cab options use the vehicle's compatible stock chassis. Existing Heavy 
 ## Install and upgrade
 
 1. Deactivate/remove older Solar Circuit truck modules from your active ETS2 mod folder.
-2. Copy [gtsr-trucks-v0.4.scs](../mods/gtsr-trucks-v0.4.scs) into that folder and activate it in Mod Manager. Enable only one truck-module version.
+2. Copy [gtsr-trucks-v0.4.1.scs](../mods/gtsr-trucks-v0.4.1.scs) into that folder and activate it in Mod Manager. Enable only one truck-module version.
 3. Choose **Solar Circuit - Alumni Support** for the matching cabin, or **Solar Circuit - Heavy Support 8x4** for a listed heavy configuration. Price: EUR 1,000; unlock level: 0.
 4. Check both sides, front, rear, roof and painted parts before applying it across the fleet. The [screenshot checklist](SCREENSHOT-CHECKLIST.md) describes useful views.
 

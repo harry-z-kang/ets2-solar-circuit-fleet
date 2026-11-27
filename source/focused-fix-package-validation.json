@@ -1,0 +1,2177 @@
+{
+  "version": "0.4.1",
+  "checks_passed": 542,
+  "checks_total": 542,
+  "failures": [],
+  "scope": "Public package file sizes, local documentation links, module integrity and install inventory.",
+  "checks": [
+    {
+      "check": "Only three current module install files",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit .gitattributes",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit .gitignore",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/circuit-trace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/circuit-trace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/coach-side-master.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/coach-side-master.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/door-plaque.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/door-plaque.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/electrical-lead-decal.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/electrical-lead-decal.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/fleet-number-sheet.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/fleet-number-sheet.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/gtsr-logo-original.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/rear-panel.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/rear-panel.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/solar-cell-strip.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/solar-cell-strip.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/trailer-side-master.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit artwork/trailer-side-master.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit credits/ATTRIBUTION.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit credits/Paint-Job-Packer-MIT.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../previews/8x4-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../source/8x4-support.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../source/8x4-support.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../source/8x4-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../source/validate_8x4.py",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/8X4-LIVERIES.md -> ../source/8x4-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../previews/focused-fix-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../mods/gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../source/focused-fix-evidence.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../source/focused-fix-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../source/focused-fix-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../source/focused-fix-layouts.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FOCUSED-FIX.md -> ../source/focused-fix-template-hashes.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../previews/mercedes-daf-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> SCREENSHOT-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../source/mercedes-daf-support.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../source/mercedes-daf-layouts.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../credits/ATTRIBUTION.txt",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../source/mercedes-daf-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../source/mercedes-daf-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> SCREENSHOT-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/SCREENSHOT-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/SCREENSHOT-CHECKLIST.md -> MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> 8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> ../previews/truck-expansion-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> ../mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> 8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-LIVERIES.md -> ../source/expansion-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit docs/TRUCK-TEMPLATES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-TEMPLATES.md -> 8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-TEMPLATES.md -> TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-TEMPLATES.md -> ../source/truck-template-catalog.json",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/TRUCK-TEMPLATES.md -> MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit FLEET-GUIDE.html",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> previews/fleet-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> previews/focused-fix-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> docs/FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> previews/truck-expansion-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> docs/TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> docs/8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> previews/mercedes-daf-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> docs/MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> docs/SCREENSHOT-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> previews/8x4-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> artwork/electrical-lead-decal.png",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/texture-index.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/focused-fix-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/focused-fix-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/mercedes-daf-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/mercedes-daf-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/8x4-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/expansion-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> source/validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link FLEET-GUIDE.html -> README.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit mods/gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit mods/gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/8x4-preview.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/fleet-preview.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/fleet-preview.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/focused-fix-preview.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/iveco-hiway-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/iveco-stralis-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/iveco-sway-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/man-tgx-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/man-tgx_2020-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/man-tgx_euro6-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/mercedes-daf-preview.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/renault-etech_t-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/renault-magnum-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/renault-premium-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/renault-t-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/scania-s-high-roof-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/scania-touring-137-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/scs-box-dry-freighter-long-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/truck-expansion-preview.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/volvo-fh16-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/volvo-fh16_2012-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/volvo-fh_2021-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit previews/volvo-fh_2024-texture.jpg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit README.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> previews/fleet-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> previews/truck-expansion-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> previews/8x4-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> previews/mercedes-daf-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> previews/focused-fix-preview.png",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> mods/gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> mods/gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> mods/gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> README.txt",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> FLEET-GUIDE.html",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/SCREENSHOT-CHECKLIST.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/TRUCK-TEMPLATES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/FOCUSED-FIX.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/MERCEDES-DAF-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/8X4-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> docs/TRUCK-LIVERIES.md",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/focused-fix-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/focused-fix-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/mercedes-daf-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/mercedes-daf-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/8x4-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/8x4-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/expansion-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/repository-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> credits/ATTRIBUTION.txt",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> credits/Paint-Job-Packer-MIT.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit README.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit SHA256SUMS.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/8x4-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/8x4-support.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/8x4-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/build_8x4.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/build_focused_fix.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/build_mercedes_daf.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/build_truck_expansion.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/expanded-truck-support.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/expanded-truck-vehicles.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/expansion-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-evidence.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-layouts.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-package-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-template-hashes.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/focused-fix-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-layouts.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-package-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-support.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/mercedes-daf-vehicles.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/rebuild-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/rebuild.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/repository-validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/requirements.txt",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/texture-index.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/truck-livery-layouts.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/truck-preview-index.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/truck-template-catalog.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/validate_8x4.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/validate_focused_fix.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/validate_mercedes_daf.py",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/validation.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xf.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xf.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg_plus.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_daf_2021_xg_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_mercedes_actros2014_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_mercedes_actros2014_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_mercedes_actros2014_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_skirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_2016_skirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_r_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_skirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_s_2016_skirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_streamline_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_streamline_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_scania_streamline_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_volvo_fh_2024_aero_xl.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_volvo_fh_2024_aero_xl.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/h8_volvo_fh_2024_aero_xl.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-121.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-121.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-121.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-139.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-139.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/man-lions-coach-139.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_camera.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_camera.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_standard.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_standard.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_main_mirrors_standard.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sun_visor.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_sun_visor.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xf.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xf.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg_plus.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_2021_xg_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_day.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_day.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_day.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors_camera.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_mirrors_camera.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sl.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sl.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sl.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_slh.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_slh.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sun_visor.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xd_sun_visor.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_mirrors.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_mirrors.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_slh.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_electric_slh.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_space.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_space.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_space.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_spacespoiler.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_spacespoiler.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_spacespoiler.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_superspace.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_superspace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_euro6_superspace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_s_cab_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_s_cab_plus.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_s_cab_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_space_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_space_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_space_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_super_s_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_super_s_cab.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_daf_xf_super_s_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_bigspace.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_bigspace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_bigspace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_gigaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_gigaspace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_gigaspace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_streamspace.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_streamspace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros2014_streamspace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l_lw.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l_lw.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_cabin_l_lw.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_megaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_megaspace.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/md_mercedes_actros_megaspace.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-high-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-high-roof.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-high-roof.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-normal-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-normal-roof.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-normal-roof.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-4x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-4x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-4x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-long.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-long.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-long.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-short.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-short.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-s-sideskirts-6x-short.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-129.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-129.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-129.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-137.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-137.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scania-touring-137.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-b-double.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-b-double.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-double.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-double.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-double.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-long.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-long.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-curtainsider-long.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-b-double.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-b-double.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-double.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-double.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-double.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-long.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-long.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/scs-box-dry-freighter-long.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-gold.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-gold.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-gold.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-navy.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-navy.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-navy.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-white.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-white.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/solid-white.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_hiway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_hiway_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_hiway_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_stralis_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_iveco_sway_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_2020_cabin_deflectors_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_long.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_long.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_long.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_short.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_short.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x2_short.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x4.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x4.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_6x4.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_8x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_man_tgx_euro6_sideskirts_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_etech_t_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_magnum_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_magnum_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_magnum_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_premium_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_long.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_long.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_long.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_short.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_short.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_renault_t_sideskirts_6x_short.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_2012_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh16_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2021_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a_aero.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_a_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b_aero.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_b_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c_aero.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_c_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d_aero.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_cabin_d_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/trk_volvo_fh_2024_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/volvo-9700-dd.dds",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/volvo-9700-dd.png",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit textures/volvo-9700-dd.svg",
+      "passed": true
+    },
+    {
+      "check": "Archive integrity gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No duplicate archive members gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No private development inputs gtsr-coaches-v0.1.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Archive integrity gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No duplicate archive members gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No private development inputs gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Archive integrity gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No duplicate archive members gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    },
+    {
+      "check": "No private development inputs gtsr-trucks-v0.4.1.scs",
+      "passed": true
+    }
+  ]
+}

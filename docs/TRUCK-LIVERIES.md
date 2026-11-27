@@ -1,6 +1,6 @@
 # Solar Circuit earlier truck coverage — version 0.2 recipe
 
-**Current release: version 0.4.** The [Mercedes/DAF expansion](MERCEDES-DAF-LIVERIES.md) extends standard cabin coverage. The [8×4 expansion guide](8X4-LIVERIES.md) adds all standard SCS 8×4 chassis while preserving the files described below.
+**Current release: version 0.4.1.** See the [focused coach/FH6 correction](FOCUSED-FIX.md). The [Mercedes/DAF expansion](MERCEDES-DAF-LIVERIES.md) extends standard cabin coverage. The [8×4 expansion guide](8X4-LIVERIES.md) adds all standard SCS 8×4 chassis while preserving the files described below.
 
 The version 0.2 truck module includes **15 SCS truck models and 39 cabin layouts**: the original two Scania S 2016 cabins plus 37 new cabins across Volvo, Iveco, MAN and Renault. The expansion adds 56 editable SVG/PNG/DDS textures: 37 main cabin maps and 19 auxiliary maps. The full fleet package now contains 75 textures.
 
@@ -11,7 +11,7 @@ The preview shows actual paint regions on schematic cab illustrations. It is not
 ## Install or upgrade
 
 1. Remove or deactivate older truck-module versions from your ETS2 mod folder.
-2. Copy [gtsr-trucks-v0.4.scs](../mods/gtsr-trucks-v0.4.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
+2. Copy [gtsr-trucks-v0.4.1.scs](../mods/gtsr-trucks-v0.4.1.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
 3. Select **Solar Circuit - Alumni Support** in the matching truck's paint shop. Price: EUR 1,000; unlock level: 0.
 4. Check both sides, front, rear, roof, seams and painted accessories on each cabin/chassis combination before applying it across the fleet.
 

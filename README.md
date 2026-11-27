@@ -10,21 +10,27 @@ A Georgia Tech Solar Racing inspired personal alumni fleet theme for Euro Truck 
 
 ![Mercedes-Benz and DAF artwork preview](previews/mercedes-daf-preview.png)
 
-**Version 0.4 is an installable build for testing.** The new Mercedes/DAF maps passed static checks and template review; their in-game appearance still needs checking. User screenshots document earlier modules loading with alignment and mirroring issues. Preview drawings are flat design elevations, not game screenshots.
+**Version 0.4.1 is an installable build for testing.** It focuses on the three photographed coaches and the Volvo FH6 Aero Globetrotter XL Alumni/Heavy Support liveries. The corrected maps passed static and template checks; their appearance still needs in-game confirmation. Preview drawings are flat designs or texture projections, not game screenshots.
+
+## Focused correction in v0.4.1
+
+Corrected right-side lettering for MAN Lion's Coach L 13.9 m, Scania Touring HD 13.7 m and Volvo 9700 DD. The double-decker mark is smaller and below the lower windows. Volvo FH6 Aero Globetrotter XL Alumni/Heavy Support now use smaller cab marks and separate role labels; the heavy configuration has painted rear-fender overrides. [Focused fix details and validation](docs/FOCUSED-FIX.md). The corrected build awaits in-game confirmation.
+
+![Focused correction preview](previews/focused-fix-preview.png)
 
 ## Included paint-job modules
 
 | Module | Vehicles and layouts | Limits |
 | --- | --- | --- |
-| [25-family truck fleet](mods/gtsr-trucks-v0.4.scs) | 78 paint definitions, including 19 new Mercedes/DAF options and all previous stock 8×4 options | [Mercedes/DAF coverage](docs/MERCEDES-DAF-LIVERIES.md); [8×4 coverage](docs/8X4-LIVERIES.md); matching truck DLC required |
+| [25-family truck fleet](mods/gtsr-trucks-v0.4.1.scs) | 78 paint definitions, including 19 new Mercedes/DAF options and all previous stock 8×4 options | [Mercedes/DAF coverage](docs/MERCEDES-DAF-LIVERIES.md); [8×4 coverage](docs/8X4-LIVERIES.md); matching truck DLC required |
 | [SCS box trailers](mods/gtsr-trailers-v0.1.scs) | Owned curtainsider and dry-freighter maps in Long, Double and B-Double layouts; related bodies assigned the matching dry atlas | Related insulated, refrigerated, side-door and moving-floor variants need individual visual checks |
-| [SCS coaches](mods/gtsr-coaches-v0.1.scs) | MAN Lion's Coach 13.9 m / 12.1 m; Scania Touring HD 13.7 m / 12.9 m; Volvo 9700 DD | Requires SCS Coaches DLC; third-party coaches are not mapped |
+| [SCS coaches](mods/gtsr-coaches-v0.1.1.scs) | MAN Lion's Coach 13.9 m / 12.1 m; Scania Touring HD 13.7 m / 12.9 m; Volvo 9700 DD | Requires SCS Coaches DLC; third-party coaches are not mapped |
 
 ## Install
 
 1. Download or clone this repository. For an individual module on GitHub, open its file and use **Download raw file**.
 2. Copy the desired `.scs` files from `mods/` into your active ETS2 user-data `mod` folder. On Windows this is usually `Documents\Euro Truck Simulator 2\mod`; OneDrive redirection or a custom `-homedir` can change the location.
-3. Activate the modules in ETS2 Mod Manager. All three can be enabled together. When upgrading, remove/deactivate older truck modules and enable only truck v0.4.
+3. Activate the modules in ETS2 Mod Manager. All three can be enabled together. When upgrading, remove/deactivate older truck modules and enable only truck v0.4.1 and coach v0.1.1.
 4. At the matching vehicle's paint shop, choose **Solar Circuit - Alumni Support**, or **Solar Circuit - Heavy Support 8x4** on a supported 8×4 configuration. Price: EUR 1,000; unlock level: 0.
 5. Check both sides, front, rear, roof, seams and painted accessories before applying across your fleet. Use your usual profile backup when testing mods.
 
@@ -33,7 +39,7 @@ See [README.txt](README.txt) for complete instructions. Open [FLEET-GUIDE.html](
 ## Package contents
 
 - `artwork/` — editable SVG and PNG decal masters, fleet numbers, rear panel, solar strip, circuit trace and unchanged source team logo.
-- `textures/` — 114 texture sets in SVG, PNG and DDS, including 29 new Mercedes/DAF sets, four refreshed heavy sets and three solid fallback colors.
+- `textures/` — 115 texture sets in SVG, PNG and DDS, including a dedicated FH6 Aero XL heavy map and three solid fallback colors.
 - `mods/` — three installable `.scs` archives, compressed as standard ZIP files with their original contents preserved.
 - `previews/` — fleet design board and example texture sheets.
 - `source/` — optional rebuilding utility, dependency list, texture index and validation reports.
@@ -43,7 +49,7 @@ See [README.txt](README.txt) for complete instructions. Open [FLEET-GUIDE.html](
 
 All seven standard SCS Mercedes-Benz and DAF families are now included: Actros, New Actros, XF105, XF Euro 6, NGD XF/XG/XG+, XD and XF Electric. See the [exact cabin coverage and rebuild recipe](docs/MERCEDES-DAF-LIVERIES.md).
 
-For refinement, capture straight left/right, front/rear, front three-quarter views from both sides, a high rear view and close-ups of problem areas. See the [prioritized screenshot checklist](docs/SCREENSHOT-CHECKLIST.md). Existing coach mirroring and other earlier-model issues remain unresolved in this expansion.
+For refinement, capture straight left/right, front/rear, front three-quarter views from both sides, a high rear view and close-ups of problem areas. See the [prioritized screenshot checklist](docs/SCREENSHOT-CHECKLIST.md). The three photographed coach bodies are corrected by v0.4.1; shorter coach bodies and other earlier-model issues remain outside this focused patch.
 
 ## Earlier template references
 
@@ -51,7 +57,7 @@ See the [Volvo, Iveco, MAN and Renault template reference](docs/TRUCK-TEMPLATES.
 
 ## Edit and rebuild
 
-The expanded truck module uses conditional DLC sections, supported by the rebuild utility. See [MERCEDES-DAF-LIVERIES.md](docs/MERCEDES-DAF-LIVERIES.md) for the current generator, [8X4-LIVERIES.md](docs/8X4-LIVERIES.md) for the historical 8×4 generator and [TRUCK-LIVERIES.md](docs/TRUCK-LIVERIES.md) for the earlier expansion recipe.
+The expanded truck module uses conditional DLC sections, supported by the rebuild utility. See [FOCUSED-FIX.md](docs/FOCUSED-FIX.md) for the current patch recipe, [MERCEDES-DAF-LIVERIES.md](docs/MERCEDES-DAF-LIVERIES.md) for the earlier Mercedes/DAF generator, [8X4-LIVERIES.md](docs/8X4-LIVERIES.md) for the historical 8×4 generator and [TRUCK-LIVERIES.md](docs/TRUCK-LIVERIES.md) for the earlier expansion recipe.
 
 Edit a vehicle SVG in `textures/` at its original canvas size. Keep the team logo proportional. Text uses Arial or a compatible system font; no font files are bundled. Editing a reusable decal master does not automatically change the mapped vehicle SVGs.
 
@@ -71,6 +77,8 @@ python source/rebuild.py --texture scania-s-high-roof
 The utility writes updated PNG/DDS files and modules under `rebuilt/`, which Git ignores. Install either the original modules or the rebuilt modules, not duplicate copies of both. A separate vehicle model requires its own exact UV template and definitions; these maps are not universal skins.
 
 ## Validation status
+
+Version 0.4.1: **1477/1477 focused checks** and **1113/1113 workflow checks** passed. Five focused overlays and 25 new feedback screenshots were reviewed. All unrelated texture exports and archive entries are preserved. See the [focused report](source/focused-fix-validation.json) and [workflow report](source/focused-fix-rebuild-validation.json). Corrected runtime appearance still needs confirmation.
 
 Version 0.4: **1596/1596 static checks passed**, covering 114 texture sets, 78 paint definitions, all seven Mercedes/DAF cab inventories and 93 stock/tuning accessory identifiers. All 30 template overlays were reviewed. Selected base, DLC and heavy-alias editing paths and complete recipe regeneration passed **756/756 rebuild checks**. See the [validation report](source/mercedes-daf-validation.json) and [rebuild report](source/mercedes-daf-rebuild-validation.json). The new maps have not been tested in game.
 

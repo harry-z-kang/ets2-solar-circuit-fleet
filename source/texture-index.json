@@ -117,7 +117,8 @@
     ],
     "mip_levels": 14,
     "format": "DXT5 / BC3",
-    "template": "scania.touring_23__Body A (HD 13.7 m, 6x2_4).dds"
+    "template": "ets/scs/scania.touring_23/Body A (HD 13.7 m, 6x2_4).dds",
+    "scope": "Focused coach/FH6 correction 0.4.1"
   },
   {
     "name": "scania-touring-129",
@@ -137,7 +138,8 @@
     ],
     "mip_levels": 14,
     "format": "DXT5 / BC3",
-    "template": "man.lions_24__Body A (L 13.9 m).dds"
+    "template": "ets/scs/man.lions_24/Body A (L 13.9 m).dds",
+    "scope": "Focused coach/FH6 correction 0.4.1"
   },
   {
     "name": "man-lions-coach-121",
@@ -157,7 +159,8 @@
     ],
     "mip_levels": 14,
     "format": "DXT5 / BC3",
-    "template": "volvo.9700_23__Body A (DD 4.0 m).dds"
+    "template": "ets/scs/volvo.9700_23/Body A (DD 4.0 m).dds",
+    "scope": "Focused coach/FH6 correction 0.4.1"
   },
   {
     "name": "solid-navy",
@@ -408,7 +411,8 @@
     "template": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
     "vehicle_id": "volvo.fh_2024",
     "cabin": "Aero Globetrotter XL",
-    "mount": "dlc_volvo_fh_2024"
+    "mount": "dlc_volvo_fh_2024",
+    "scope": "Focused coach/FH6 correction 0.4.1"
   },
   {
     "name": "trk_volvo_fh_2024_cabin_c",
@@ -1423,5 +1427,18 @@
     "vehicle_id": "daf.xf_electric",
     "mount": "dlc_daf_xf_electric",
     "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "h8_volvo_fh_2024_aero_xl",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
+    "scope": "Focused coach/FH6 correction 0.4.1",
+    "vehicle_id": "volvo.fh_2024",
+    "mount": "dlc_volvo_fh_2024"
   }
 ]

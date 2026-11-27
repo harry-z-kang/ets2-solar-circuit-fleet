@@ -1,0 +1,24 @@
+{
+  "version": "0.4.1",
+  "coaches": {
+    "man-lions-coach-139": {"name": "MAN Lion's Coach L 13.9 m", "vehicle": "man.lions_24", "template": "ets/scs/man.lions_24/Body A (L 13.9 m).dds", "side_origin": [640, 3140], "side_size": [5100, 820], "logo": [2080, 3530, 1100], "fleet_y": 3860, "fleet_size": 40, "fleet": "CO-01", "safe_bay": [1500, 3480, 3500, 3920]},
+    "scania-touring-137": {"name": "Scania Touring HD 13.7 m, 6x2_4", "vehicle": "scania.touring_23", "template": "ets/scs/scania.touring_23/Body A (HD 13.7 m, 6x2_4).dds", "side_origin": [620, 3160], "side_size": [4970, 800], "logo": [2080, 3530, 1100], "fleet_y": 3860, "fleet_size": 40, "fleet": "CO-02", "safe_bay": [1650, 3480, 3500, 3920]},
+    "volvo-9700-dd": {"name": "Volvo 9700 DD 4.0 m", "vehicle": "volvo.9700_23", "template": "ets/scs/volvo.9700_23/Body A (DD 4.0 m).dds", "side_origin": [700, 3270], "side_size": [5000, 740], "logo": [2200, 3795, 650], "fleet_y": 3970, "fleet_size": 30, "fleet": "CO-03", "safe_bay": [2120, 3775, 3100, 3995]}
+  },
+  "truck": {
+    "name": "Volvo FH6 Aero Globetrotter XL",
+    "vehicle": "volvo.fh_2024",
+    "texture": "trk_volvo_fh_2024_cabin_b_aero",
+    "heavy_texture": "h8_volvo_fh_2024_aero_xl",
+    "template": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
+    "mount": "dlc_volvo_fh_2024",
+    "sides": [[50,2730,1360,3490],[2750,2730,4030,3490]],
+    "bands": [[1300,2770,2930,3640]],
+    "roof": [1620,1380,760,130],
+    "logos": [[790,2820,460],[2820,2820,460]],
+    "fleet_y": 2940,
+    "handle_boxes": [[735,2950,930,3040],[3140,2950,3340,3040]],
+    "door_seams": [[730,2750,760,3200],[3300,2750,3330,3200]],
+    "heavy_accessory_overrides": ["r_fender.paint_8x","r_fendr_top.paint_8x","r_fendr_top.chrome_p_8x"]
+  }
+}
