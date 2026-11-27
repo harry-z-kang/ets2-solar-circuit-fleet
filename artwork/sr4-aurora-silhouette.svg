@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<!-- Original stylized SR-4 Aurora side silhouette; reference photos credited in ATTRIBUTION.txt. Front faces right. -->
+<g stroke="#B39051" stroke-linejoin="round">
+<circle cx="290" cy="270" r="48" fill="#051E39" stroke-width="9"/>
+<circle cx="950" cy="270" r="48" fill="#051E39" stroke-width="9"/>
+<circle cx="290" cy="270" r="25" fill="none" stroke-width="4"/>
+<circle cx="950" cy="270" r="25" fill="none" stroke-width="4"/>
+<path d="M42 196 Q82 126 188 91 Q320 40 500 35 L664 40 Q750 53 843 103 L1054 185 Q1131 214 1165 245 L1150 266 Q1100 282 1004 281 Q998 220 949 219 Q895 219 893 282 L345 282 Q340 220 290 219 Q238 219 235 277 Q129 266 67 233 Z" fill="#B39051" stroke-width="6"/>
+<path d="M212 101 Q298 66 408 64 L435 72 L434 145 L211 154 Z" fill="#051E39" stroke="none"/>
+<path d="M456 66 L622 68 Q666 72 706 90 L721 148 L460 146 Z" fill="#051E39" stroke="none"/>
+<path d="M731 94 Q780 115 840 142 L947 189 L760 160 Z" fill="#051E39" stroke="none"/>
+<path d="M443 65 L450 251 M713 90 L748 258" fill="none" stroke="#051E39" stroke-width="7"/>
+<path d="M182 88 Q350 31 500 35 L663 40" fill="none" stroke="#051E39" stroke-width="9"/>
+<path d="M1010 212 Q1070 221 1111 243" fill="none" stroke="#051E39" stroke-width="6"/>
+<path d="M93 218 L205 246 M360 262 L860 262" fill="none" stroke="#051E39" stroke-width="5"/>
+</g></svg>

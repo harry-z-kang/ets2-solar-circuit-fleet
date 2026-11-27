@@ -1,0 +1,448 @@
+{
+  "version": "0.5.0",
+  "private_images_not_distributed": true,
+  "files": [
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002618_00.png",
+      "sha256": "ccc99c76a9c170779b54e75905f91e04f58d405a32a94ef77a28dbe207db81fb",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002625_00.png",
+      "sha256": "5e870ac30a95bf509719f6b04a969213a9b451e2b0db81fb913ded1db9ab8e36",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002630_00.png",
+      "sha256": "247c6a3bebc0089083e3bcf94ea040f8ebedbf85c6c695892005e01bd4804894",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002636_00.png",
+      "sha256": "88170708c0e5d34bed18574a02d53d02d62f19018004acdb9af4f8f38903c720",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002641_00.png",
+      "sha256": "1e2971f6cc89bdf7ce151cf43c04ffc0a2097ce86a98af4be4308f7a9f4e9f52",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115013_00.png",
+      "sha256": "ac6f86e3e376bde56b58d18545ebcd9b46222b2a9c428d25a977b2a803faa2ae",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115021_00.png",
+      "sha256": "f7fb3c6424f5fe72c2e5990d6dc90b0de5979629768c84723ae5c1f6ff300de4",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115030_00.png",
+      "sha256": "10a77d873ff446a7ff56c9c78283a0bb2072e2294de749df309a3a9b929c1fbc",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115038_00.png",
+      "sha256": "69ade8db61d7bea50b394ef236400a309c701eab68a0dd8c25f6ba47e37db03b",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115052_00.png",
+      "sha256": "1439634cebaa9664e8304c12e4ff115c76aad66000b4c9767315010a7c2a8f39",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115056_00.png",
+      "sha256": "16d638001379e6afd6643e40c9125ed73c14cf297adbb0ad115740bb0fa37dd5",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "MAN Lion's Coach L 13.9m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115103_00.png",
+      "sha256": "046536089c87680ad237466def4d8e9e26b28134f1265e7f6f1aa2644c6fc963",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002722_00.png",
+      "sha256": "358113e0e9b3405f8338a53e9cbeaba9d187c5e8aa25e62f4e136f029a632f5d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002729_00.png",
+      "sha256": "4a48f5c4dde48f8e2afaf2c969ccaaeb2d7288641bcfc0fca7a286fbbedbee94",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002736_00.png",
+      "sha256": "aa70f88a5097329b0163a43762c762c80823f33bd32424b0a89a2994ce050e2d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002744_00.png",
+      "sha256": "c65896d3558935bbc7b9b176b8ccd1123fe785389258354983f805a4eb785cbc",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002748_00.png",
+      "sha256": "1795a25f5854b2c07e54948471f01917225611c64d5ccae9fd0c430017f02e86",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115208_00.png",
+      "sha256": "9e094dbd22c4de97723eb7b1529fca086e20d1eda195f10f59211d6a873a1bb7",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115216_00.png",
+      "sha256": "5b601d018bba29e4e0833b0d131e73b6908cf103d7217c90a24899879ba925a5",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115224_00.png",
+      "sha256": "414869a72ed6abd70c634dc7450494b269948085a29ea8f93e338c3e20287ad2",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115232_00.png",
+      "sha256": "9f81b3ae741cdac7fade9829804d0f6249321d25a68583ed79f226421430c87d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115246_00.png",
+      "sha256": "c3f58c1cb47378cc1f57321c68d980af671206094a2a356079392e5cb341502d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115250_00.png",
+      "sha256": "eea18587578d53c4982a42db4bdfc2bcd5e83be2d36b079d10fec1c342e7fbda",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Scania Touring HD 13.7m, 6x2 4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115258_00.png",
+      "sha256": "22294ddb9e5d61f15e96d93cde77ef2edab976199efbd76c67093d14af9a38b3",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002431_00.png",
+      "sha256": "cf2277f525c8ab642f8cf1dad3b0466c8664b8d038d57c69183f86f59e5618c4",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002442_00.png",
+      "sha256": "21023a8ce1c075cf9bf81f695d9cab5320949323acd3eefc7da57a91d67c1577",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002448_00.png",
+      "sha256": "10ec90e5815d6bf669ca2311a8ff550f3508e7180b60ef5bb1c6852a0e8b965a",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002456_00.png",
+      "sha256": "e294b6111d50f77f1087a807f0bb1250da9292aa53d9a8687d2cbadda75b051c",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002503_00.png",
+      "sha256": "1c723a35a5b110d0030c82ecc858cc214f86a43e2dfcb6ba831f0f4721ff430e",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "change_suggestions.png",
+      "sha256": "192c3bc271d9068a416aa68b4f9a5fa56929a3beee4fabe490ebb72a56324e62",
+      "annotated": true
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114731_00.png",
+      "sha256": "6ecbe256fb5955ee15e3379224ecd50e91e1bee589473db56c7aeeec7ecf9315",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114742_00.png",
+      "sha256": "182b547766e41562256786e8e227754194648a66b7449d68d7fb3849fbb2b26c",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114754_00.png",
+      "sha256": "9d9475a213c6aafb954520bbc8aee66698d96fe462b95053c14a9f34687c165f",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114801_00.png",
+      "sha256": "1359b3f2190b4b1ec01c658baf72364f95c76a8541bef72f08dd606f45f7e21b",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114820_00.png",
+      "sha256": "d65d328b89edd6b92eebd109215b836e82dc1811add198f4f7825c1e4911491d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114900_00.png",
+      "sha256": "d091c4661fc9507d4906ab85dcc37ac6beec98d396f9afeff7fbe7b55eb9658d",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo 9700 DD 4.0m",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_114909_00.png",
+      "sha256": "dcd0786e6c0e1d4f1afd5bb8fbfed42ea2baca3781852984a32fcde95e352db2",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002242_00.png",
+      "sha256": "a3bc8cf9025ef8a348e4e587fda502cdafa4d719d25c3eb5a97c0b216337a65f",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002254_00.png",
+      "sha256": "1785eb393f42d8fac4d2abcd81a3c8ceb18c07e3c9d50a2765622685742ca275",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002259_00.png",
+      "sha256": "b25d7c10d89b8cbb19385d4c9cc67d4a2ed1a0f937c2b6c2d8c29d8e93754b3b",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002311_00.png",
+      "sha256": "720776ec80a3f2382bda34fc3db80d38fb96fb19397cb2b98e7b0471c2a4cedd",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_002323_00.png",
+      "sha256": "ad95214e01e6198d56326127cee387b01dd131ea3ebeecb7b148fae90952c4d1",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115832_00.png",
+      "sha256": "fb25a22bf92190feb53122f9e1c4e6a15f5c83b0184e68ec7ed16c1882ccd6bd",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115842_00.png",
+      "sha256": "8c936a8d9261eef93666b9218ceed5348c9b983bf8227427ca805cb4795cd786",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115849_00.png",
+      "sha256": "d1813a2b61fcb82c5846e467c8da7444ac2c02ff074c07b33219087557f6f7ef",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115856_00.png",
+      "sha256": "4d2c7ef9fedfe872d1a21505d03cd51c8fa6760e496302333812a3e7addff638",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115910_00.png",
+      "sha256": "0ce9c88d3327f932f5195da6e7d4f4d17e95948363b763046585b53b0d6580ea",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115916_00.png",
+      "sha256": "6cee0b399f9098d372ce70a4a12bc0ae661f7dd3f2f8099ae2547db59bb6a429",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115949_00.png",
+      "sha256": "aa218225fb430b94f7b57d6f21300cf6b06ce0654c89ab62c22222f87b20803c",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Alumni Support",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_115954_00.png",
+      "sha256": "7ea3e797d5718502a6e062253f95c39aac601c4ce9a29b4defc7bb58cbc83971",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_001832_00.png",
+      "sha256": "dcde8b321ebfcafbcaa3eb7db7705d3a7fbeadfed7e2da745f4614601c287935",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_001837_00.png",
+      "sha256": "ad39bd40ff15a7b21e52bb639e06e6f6fda801546a7cfdb6433a38f65f23f412",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_001843_00.png",
+      "sha256": "e6b0e505ef5193fe8a36b4379c9212efc50ee9e33645915626b7ff08f9041046",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_001849_00.png",
+      "sha256": "79ca74cb7643b091a45c45820662d44bc48d1273e90a475146f9c75e6d7cd6b5",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.0",
+      "file": "ets2_20261127_001931_00.png",
+      "sha256": "e762748c2197dad53ab1cd4257c6e7f9b6280333dc5a32c9fdd2cc748b2be9dd",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120047_00.png",
+      "sha256": "a5adcfdaedf9fb8df6282057b0022fe02c60774c197bcbcb36d18dfca5cfaf27",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120056_00.png",
+      "sha256": "08bc815356f1df2724973d75608c82d03d932fde69de2f7f0c3700375b9f4306",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120103_00.png",
+      "sha256": "2fce9f9e15945e41bb4ae547d7c9e985425ab8fc0123c2f3c9329e55903f5cec",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120124_00.png",
+      "sha256": "8acae0d753afbc346b673d27c73764dd6066a09e1d40521c78925b461c9fcca4",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120139_00.png",
+      "sha256": "31b68678d8e405e09dc2280a0a7165e607e4576ebc5289c6dce3f49946477fb5",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120144_00.png",
+      "sha256": "e698f944324558cfb876b357007a6ea4d07c57fe17e2104df7542f74eac394cf",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120148_00.png",
+      "sha256": "a52819118ed387a4cec8b7ad8b6ed297599c623cfc7588939eccef5a0e329ecf",
+      "annotated": false
+    },
+    {
+      "vehicle_folder": "Volvo FH6 Asero Globetrotter XL Heavy Support 8x4",
+      "version_folder": "v0.4.1",
+      "file": "ets2_20261127_120153_00.png",
+      "sha256": "dc10977396676c694a2945d9702e6e7aca42b9fbd1008524b23c158098b1fe05",
+      "annotated": false
+    }
+  ],
+  "total": 63
+}

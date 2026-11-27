@@ -25,7 +25,7 @@ Standard-cab options use the vehicle's compatible stock chassis. Existing Heavy 
 ## Install and upgrade
 
 1. Deactivate/remove older Solar Circuit truck modules from your active ETS2 mod folder.
-2. Copy [gtsr-trucks-v0.4.1.scs](../mods/gtsr-trucks-v0.4.1.scs) into that folder and activate it in Mod Manager. Enable only one truck-module version.
+2. Copy [current truck module](../mods/gtsr-trucks-v0.5.scs) into that folder and activate it in Mod Manager. Enable only one truck-module version.
 3. Choose **Solar Circuit - Alumni Support** for the matching cabin, or **Solar Circuit - Heavy Support 8x4** for a listed heavy configuration. Price: EUR 1,000; unlock level: 0.
 4. Check both sides, front, rear, roof and painted parts before applying it across the fleet. The [screenshot checklist](SCREENSHOT-CHECKLIST.md) describes useful views.
 

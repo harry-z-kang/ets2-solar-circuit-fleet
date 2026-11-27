@@ -118,7 +118,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/scania.touring_23/Body A (HD 13.7 m, 6x2_4).dds",
-    "scope": "Focused coach/FH6 correction 0.4.1"
+    "scope": "Panel continuity / Aurora / Van Leer 0.5"
   },
   {
     "name": "scania-touring-129",
@@ -139,7 +139,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/man.lions_24/Body A (L 13.9 m).dds",
-    "scope": "Focused coach/FH6 correction 0.4.1"
+    "scope": "Panel continuity / Aurora / Van Leer 0.5"
   },
   {
     "name": "man-lions-coach-121",
@@ -160,7 +160,7 @@
     "mip_levels": 14,
     "format": "DXT5 / BC3",
     "template": "ets/scs/volvo.9700_23/Body A (DD 4.0 m).dds",
-    "scope": "Focused coach/FH6 correction 0.4.1"
+    "scope": "Panel continuity / Aurora / Van Leer 0.5"
   },
   {
     "name": "solid-navy",
@@ -412,7 +412,7 @@
     "vehicle_id": "volvo.fh_2024",
     "cabin": "Aero Globetrotter XL",
     "mount": "dlc_volvo_fh_2024",
-    "scope": "Focused coach/FH6 correction 0.4.1"
+    "scope": "Panel continuity / Aurora / Van Leer 0.5"
   },
   {
     "name": "trk_volvo_fh_2024_cabin_c",
@@ -1429,16 +1429,51 @@
     "scope": "Mercedes-Benz / DAF 0.4"
   },
   {
-    "name": "h8_volvo_fh_2024_aero_xl",
+    "name": "vl_fh6_aero_side",
     "size": [
-      4096,
-      4096
+      2048,
+      2048
     ],
-    "mip_levels": 13,
+    "mip_levels": 12,
     "format": "DXT5 / BC3",
-    "template": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
-    "scope": "Focused coach/FH6 correction 0.4.1",
-    "vehicle_id": "volvo.fh_2024",
-    "mount": "dlc_volvo_fh_2024"
+    "scope": "Panel continuity / Aurora / Van Leer 0.5",
+    "mount": "dlc_volvo_fh_2024",
+    "vehicle_id": "volvo.fh_2024"
+  },
+  {
+    "name": "vl_fh6_standard_side",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "scope": "Panel continuity / Aurora / Van Leer 0.5",
+    "mount": "dlc_volvo_fh_2024",
+    "vehicle_id": "volvo.fh_2024"
+  },
+  {
+    "name": "vl_fh6_8x4_roof",
+    "size": [
+      1024,
+      1024
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "scope": "Panel continuity / Aurora / Van Leer 0.5",
+    "mount": "dlc_volvo_fh_2024",
+    "vehicle_id": "volvo.fh_2024"
+  },
+  {
+    "name": "vl_fh6_8x4_chassis",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "scope": "Panel continuity / Aurora / Van Leer 0.5",
+    "mount": "dlc_volvo_fh_2024",
+    "vehicle_id": "volvo.fh_2024"
   }
 ]

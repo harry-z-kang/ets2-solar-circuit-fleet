@@ -1,5 +1,7 @@
 # Focused livery correction — fleet v0.4.1
 
+Historical v0.4.1 record. For current artwork, module files and migration instructions, use [Panel refinement v0.5.0](PANEL-REFINEMENT.md). Later screenshots showed continuity problems that this older patch did not resolve.
+
 This patch uses the 25 new screenshots to address only the requested vehicles:
 
 | Vehicle | Correction |
@@ -17,7 +19,7 @@ The comparison is made from paint textures projected using the side orientation 
 ## Install
 
 1. Remove/deactivate older Solar Circuit **truck and coach** modules in your active ETS2 mod folder.
-2. Install [gtsr-trucks-v0.4.1.scs](../mods/gtsr-trucks-v0.4.1.scs) and [gtsr-coaches-v0.1.1.scs](../mods/gtsr-coaches-v0.1.1.scs). Keep one version of each module enabled. The coach module still requires SCS Coaches DLC.
+2. Install [gtsr-trucks-v0.4.1.scs](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.4.1/gtsr-trucks-v0.4.1.scs) and [gtsr-coaches-v0.1.1.scs](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.4.1/gtsr-coaches-v0.1.1.scs). Keep one version of each module enabled. The coach module still requires SCS Coaches DLC.
 3. Existing paint-job IDs and prices are retained, so the selected paint jobs can continue using their existing definitions. Re-select the matching paint job in the configurator if necessary.
 4. Inspect both coach sides and the Volvo DD lower window edge; inspect both FH6 cab sides and the heavy rear fenders with your chosen painted accessories.
 
@@ -52,7 +54,7 @@ python source/rebuild.py --texture volvo-9700-dd --texture trk_volvo_fh_2024_cab
 The Alumni and Heavy Support FH6 sources are separate so that their role labels remain distinct. To regenerate this focused recipe from the included maps and current modules:
 
 ```sh
-python source/build_focused_fix.py --truck-seed mods/gtsr-trucks-v0.4.1.scs --coach-seed mods/gtsr-coaches-v0.1.1.scs
+python source/build_focused_fix.py --truck-seed mods/gtsr-trucks-v0.5.scs --coach-seed mods/gtsr-coaches-v0.2.scs
 ```
 
 This overwrites the targeted lettering/layout edits. Use `rebuild.py` to retain manual edits. Optional `--templates /path/to/templates.zip --qa-dir /private/qa` checks the pinned Paint Job Packer v2.1.3 archive and creates private overlays. Template member hashes are in [focused-fix-template-hashes.json](../source/focused-fix-template-hashes.json). Run this focused recipe last when reconstructing earlier expansion stages.
