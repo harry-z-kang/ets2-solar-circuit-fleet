@@ -2,7 +2,9 @@
 
 Checked 26 November 2026. This reference covers **14 SCS truck models and 37 cabin layouts**, with **56 verified DDS templates** in total: 37 main cabin maps plus 19 auxiliary maps. All main cabin maps are **4096 × 4096**.
 
-These source templates now underpin the [version 0.2 truck liveries](TRUCK-LIVERIES.md). The reference below records the author’s source templates and metadata; the livery build also checks runtime cabin IDs against the installed game.
+For all standard 8×4 chassis, including DAF, Actros and the other Scanias, see the [current 8×4 template and livery guide](8X4-LIVERIES.md).
+
+These source templates underpin the [version 0.2 truck liveries](TRUCK-LIVERIES.md). The reference below records the author’s source templates and metadata; the livery build also checks runtime cabin IDs against the installed game.
 
 ## Downloads
 

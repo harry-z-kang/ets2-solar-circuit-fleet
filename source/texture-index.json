@@ -916,5 +916,135 @@
     "vehicle_id": "renault.etech_t",
     "cabin": null,
     "mount": "dlc_renault_etech_t"
+  },
+  {
+    "name": "h8_mercedes_actros2014_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/mercedes.actros2014/Cabin 8x4 (GigaSpace).dds",
+    "vehicle_id": "mercedes.actros2014",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_r_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.r/Cabin 8x4 (Topline).dds",
+    "vehicle_id": "scania.r",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_r_2016_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.r_2016/Cabin 8x4 (High Roof).dds",
+    "vehicle_id": "scania.r_2016",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_r_2016_skirts",
+    "size": [
+      1024,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.r_2016/Sideskirts (8x).dds",
+    "vehicle_id": "scania.r_2016",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_streamline_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.streamline/Cabin 8x4 (Topline).dds",
+    "vehicle_id": "scania.streamline",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_s_2016_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.s_2016/Cabin 8x4 (High Roof).dds",
+    "vehicle_id": "scania.s_2016",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_scania_s_2016_skirts",
+    "size": [
+      1024,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "ets/scs/scania.s_2016/Sideskirts (8x).dds",
+    "vehicle_id": "scania.s_2016",
+    "mount": "base",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_daf_2021_xf",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin C (XF).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_daf_2021_xg",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin B (XG).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "stock 8x4"
+  },
+  {
+    "name": "h8_daf_2021_xg_plus",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin A (XG+).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "stock 8x4"
   }
 ]

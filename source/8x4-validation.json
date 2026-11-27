@@ -1,0 +1,5837 @@
+{
+  "version": "0.3.0",
+  "local_game_version_observed": "1.62.3.3",
+  "checks_passed": 1164,
+  "checks_total": 1164,
+  "failures": [],
+  "game_session_launched": false,
+  "installed_in_active_profile": false,
+  "local_stock_definitions_checked": true,
+  "template_overlays_reviewed": 10,
+  "limits": [
+    "Runtime loading, seams, material finish, opposite-side reading direction and interactions with other mods require an in-game check.",
+    "Stock SCS chassis only. Non-paintable plastic/metal retains factory materials."
+  ],
+  "checks": [
+    {
+      "check": "85 unique exported texture sets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "10 new authored maps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-s-high-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-s-high-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-s-high-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-s-high-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-s-high-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-s-normal-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-s-normal-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-s-normal-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-s-normal-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-s-normal-roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-s-sideskirts-4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-s-sideskirts-4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-s-sideskirts-4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-s-sideskirts-4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-s-sideskirts-4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-s-sideskirts-6x-short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-s-sideskirts-6x-short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-s-sideskirts-6x-short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-s-sideskirts-6x-short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-s-sideskirts-6x-short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-s-sideskirts-6x-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-s-sideskirts-6x-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-s-sideskirts-6x-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-s-sideskirts-6x-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-s-sideskirts-6x-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-curtainsider-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-curtainsider-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-curtainsider-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-curtainsider-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-curtainsider-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-curtainsider-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-curtainsider-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-curtainsider-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-curtainsider-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-curtainsider-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-curtainsider-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-curtainsider-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-curtainsider-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-curtainsider-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-curtainsider-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-dry-freighter-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-dry-freighter-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-dry-freighter-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-dry-freighter-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-dry-freighter-long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-dry-freighter-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-dry-freighter-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-dry-freighter-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-dry-freighter-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-dry-freighter-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scs-box-dry-freighter-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scs-box-dry-freighter-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scs-box-dry-freighter-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scs-box-dry-freighter-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scs-box-dry-freighter-b-double",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-touring-137",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-touring-137",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-touring-137",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-touring-137",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-touring-137",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions scania-touring-129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header scania-touring-129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload scania-touring-129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS scania-touring-129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source scania-touring-129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions man-lions-coach-139",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header man-lions-coach-139",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload man-lions-coach-139",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS man-lions-coach-139",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source man-lions-coach-139",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions man-lions-coach-121",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header man-lions-coach-121",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload man-lions-coach-121",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS man-lions-coach-121",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source man-lions-coach-121",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions volvo-9700-dd",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header volvo-9700-dd",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload volvo-9700-dd",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS volvo-9700-dd",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source volvo-9700-dd",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions solid-navy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header solid-navy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload solid-navy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS solid-navy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source solid-navy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions solid-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header solid-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload solid-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS solid-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source solid-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions solid-white",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header solid-white",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload solid-white",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS solid-white",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source solid-white",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_2012_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_2012_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_2012_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_2012_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_2012_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_2012_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_2012_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_2012_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_2012_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_2012_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_2012_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_2012_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_2012_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_2012_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_2012_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_2012_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_2012_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_2012_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_2012_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_2012_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh16_2012_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh16_2012_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh16_2012_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh16_2012_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh16_2012_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2021_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2021_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2021_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2021_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2021_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2021_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2021_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2021_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2021_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2021_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2021_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2021_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2021_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2021_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2021_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2021_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2021_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2021_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2021_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2021_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2021_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2021_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2021_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2021_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2021_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_a_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_a_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_a_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_a_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_a_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_b_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_b_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_b_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_b_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_b_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_c_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_c_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_c_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_c_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_c_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_d",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_d",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_d",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_d",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_d",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_cabin_d_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_cabin_d_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_cabin_d_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_cabin_d_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_cabin_d_aero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_side_deflectors_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_side_deflectors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_side_deflectors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_side_deflectors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_side_deflectors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_side_deflectors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_volvo_fh_2024_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_volvo_fh_2024_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_volvo_fh_2024_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_volvo_fh_2024_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_volvo_fh_2024_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_stralis_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_stralis_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_stralis_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_stralis_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_stralis_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_stralis_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_stralis_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_stralis_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_stralis_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_stralis_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_stralis_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_stralis_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_stralis_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_stralis_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_stralis_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_hiway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_hiway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_hiway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_hiway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_hiway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_sway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_sway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_sway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_sway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_sway_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_iveco_sway_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_iveco_sway_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_iveco_sway_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_iveco_sway_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_iveco_sway_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_sideskirts_6x2_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_sideskirts_6x2_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_sideskirts_6x2_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_sideskirts_6x2_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_sideskirts_6x2_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_sideskirts_6x2_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_sideskirts_6x2_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_sideskirts_6x2_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_sideskirts_6x2_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_sideskirts_6x2_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_sideskirts_6x4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_sideskirts_6x4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_sideskirts_6x4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_sideskirts_6x4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_sideskirts_6x4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_euro6_sideskirts_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_euro6_sideskirts_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_euro6_sideskirts_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_euro6_sideskirts_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_euro6_sideskirts_8x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_2020_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_2020_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_2020_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_2020_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_2020_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_2020_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_2020_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_2020_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_2020_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_2020_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_2020_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_2020_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_2020_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_2020_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_2020_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_2020_cabin_deflectors_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_2020_cabin_deflectors_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_2020_cabin_deflectors_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_2020_cabin_deflectors_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_2020_cabin_deflectors_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_man_tgx_2020_cabin_deflectors_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_man_tgx_2020_cabin_deflectors_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_man_tgx_2020_cabin_deflectors_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_man_tgx_2020_cabin_deflectors_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_man_tgx_2020_cabin_deflectors_cabin_c",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_magnum_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_magnum_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_magnum_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_magnum_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_magnum_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_premium_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_premium_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_premium_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_premium_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_premium_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_premium_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_premium_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_premium_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_premium_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_premium_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_t_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_t_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_t_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_t_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_t_cabin_b",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_t_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_t_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_t_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_t_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_t_sideskirts_4x",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_t_sideskirts_6x_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_t_sideskirts_6x_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_t_sideskirts_6x_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_t_sideskirts_6x_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_t_sideskirts_6x_long",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_t_sideskirts_6x_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_t_sideskirts_6x_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_t_sideskirts_6x_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_t_sideskirts_6x_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_t_sideskirts_6x_short",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_etech_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_etech_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_etech_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_etech_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_etech_t_cabin_a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions trk_renault_etech_t_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header trk_renault_etech_t_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload trk_renault_etech_t_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS trk_renault_etech_t_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source trk_renault_etech_t_sideskirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DDS dimensions h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "DXT5 mip header h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete mip payload h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opaque DDS h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG and editable source h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "11 heavy truck families",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "12 stock chassis definitions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "20 unique cabin/chassis pairs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Complete stock four-axle/two-driven-axle inventory",
+      "passed": true,
+      "detail": "['8x4.man.tgx_2020.chassis', '8x4.man.tgx_euro6.chassis', '8x4.mercedes.actros2014.chassis', '8x4.scania.r.chassis', '8x4.scania.r_2016.chassis', '8x4.scania.s_2016.chassis', '8x4.scania.streamline.chassis', '8x4.volvo.fh16_2012.chassis', '8x4.volvo.fh_2021.chassis', '8x4.volvo.fh_2024.chassis', '8x4m.daf.2021.chassis', '8x4m_xf.daf.2021.chassis']"
+    },
+    {
+      "check": "Complete legal stock cabin/chassis pairs",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Archive integrity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Unique archive paths",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Conditional truck DLC mounts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_etech_t_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_etech_t_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit sleeper.renault.etech_t.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_etech_t_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_sideskirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_etech_t_sideskirts.dds"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-white.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-white.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-white.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-white.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh_2024.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.tobj"
+    },
+    {
+      "check": "Installed unit l2h3_8x4_a.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh_2024.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l3h3_8x4.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh_2024.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.tobj"
+    },
+    {
+      "check": "Installed unit l3h3_8x4_a.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh_2024.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l3h3.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l3h3_8x4.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.tobj"
+    },
+    {
+      "check": "Installed unit l3h3_aero.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l3h3_8x4_a.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit l2h3.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_3.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.tobj"
+    },
+    {
+      "check": "Installed unit l2h3_aero.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l2h3_8x4_a.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_4.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_4.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit l2h2.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_5.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_5.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.tobj"
+    },
+    {
+      "check": "Installed unit l2h2_aero.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_6.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_6.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_d.tobj"
+    },
+    {
+      "check": "Installed unit l2h1.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_7.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_7.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.tobj"
+    },
+    {
+      "check": "Installed unit l2h1_aero.volvo.fh_2024.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_d.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2024_sideskirts.dds"
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xf.tobj"
+    },
+    {
+      "check": "Installed unit xf.daf.2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4m_xf.daf.2021.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xg.tobj"
+    },
+    {
+      "check": "Installed unit xg.daf.2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4m.daf.2021.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xg_plus.tobj"
+    },
+    {
+      "check": "Installed unit xg_plus.daf.2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4m.daf.2021.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_daf_2021/gtsr_solar/h8_daf_2021_xf.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xf.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_daf_2021/gtsr_solar/h8_daf_2021_xg.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xg.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_daf_2021/gtsr_solar/h8_daf_2021_xg_plus.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_daf_2021_xg_plus.dds"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit gm.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_2020.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit gn.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_2020.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit gx.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_2020.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit gx.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit gm.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit gn.man.tgx_2020.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.dds"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh_2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh_2021.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l2h3.volvo.fh_2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh_2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit l2h2.volvo.fh_2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit l2h1.volvo.fh_2021.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh_2021_sideskirts.dds"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/iveco.hiway/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/iveco.hiway/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_hiway_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit hiway.iveco.hiway.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit as_higher.iveco.stralis.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit at_higher.iveco.stralis.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit at.iveco.stralis.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit xxl_cab.man.tgx.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit xlx_cab.man.tgx.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit xl_cab.man.tgx.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit xlx_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_euro6.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit xl_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_euro6.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit xxl_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.man.tgx_euro6.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit xxl_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit xlx_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit xl_cab.man.tgx_euro6.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_mercedes_actros2014_cab.tobj"
+    },
+    {
+      "check": "Installed unit gs_8x4.mercedes.actros2014.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.mercedes.actros2014.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.magnum/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.magnum/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_magnum_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit solo.renault.magnum.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_premium_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit higher.renault.premium.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_premium_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit normal.renault.premium.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.t/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit high_sleeper.renault.t.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/renault.t/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/renault.t/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit sleeper.renault.t.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_cab.tobj"
+    },
+    {
+      "check": "Installed unit tl_8x4.scania.r.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.scania.r.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_2016_skirts.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_2016_cab.tobj"
+    },
+    {
+      "check": "Installed unit highline_8x4.scania.r_2016.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.scania.r_2016.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_s_2016_skirts.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_s_2016_cab.tobj"
+    },
+    {
+      "check": "Installed unit highline_8x4.scania.s_2016.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.scania.s_2016.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-high-roof.tobj"
+    },
+    {
+      "check": "Installed unit highline.scania.s_2016.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-normal-roof.tobj"
+    },
+    {
+      "check": "Installed unit normal.scania.s_2016.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_streamline_cab.tobj"
+    },
+    {
+      "check": "Installed unit tl_8x4.scania.streamline.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.scania.streamline.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l2h3.volvo.fh16.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit l2h2.volvo.fh16.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit l2h1.volvo.fh16.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj"
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh16_2012.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit 8x4.volvo.fh16_2012.chassis",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit l2h3.volvo.fh16_2012.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Installed unit l2h3_8x4.volvo.fh16_2012.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_1.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_b.tobj"
+    },
+    {
+      "check": "Installed unit l2h2.volvo.fh16_2012.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Balanced definition base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_2.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_c.tobj"
+    },
+    {
+      "check": "Installed unit l2h1.volvo.fh16_2012.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_mercedes_actros2014_cab.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_mercedes_actros2014_cab.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_r_2016_cab.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_2016_cab.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_r_2016_skirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_2016_skirts.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_r_cab.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_r_cab.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_s_2016_cab.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_s_2016_cab.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_s_2016_skirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_s_2016_skirts.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/h8_scania_streamline_cab.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/h8_scania_streamline_cab.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/scania-s-high-roof.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-high-roof.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/scania-s-normal-roof.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-normal-roof.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/scania-s-sideskirts-4x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-4x.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/scania-s-sideskirts-6x-long.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-long.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/scania-s-sideskirts-6x-short.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/scania-s-sideskirts-6x-short.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/solid-navy.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/solid-white.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/solid-white.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_iveco_hiway_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_hiway_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_iveco_stralis_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_iveco_stralis_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_iveco_stralis_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_stralis_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_magnum_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_magnum_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_premium_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_premium_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_premium_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_premium_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_t_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_t_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_t_sideskirts_4x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_4x.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_t_sideskirts_6x_long.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_long.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_renault_t_sideskirts_6x_short.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_2012_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_2012_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_2012_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_cabin_c.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_2012_sideskirts.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_cabin_b.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_b.dds"
+    },
+    {
+      "check": "Mounted TOBJ base/gtsr_solar/trk_volvo_fh16_cabin_c.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_volvo_fh16_cabin_c.dds"
+    },
+    {
+      "check": "Balanced definition base/material/ui/accessory/gtsrsc_icon.mat",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ base/material/ui/accessory/gtsrsc_icon.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/icon.dds"
+    },
+    {
+      "check": "Balanced definition dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_sway_sideskirts.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Mounted mask dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/solid-navy.tobj"
+    },
+    {
+      "check": "Balanced definition dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted mask dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/gtsrsc_0.sii",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_sway_cabin_a.tobj"
+    },
+    {
+      "check": "Installed unit as.iveco.sway.cabin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mounted TOBJ dlc_iveco_sway/gtsr_solar/trk_iveco_sway_cabin_a.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_sway_cabin_a.dds"
+    },
+    {
+      "check": "Mounted TOBJ dlc_iveco_sway/gtsr_solar/trk_iveco_sway_sideskirts.tobj",
+      "passed": true,
+      "detail": "gtsr_solar/trk_iveco_sway_sideskirts.dds"
+    },
+    {
+      "check": "59 paint-job definitions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Unique named paint-job units",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "20 Heavy Support definitions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs man.tgx_euro6",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs mercedes.actros2014",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs scania.r",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs scania.r_2016",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs scania.streamline",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs scania.s_2016",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs volvo.fh16_2012",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs daf.2021",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs man.tgx_2020",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs volvo.fh_2021",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin/chassis restrictions dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact cabin mask dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exact heavy accessory mappings dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Stock accessory IDs volvo.fh_2024",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Exact heavy support coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Manifest version",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mod thumbnail",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_mercedes_actros2014_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_r_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_r_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_r_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_streamline_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_s_2016_cab",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_scania_s_2016_skirts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_daf_2021_xf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_daf_2021_xg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New DDS matches export h8_daf_2021_xg_plus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All previous gameplay files preserved byte-for-byte",
+      "passed": true,
+      "detail": "197 files"
+    },
+    {
+      "check": "Unchanged module integrity gtsr-trailers-v0.1.scs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Unchanged module integrity gtsr-coaches-v0.1.scs",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

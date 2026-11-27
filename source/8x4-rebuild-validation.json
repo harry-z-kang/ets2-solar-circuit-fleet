@@ -1,0 +1,33 @@
+{
+  "version": "0.3.0",
+  "passed": true,
+  "scope": "Rebuilt the new Scania 8x4 skirt map in base/ and DAF XF cab in dlc_daf_2021/. Verified exact DDS replacement and byte-identical preservation of every other member in all three modules.",
+  "modules": [
+    {
+      "module": "gtsr-coaches-v0.1.scs",
+      "entries_preserved": 21,
+      "replacement_paths": [],
+      "passed": true
+    },
+    {
+      "module": "gtsr-trailers-v0.1.scs",
+      "entries_preserved": 22,
+      "replacement_paths": [],
+      "passed": true
+    },
+    {
+      "module": "gtsr-trucks-v0.3.scs",
+      "entries_preserved": 255,
+      "replacement_paths": [
+        "base/gtsr_solar/h8_scania_s_2016_skirts.dds",
+        "dlc_daf_2021/gtsr_solar/h8_daf_2021_xf.dds"
+      ],
+      "passed": true
+    }
+  ],
+  "recipe_regeneration": {
+    "passed": true,
+    "archive_members_identical": 257,
+    "scope": "Reran build_8x4.py using the current 0.3 module as seed; every member name and payload remained identical."
+  }
+}
