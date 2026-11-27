@@ -1,6 +1,6 @@
 # Solar Circuit earlier truck coverage — version 0.2 recipe
 
-**Current release: version 0.3.** The [8×4 expansion guide](8X4-LIVERIES.md) adds all standard SCS 8×4 chassis while preserving the files described below.
+**Current release: version 0.4.** The [Mercedes/DAF expansion](MERCEDES-DAF-LIVERIES.md) extends standard cabin coverage. The [8×4 expansion guide](8X4-LIVERIES.md) adds all standard SCS 8×4 chassis while preserving the files described below.
 
 The version 0.2 truck module includes **15 SCS truck models and 39 cabin layouts**: the original two Scania S 2016 cabins plus 37 new cabins across Volvo, Iveco, MAN and Renault. The expansion adds 56 editable SVG/PNG/DDS textures: 37 main cabin maps and 19 auxiliary maps. The full fleet package now contains 75 textures.
 
@@ -11,7 +11,7 @@ The preview shows actual paint regions on schematic cab illustrations. It is not
 ## Install or upgrade
 
 1. Remove or deactivate older truck-module versions from your ETS2 mod folder.
-2. Copy [gtsr-trucks-v0.3.scs](../mods/gtsr-trucks-v0.3.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
+2. Copy [gtsr-trucks-v0.4.scs](../mods/gtsr-trucks-v0.4.scs) into that folder and activate it in Mod Manager. Keep only one version of the truck module enabled.
 3. Select **Solar Circuit - Alumni Support** in the matching truck's paint shop. Price: EUR 1,000; unlock level: 0.
 4. Check both sides, front, rear, roof, seams and painted accessories on each cabin/chassis combination before applying it across the fleet.
 
@@ -54,7 +54,7 @@ To regenerate this expansion from its layout recipe instead, first obtain the [a
 python source/build_truck_expansion.py --templates /path/to/templates.zip --base-mod /path/to/gtsr-trucks-v0.2.scs
 ```
 
-This historical generator produces version 0.2 and needs a version 0.1/0.2 seed from repository history. Use the current `build_8x4.py` afterward to produce version 0.3. For normal edits use `rebuild.py` on the current package.
+This historical generator produces version 0.2 and needs a version 0.1/0.2 seed from repository history. Run `build_8x4.py` afterward to produce version 0.3, then `build_mercedes_daf.py` to produce version 0.4. For normal edits use `rebuild.py` on the current package.
 
 The layout recipe is in `source/truck-livery-layouts.json`; the vehicle/cabin/accessory metadata is in `source/expanded-truck-vehicles.json`. Recipe regeneration replaces the expansion's SVG maps, so use `rebuild.py` when preserving hand edits. Original template wireframes and game data are not redistributed.
 

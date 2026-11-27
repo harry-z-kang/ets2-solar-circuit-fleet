@@ -1,0 +1,3040 @@
+{
+  "version": "0.4.0",
+  "checks_passed": 756,
+  "checks_total": 756,
+  "failures": [],
+  "selected_textures": [
+    "md_mercedes_actros_megaspace",
+    "md_daf_xd_day",
+    "h8_daf_2021_xf"
+  ],
+  "editing_utility_verified": true,
+  "recipe_regeneration_verified": true,
+  "new_liveries_in_game_tested": false,
+  "checks": [
+    {
+      "check": "gtsr-coaches-v0.1.scs member inventory",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs def/vehicle/bus/man.lions_24/paint_job/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs def/vehicle/bus/man.lions_24/paint_job/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs def/vehicle/bus/scania.touring_23/paint_job/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs def/vehicle/bus/volvo.9700_23/paint_job/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs Description.txt",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/icon.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/man-lions-coach-121.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/man-lions-coach-121.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/man-lions-coach-139.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/man-lions-coach-139.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/scania-touring-129.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/scania-touring-129.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/scania-touring-137.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/scania-touring-137.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/volvo-9700-dd.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs gtsr_solar/volvo-9700-dd.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs Image.jpg",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs manifest.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs material/ui/accessory/gtsrsc_icon.mat",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-coaches-v0.1.scs material/ui/accessory/gtsrsc_icon.tobj",
+      "passed": true
+    },
+    {
+      "check": "gtsr-trailers-v0.1.scs member inventory",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs def/vehicle/trailer_owned/scs.box/paint_job/accessory/gtsrsc.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs def/vehicle/trailer_owned/scs.box/paint_job/gtsrsc.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs Description.txt",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/icon.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-b-double.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-double.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-curtainsider-long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-b-double.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-double.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/scs-box-dry-freighter-long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/solid-navy.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs gtsr_solar/solid-navy.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs Image.jpg",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs manifest.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs material/ui/accessory/gtsrsc_icon.mat",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trailers-v0.1.scs material/ui/accessory/gtsrsc_icon.tobj",
+      "passed": true
+    },
+    {
+      "check": "gtsr-trucks-v0.4.scs member inventory",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/icon.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-high-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-high-roof.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-normal-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-normal-roof.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-6x-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-6x-long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-6x-short.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/scania-s-sideskirts-6x-short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/solid-navy.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/solid-navy.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/material/ui/accessory/gtsrsc_icon.mat",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/material/ui/accessory/gtsrsc_icon.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/solid-white.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/solid-white.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_stralis_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_hiway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_iveco_hiway_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/gtsr_solar/trk_iveco_sway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/gtsr_solar/trk_iveco_sway_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/gtsr_solar/trk_iveco_sway_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/gtsr_solar/trk_iveco_sway_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_magnum_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_magnum_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_premium_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_premium_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_premium_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_premium_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_6x_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_6x_long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_6x_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_4.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_5.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_6.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_7.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/iveco.hiway/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.magnum/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.t/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.t/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_2016_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_r_2016_skirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_streamline_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_streamline_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_s_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_s_2016_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_s_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_scania_s_2016_skirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs manifest.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs Image.jpg",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs Description.txt",
+      "passed": true
+    },
+    {
+      "check": "Rebuilt mounted DDS md_mercedes_actros_megaspace",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros_megaspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros_cabin_l.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros_cabin_l.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros_cabin_l_lw.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros_cabin_l_lw.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_gigaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_gigaspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_bigspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_bigspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_streamspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_mercedes_actros2014_streamspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_mercedes_actros2014_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/h8_mercedes_actros2014_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_super_s_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_super_s_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_s_cab_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_s_cab_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_space_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_space_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_superspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_superspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_spacespoiler.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_spacespoiler.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_space.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/gtsr_solar/md_daf_xf_euro6_space.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xg_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xg.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_xf.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_sun_visor.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_camera.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_standard.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_standard.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_slh.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sl.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sl.tobj",
+      "passed": true
+    },
+    {
+      "check": "Rebuilt mounted DDS md_daf_xd_day",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_day.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors_camera.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/gtsr_solar/md_daf_xd_sun_visor.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_slh.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_mirrors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Rebuilt mounted DDS h8_daf_2021_xf",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/h8_daf_2021_xf.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/h8_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/h8_daf_2021_xg.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/h8_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/gtsr_solar/h8_daf_2021_xg_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/def/vehicle/truck/daf.xf_electric/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_xf_electric/def/vehicle/truck/daf.xf_electric/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Preserved gtsr-trucks-v0.4.scs dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "All three selected mount paths",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces member inventory",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_a.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/gtsrsc_b.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/icon.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-high-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-high-roof.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-normal-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-normal-roof.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-6x-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-6x-long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-6x-short.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/scania-s-sideskirts-6x-short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/solid-navy.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/solid-navy.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/material/ui/accessory/gtsrsc_icon.mat",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/material/ui/accessory/gtsrsc_icon.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/solid-white.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/solid-white.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_volvo_fh16_2012_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/gtsr_solar/trk_volvo_fh_2021_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_a_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_c_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_d_aero.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_side_deflectors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_stralis_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_hiway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_iveco_hiway_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/gtsr_solar/trk_iveco_sway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/gtsr_solar/trk_iveco_sway_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/gtsr_solar/trk_iveco_sway_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/gtsr_solar/trk_iveco_sway_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x2_short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_6x4.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_man_tgx_euro6_sideskirts_8x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/gtsr_solar/trk_man_tgx_2020_cabin_deflectors_cabin_c.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_magnum_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_magnum_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_premium_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_premium_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_premium_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_premium_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_cabin_b.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_6x_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_6x_long.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_6x_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/trk_renault_t_sideskirts_6x_short.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_cabin_a.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/gtsr_solar/trk_renault_etech_t_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_4.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_4.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_5.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_5.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_6.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_6.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrsc_7.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrsc_7.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/iveco.stralis/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/iveco.hiway/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_iveco_sway/def/vehicle/truck/iveco.sway/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrsc_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.magnum/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.premium/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.t/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.t/paint_job/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/renault.t/paint_job/accessory/gtsrsc_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_renault_etech_t/def/vehicle/truck/renault.etech_t/paint_job/accessory/gtsrsc_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_2016_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_r_2016_skirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_streamline_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_streamline_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_s_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_s_2016_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_s_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_scania_s_2016_skirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/man.tgx_euro6/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.r/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.r_2016/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.r_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.streamline/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/scania.s_2016/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/volvo.fh16_2012/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_man_tgx_2020/def/vehicle/truck/man.tgx_2020/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2021/def/vehicle/truck/volvo.fh_2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/gtsrh8_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_volvo_fh_2024/def/vehicle/truck/volvo.fh_2024/paint_job/accessory/gtsrh8_3.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces manifest.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces Image.jpg",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces Description.txt",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_megaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_megaspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_cabin_l.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_cabin_l.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_cabin_l_lw.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros_cabin_l_lw.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_gigaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_gigaspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_bigspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_bigspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_streamspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_mercedes_actros2014_streamspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_mercedes_actros2014_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/h8_mercedes_actros2014_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_super_s_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_super_s_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_s_cab_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_s_cab_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_space_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_space_cab.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_superspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_superspace.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_spacespoiler.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_spacespoiler.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_space.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/gtsr_solar/md_daf_xf_euro6_space.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xg_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xg.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_xf.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_sun_visor.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_sideskirts_4x.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_camera.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_standard.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/md_daf_2021_main_mirrors_standard.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_slh.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sl.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sl.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_day.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_day.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors_camera.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_mirrors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/gtsr_solar/md_daf_xd_sun_visor.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_slh.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_mirrors.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/gtsr_solar/md_daf_xf_electric_sideskirts.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xf.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xg.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/gtsr_solar/h8_daf_2021_xg_plus.tobj",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/daf.xf_euro6/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xd/def/vehicle/truck/daf.xd/paint_job/accessory/gtsrmd_2.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/def/vehicle/truck/daf.xf_electric/paint_job/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_xf_electric/def/vehicle/truck/daf.xf_electric/paint_job/accessory/gtsrmd_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces base/def/vehicle/truck/mercedes.actros2014/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_0.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_1.sii",
+      "passed": true
+    },
+    {
+      "check": "Recipe reproduces dlc_daf_2021/def/vehicle/truck/daf.2021/paint_job/accessory/gtsrh8_2.sii",
+      "passed": true
+    }
+  ]
+}

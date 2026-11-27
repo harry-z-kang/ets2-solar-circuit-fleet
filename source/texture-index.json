@@ -925,10 +925,10 @@
     ],
     "mip_levels": 13,
     "format": "DXT5 / BC3",
-    "template": "ets/scs/mercedes.actros2014/Cabin 8x4 (GigaSpace).dds",
+    "template": "Mercedes-Benz New Actros/Cabin 8x4 (GigaSpace).png",
     "vehicle_id": "mercedes.actros2014",
     "mount": "base",
-    "scope": "stock 8x4"
+    "scope": "Mercedes-Benz / DAF 0.4"
   },
   {
     "name": "h8_scania_r_cab",
@@ -1019,7 +1019,7 @@
     "template": "DAF NGD/Cabin C (XF).png",
     "vehicle_id": "daf.2021",
     "mount": "dlc_daf_2021",
-    "scope": "stock 8x4"
+    "scope": "8x4 alias refreshed by Mercedes-Benz / DAF 0.4"
   },
   {
     "name": "h8_daf_2021_xg",
@@ -1032,7 +1032,7 @@
     "template": "DAF NGD/Cabin B (XG).png",
     "vehicle_id": "daf.2021",
     "mount": "dlc_daf_2021",
-    "scope": "stock 8x4"
+    "scope": "8x4 alias refreshed by Mercedes-Benz / DAF 0.4"
   },
   {
     "name": "h8_daf_2021_xg_plus",
@@ -1045,6 +1045,383 @@
     "template": "DAF NGD/Cabin A (XG+).png",
     "vehicle_id": "daf.2021",
     "mount": "dlc_daf_2021",
-    "scope": "stock 8x4"
+    "scope": "8x4 alias refreshed by Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros_megaspace",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz Actros/Cabin A (MegaSpace).png",
+    "vehicle_id": "mercedes.actros",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros_cabin_l",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz Actros/Cabin B (High Roof Sleeper).png",
+    "vehicle_id": "mercedes.actros",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros_cabin_l_lw",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz Actros/Cabin C (Low Roof Sleeper).png",
+    "vehicle_id": "mercedes.actros",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros2014_gigaspace",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz New Actros/Cabin A (GigaSpace).png",
+    "vehicle_id": "mercedes.actros2014",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros2014_bigspace",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz New Actros/Cabin B (BigSpace).png",
+    "vehicle_id": "mercedes.actros2014",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_mercedes_actros2014_streamspace",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "Mercedes-Benz New Actros/Cabin C (StreamSpace).png",
+    "vehicle_id": "mercedes.actros2014",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_super_s_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF105/Cabin A (Super Space).png",
+    "vehicle_id": "daf.xf",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_s_cab_plus",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF105/Cabin B (Space Cab Plus).png",
+    "vehicle_id": "daf.xf",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_space_cab",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF105/Cabin C (Space).png",
+    "vehicle_id": "daf.xf",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_euro6_superspace",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF/Cabin A (Super Space).png",
+    "vehicle_id": "daf.xf_euro6",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_euro6_spacespoiler",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF/Cabin B (Space Aero).png",
+    "vehicle_id": "daf.xf_euro6",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_euro6_space",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF/Cabin C (Space).png",
+    "vehicle_id": "daf.xf_euro6",
+    "mount": "base",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_xg_plus",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin A (XG+).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_xg",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin B (XG).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_xf",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Cabin C (XF).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_sun_visor",
+    "size": [
+      2048,
+      256
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Accessories/Sun Visor.png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_sideskirts_4x",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Accessories/Sideskirts (4x).png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_main_mirrors_camera",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Accessories/Main Mirrors - Camera.png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_2021_main_mirrors_standard",
+    "size": [
+      2048,
+      2048
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF NGD/Accessories/Main Mirrors - Standard.png",
+    "vehicle_id": "daf.2021",
+    "mount": "dlc_daf_2021",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_slh",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Cabin A (Sleeper High).png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_sl",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Cabin B (Sleeper).png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_day",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Cabin C (Day Cab).png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_mirrors_camera",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Accessories/Mirrors (Camera).png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_mirrors",
+    "size": [
+      1024,
+      1024
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Accessories/Mirrors.png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Accessories/Sideskirts.png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xd_sun_visor",
+    "size": [
+      1024,
+      256
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "DAF XD/Accessories/Sun Visor.png",
+    "vehicle_id": "daf.xd",
+    "mount": "dlc_daf_xd",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_electric_slh",
+    "size": [
+      4096,
+      4096
+    ],
+    "mip_levels": 13,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF Electric/DAF XF Electric.png",
+    "vehicle_id": "daf.xf_electric",
+    "mount": "dlc_daf_xf_electric",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_electric_mirrors",
+    "size": [
+      1024,
+      512
+    ],
+    "mip_levels": 11,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF Electric/Accessories/Mirrors.png",
+    "vehicle_id": "daf.xf_electric",
+    "mount": "dlc_daf_xf_electric",
+    "scope": "Mercedes-Benz / DAF 0.4"
+  },
+  {
+    "name": "md_daf_xf_electric_sideskirts",
+    "size": [
+      2048,
+      1024
+    ],
+    "mip_levels": 12,
+    "format": "DXT5 / BC3",
+    "template": "DAF XF Electric/Accessories/Sideskirts.png",
+    "vehicle_id": "daf.xf_electric",
+    "mount": "dlc_daf_xf_electric",
+    "scope": "Mercedes-Benz / DAF 0.4"
   }
 ]

@@ -1,0 +1,908 @@
+{
+  "version": "0.4.0",
+  "game_version_observed": "1.62.3.3",
+  "scope": "All seven standard SCS Mercedes-Benz and DAF truck families installed in the inspected game.",
+  "template_pack": {
+    "download_page": "https://truckymods.io/euro-truck-simulator-2/tools/ets2-truck-and-trailer-templates-947834/download/14160",
+    "filename": "ETS2 templates, game ver. 1.59.zip",
+    "bytes": 1227583269,
+    "sha256": "a0be74b062363f66ed6577fb6a87ab3d5072b2516cfc56697aa6f1bb530ffde5"
+  },
+  "metadata_source": "https://github.com/Carsmaniac/paintjob-packer/tree/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs",
+  "families": [
+    {
+      "vehicle_id": "mercedes.actros",
+      "name": "Mercedes-Benz Actros",
+      "mount": "base",
+      "fleet_number": "TK-21",
+      "cabins": [
+        {
+          "name": "MegaSpace",
+          "ids": [
+            "megaspace"
+          ],
+          "texture": "md_mercedes_actros_megaspace",
+          "heavy": false
+        },
+        {
+          "name": "High Roof Sleeper",
+          "ids": [
+            "cabin_l"
+          ],
+          "texture": "md_mercedes_actros_cabin_l",
+          "heavy": false
+        },
+        {
+          "name": "Low Roof Sleeper",
+          "ids": [
+            "cabin_l_lw"
+          ],
+          "texture": "md_mercedes_actros_cabin_l_lw",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {},
+      "observed_cabin_units": [
+        "cabin_l.mercedes.actros.cabin",
+        "cabin_l_lw.mercedes.actros.cabin",
+        "megaspace.mercedes.actros.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2a.mercedes.actros.chassis",
+        "4x2c.mercedes.actros.chassis",
+        "6x2_4a.mercedes.actros.chassis",
+        "6x2_4a_ml.mercedes.actros.chassis",
+        "6x2_4bc.mercedes.actros.chassis",
+        "6x2_4bc_ml.mercedes.actros.chassis",
+        "6x2a.mercedes.actros.chassis",
+        "6x2a_tl.mercedes.actros.chassis",
+        "6x2bc.mercedes.actros.chassis",
+        "6x2bc_tl.mercedes.actros.chassis",
+        "6x4a.mercedes.actros.chassis",
+        "6x4bc.mercedes.actros.chassis"
+      ],
+      "accessory_assignments": {
+        "exhaust_m.exhaust1a": "solid-navy",
+        "exhaust_m.exhaust1b": "solid-navy",
+        "exhaust_m.exhaust1c": "solid-navy",
+        "r_bumper.4x2paint": "solid-navy",
+        "r_bumper.4x2v1chrome": "solid-navy",
+        "r_bumper.4x2v1paint": "solid-navy",
+        "r_bumper.4x2v1plate": "solid-navy",
+        "r_bumper.4x2v2paint": "solid-navy",
+        "r_bumper.4x2v3paint": "solid-navy",
+        "r_bumper.6x24paint": "solid-navy",
+        "r_bumper.6x24v1chrome": "solid-navy",
+        "r_bumper.6x24v1paint": "solid-navy",
+        "r_bumper.6x24v1plate": "solid-navy",
+        "r_bumper.6x24v2paint": "solid-navy",
+        "r_bumper.6x24v3paint": "solid-navy",
+        "r_bumper.6x2paint": "solid-navy",
+        "r_bumper.6x2v1chrome": "solid-navy",
+        "r_bumper.6x2v1paint": "solid-navy",
+        "r_bumper.6x2v1plate": "solid-navy",
+        "r_bumper.6x2v2paint": "solid-navy",
+        "r_bumper.6x2v3paint": "solid-navy",
+        "r_chs_cover.paint4x2": "solid-navy",
+        "r_chs_cover.paint6x24": "solid-navy",
+        "r_chs_cover.paint6x4": "solid-navy",
+        "r_fender.4x2paint": "solid-navy",
+        "r_fender.6x24paint": "solid-navy",
+        "r_fender.6x2paint": "solid-navy",
+        "r_fendr_top.4x2paint": "solid-navy",
+        "r_fendr_top.6x24paint": "solid-navy",
+        "r_fendr_top.6x2paint": "solid-navy",
+        "sunshld.shape14": "solid-navy",
+        "sunshld.shape15": "solid-navy",
+        "sunshld.shape2": "solid-navy"
+      }
+    },
+    {
+      "vehicle_id": "mercedes.actros2014",
+      "name": "Mercedes-Benz New Actros",
+      "mount": "base",
+      "fleet_number": "TK-16",
+      "cabins": [
+        {
+          "name": "GigaSpace",
+          "ids": [
+            "gigaspace"
+          ],
+          "texture": "md_mercedes_actros2014_gigaspace",
+          "heavy": false
+        },
+        {
+          "name": "BigSpace",
+          "ids": [
+            "bigspace"
+          ],
+          "texture": "md_mercedes_actros2014_bigspace",
+          "heavy": false
+        },
+        {
+          "name": "StreamSpace",
+          "ids": [
+            "streamspace"
+          ],
+          "texture": "md_mercedes_actros2014_streamspace",
+          "heavy": false
+        },
+        {
+          "name": "GigaSpace",
+          "ids": [
+            "gs_8x4"
+          ],
+          "texture": "h8_mercedes_actros2014_cab",
+          "heavy": true
+        }
+      ],
+      "auxiliary": {},
+      "observed_cabin_units": [
+        "bigspace.mercedes.actros2014.cabin",
+        "gigaspace.mercedes.actros2014.cabin",
+        "gs_8x4.mercedes.actros2014.cabin",
+        "streamspace.mercedes.actros2014.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2.mercedes.actros2014.chassis",
+        "6x2.mercedes.actros2014.chassis",
+        "6x2_4.mercedes.actros2014.chassis",
+        "6x2_4_ml.mercedes.actros2014.chassis",
+        "6x2_tl.mercedes.actros2014.chassis",
+        "6x4.mercedes.actros2014.chassis",
+        "8x4.mercedes.actros2014.chassis"
+      ],
+      "accessory_assignments": {
+        "r_bumper.4x2v1": "solid-navy",
+        "r_bumper.4x2v2": "solid-navy",
+        "r_bumper.4x2v3": "solid-navy",
+        "r_bumper.6x24v1": "solid-navy",
+        "r_bumper.6x24v2": "solid-navy",
+        "r_bumper.6x24v3": "solid-navy",
+        "r_bumper.6x2v1": "solid-navy",
+        "r_bumper.6x2v2": "solid-navy",
+        "r_bumper.6x2v3": "solid-navy",
+        "r_chs_cover.4x2p": "solid-navy",
+        "r_chs_cover.6x24p": "solid-navy",
+        "r_chs_cover.6x2p": "solid-navy",
+        "r_fender.4x2p": "solid-navy",
+        "r_fender.6x24p": "solid-navy",
+        "r_fender.6x2p": "solid-navy",
+        "r_fender.8x4p": "solid-navy",
+        "r_fendr_top.4x2p": "solid-navy",
+        "r_fendr_top.6x24p": "solid-navy",
+        "r_fendr_top.6x2p": "solid-navy",
+        "r_fendr_top.8x4p": "solid-navy",
+        "s_guard.type3": "solid-navy",
+        "sunshld.paint01": "solid-navy",
+        "sunshld.paint02": "solid-navy",
+        "sunshld.paint03": "solid-navy"
+      }
+    },
+    {
+      "vehicle_id": "daf.xf",
+      "name": "DAF XF105",
+      "mount": "base",
+      "fleet_number": "TK-22",
+      "cabins": [
+        {
+          "name": "Super Space",
+          "ids": [
+            "super_s_cab"
+          ],
+          "texture": "md_daf_xf_super_s_cab",
+          "heavy": false
+        },
+        {
+          "name": "Space Cab Plus",
+          "ids": [
+            "s_cab_plus"
+          ],
+          "texture": "md_daf_xf_s_cab_plus",
+          "heavy": false
+        },
+        {
+          "name": "Space",
+          "ids": [
+            "space_cab"
+          ],
+          "texture": "md_daf_xf_space_cab",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {},
+      "observed_cabin_units": [
+        "s_cab_plus.daf.xf.cabin",
+        "space_cab.daf.xf.cabin",
+        "super_s_cab.daf.xf.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2.daf.xf.chassis",
+        "4x2_ext.daf.xf.chassis",
+        "6x2.daf.xf.chassis",
+        "6x2_ml.daf.xf.chassis",
+        "6x2a.daf.xf.chassis",
+        "6x2a_tl.daf.xf.chassis",
+        "6x4.daf.xf.chassis"
+      ],
+      "accessory_assignments": {
+        "r_bumper.paint": "solid-navy",
+        "r_bumper.chrome": "solid-navy",
+        "r_bumper.steel": "solid-navy",
+        "r_chs_cover.ch_4x2_et_p": "solid-navy",
+        "r_chs_cover.ch_4x2_p": "solid-navy",
+        "r_chs_cover.ch_6x2_p": "solid-navy",
+        "r_chs_cover.ch_6x4_p": "solid-navy"
+      }
+    },
+    {
+      "vehicle_id": "daf.xf_euro6",
+      "name": "DAF XF",
+      "mount": "base",
+      "fleet_number": "TK-23",
+      "cabins": [
+        {
+          "name": "Super Space",
+          "ids": [
+            "superspace"
+          ],
+          "texture": "md_daf_xf_euro6_superspace",
+          "heavy": false
+        },
+        {
+          "name": "Space Aero",
+          "ids": [
+            "spacespoiler"
+          ],
+          "texture": "md_daf_xf_euro6_spacespoiler",
+          "heavy": false
+        },
+        {
+          "name": "Space",
+          "ids": [
+            "space"
+          ],
+          "texture": "md_daf_xf_euro6_space",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {},
+      "observed_cabin_units": [
+        "space.daf.xf_euro6.cabin",
+        "spacespoiler.daf.xf_euro6.cabin",
+        "superspace.daf.xf_euro6.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2.daf.xf_euro6.chassis",
+        "6x2.daf.xf_euro6.chassis",
+        "6x2_4.daf.xf_euro6.chassis",
+        "6x2_4_ml.daf.xf_euro6.chassis",
+        "6x2_tl.daf.xf_euro6.chassis",
+        "6x4.daf.xf_euro6.chassis"
+      ],
+      "accessory_assignments": {
+        "r_bumper.paint": "solid-navy",
+        "r_bumper.paint_6": "solid-navy",
+        "r_bumper.chrome": "solid-navy",
+        "r_bumper.chrome_6": "solid-navy",
+        "r_bumper.steel": "solid-navy",
+        "r_bumper.steel_6": "solid-navy",
+        "r_chs_cover.ch_4x2_p": "solid-navy",
+        "r_chs_cover.ch_6x4_p": "solid-navy"
+      }
+    },
+    {
+      "vehicle_id": "daf.2021",
+      "name": "DAF NGD",
+      "mount": "dlc_daf_2021",
+      "fleet_number": "TK-20",
+      "cabins": [
+        {
+          "name": "XG+",
+          "ids": [
+            "xg_plus"
+          ],
+          "texture": "md_daf_2021_xg_plus",
+          "heavy": false
+        },
+        {
+          "name": "XG",
+          "ids": [
+            "xg"
+          ],
+          "texture": "md_daf_2021_xg",
+          "heavy": false
+        },
+        {
+          "name": "XF",
+          "ids": [
+            "xf"
+          ],
+          "texture": "md_daf_2021_xf",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {
+        "Sun Visor": "md_daf_2021_sun_visor",
+        "Sideskirts (4x)": "md_daf_2021_sideskirts_4x",
+        "Main Mirrors - Camera": "md_daf_2021_main_mirrors_camera",
+        "Main Mirrors - Standard": "md_daf_2021_main_mirrors_standard"
+      },
+      "observed_cabin_units": [
+        "xf.daf.2021.cabin",
+        "xg.daf.2021.cabin",
+        "xg_plus.daf.2021.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2.daf.2021.chassis",
+        "4x2_xf.daf.2021.chassis",
+        "4x2s_xf.daf.2021.chassis",
+        "6x2d.daf.2021.chassis",
+        "6x2d_xf.daf.2021.chassis",
+        "6x2g.daf.2021.chassis",
+        "6x2g_xf.daf.2021.chassis",
+        "6x2s.daf.2021.chassis",
+        "6x2s_xf.daf.2021.chassis",
+        "6x4t.daf.2021.chassis",
+        "6x4t_xf.daf.2021.chassis",
+        "8x4m.daf.2021.chassis",
+        "8x4m_xf.daf.2021.chassis"
+      ],
+      "accessory_assignments": {
+        "sunshield.paint_xf": "md_daf_2021_sun_visor",
+        "sunshield.paint_xg": "md_daf_2021_sun_visor",
+        "sunshield.paint_xgp": "md_daf_2021_sun_visor",
+        "sideskirt.pnt_4x2": "md_daf_2021_sideskirts_4x",
+        "sideskirt.pnt_4x2_xf": "md_daf_2021_sideskirts_4x",
+        "sideskirt.slv2_4x2": "md_daf_2021_sideskirts_4x",
+        "sideskirt.slv2_4x2_xf": "md_daf_2021_sideskirts_4x",
+        "sideskirt.slv_4x2": "md_daf_2021_sideskirts_4x",
+        "sideskirt.slv_4x2_xf": "md_daf_2021_sideskirts_4x",
+        "mirror.semi": "md_daf_2021_main_mirrors_standard",
+        "mirror.cam_semi": "md_daf_2021_main_mirrors_camera",
+        "sideskirt.pnt2_4x2": "md_daf_2021_sideskirts_4x",
+        "sunshield.pnt_glo_xgp": "md_daf_2021_sun_visor"
+      }
+    },
+    {
+      "vehicle_id": "daf.xd",
+      "name": "DAF XD",
+      "mount": "dlc_daf_xd",
+      "fleet_number": "TK-24",
+      "cabins": [
+        {
+          "name": "Sleeper High",
+          "ids": [
+            "slh"
+          ],
+          "texture": "md_daf_xd_slh",
+          "heavy": false
+        },
+        {
+          "name": "Sleeper",
+          "ids": [
+            "sl"
+          ],
+          "texture": "md_daf_xd_sl",
+          "heavy": false
+        },
+        {
+          "name": "Day Cab",
+          "ids": [
+            "day"
+          ],
+          "texture": "md_daf_xd_day",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {
+        "Mirrors (Camera)": "md_daf_xd_mirrors_camera",
+        "Mirrors": "md_daf_xd_mirrors",
+        "Sideskirts": "md_daf_xd_sideskirts",
+        "Sun Visor": "md_daf_xd_sun_visor"
+      },
+      "observed_cabin_units": [
+        "day.daf.xd.cabin",
+        "sl.daf.xd.cabin",
+        "slh.daf.xd.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2_day.daf.xd.chassis",
+        "4x2_sl.daf.xd.chassis",
+        "6x2g_sl.daf.xd.chassis",
+        "6x2n_day.daf.xd.chassis",
+        "6x2n_sl.daf.xd.chassis",
+        "6x2s_sl.daf.xd.chassis",
+        "6x4t_day.daf.xd.chassis",
+        "6x4t_sl.daf.xd.chassis"
+      ],
+      "accessory_assignments": {
+        "mirror.plast": "md_daf_xd_mirrors",
+        "mirror.semi": "md_daf_xd_mirrors",
+        "mirror.cam_semi": "md_daf_xd_mirrors_camera",
+        "mirror.cam_semi_h": "md_daf_xd_mirrors_camera",
+        "sideskirt.pnt_4x2s": "md_daf_xd_sideskirts",
+        "sunshield.paint_slh": "md_daf_xd_sun_visor"
+      }
+    },
+    {
+      "vehicle_id": "daf.xf_electric",
+      "name": "DAF XF Electric",
+      "mount": "dlc_daf_xf_electric",
+      "fleet_number": "TK-25",
+      "cabins": [
+        {
+          "name": "Sleeper High",
+          "ids": [
+            "slh"
+          ],
+          "texture": "md_daf_xf_electric_slh",
+          "heavy": false
+        }
+      ],
+      "auxiliary": {
+        "Mirrors": "md_daf_xf_electric_mirrors",
+        "Sideskirts": "md_daf_xf_electric_sideskirts"
+      },
+      "observed_cabin_units": [
+        "slh.daf.xf_electric.cabin"
+      ],
+      "observed_chassis_units": [
+        "4x2.daf.xf_electric.chassis"
+      ],
+      "accessory_assignments": {
+        "sideskirt.pnt_4x2": "md_daf_xf_electric_sideskirts",
+        "mirror.cam_semi": "md_daf_xf_electric_mirrors"
+      }
+    }
+  ],
+  "textures": {
+    "md_mercedes_actros_megaspace": {
+      "vehicle_id": "mercedes.actros",
+      "archive_path": "Mercedes-Benz Actros/Cabin A (MegaSpace).png",
+      "template_sha256": "af1652ed48ac2f595cb749f2958e13d9d9765bdc21cb08a38f326cb84c68fe67",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros",
+      "cab_id": "megaspace",
+      "cabin_name": "MegaSpace",
+      "fleet_number": "TK-21",
+      "mount": "base"
+    },
+    "md_mercedes_actros_cabin_l": {
+      "vehicle_id": "mercedes.actros",
+      "archive_path": "Mercedes-Benz Actros/Cabin B (High Roof Sleeper).png",
+      "template_sha256": "049b7626e95c7085efa74333f0d68a7b8d46b1b9e3bca4a42410a0b2fa597fb4",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros",
+      "cab_id": "cabin_l",
+      "cabin_name": "High Roof Sleeper",
+      "fleet_number": "TK-21",
+      "mount": "base"
+    },
+    "md_mercedes_actros_cabin_l_lw": {
+      "vehicle_id": "mercedes.actros",
+      "archive_path": "Mercedes-Benz Actros/Cabin C (Low Roof Sleeper).png",
+      "template_sha256": "f484b403044d7f44eed0ae2e1d197b43e75397177bc055b264c7025a299c9582",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros",
+      "cab_id": "cabin_l_lw",
+      "cabin_name": "Low Roof Sleeper",
+      "fleet_number": "TK-21",
+      "mount": "base"
+    },
+    "md_mercedes_actros2014_gigaspace": {
+      "vehicle_id": "mercedes.actros2014",
+      "archive_path": "Mercedes-Benz New Actros/Cabin A (GigaSpace).png",
+      "template_sha256": "42e57f962c67625c27fce743069dad984045373b0cfc640833226c37657010e9",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros2014",
+      "cab_id": "gigaspace",
+      "cabin_name": "GigaSpace",
+      "fleet_number": "TK-16",
+      "mount": "base"
+    },
+    "md_mercedes_actros2014_bigspace": {
+      "vehicle_id": "mercedes.actros2014",
+      "archive_path": "Mercedes-Benz New Actros/Cabin B (BigSpace).png",
+      "template_sha256": "b230e367122cfeb1ea607a29e2842dc2618c52fd7ba53244fc020660e6f2f7b7",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros2014",
+      "cab_id": "bigspace",
+      "cabin_name": "BigSpace",
+      "fleet_number": "TK-16",
+      "mount": "base"
+    },
+    "md_mercedes_actros2014_streamspace": {
+      "vehicle_id": "mercedes.actros2014",
+      "archive_path": "Mercedes-Benz New Actros/Cabin C (StreamSpace).png",
+      "template_sha256": "5343ba34f2ad3ed1cf2a8c6067d947ad1dc5e896f25c922b2d5c0921dae2bb0b",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros2014",
+      "cab_id": "streamspace",
+      "cabin_name": "StreamSpace",
+      "fleet_number": "TK-16",
+      "mount": "base"
+    },
+    "h8_mercedes_actros2014_cab": {
+      "vehicle_id": "mercedes.actros2014",
+      "archive_path": "Mercedes-Benz New Actros/Cabin 8x4 (GigaSpace).png",
+      "template_sha256": "3224e0b606b5afaec64bfbb87ce769e6a3d41cd003640302f3f65bf9470318fc",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "mercedes.actros2014",
+      "cab_id": "gs_8x4",
+      "cabin_name": "GigaSpace",
+      "fleet_number": "TK-16",
+      "mount": "base"
+    },
+    "md_daf_xf_super_s_cab": {
+      "vehicle_id": "daf.xf",
+      "archive_path": "DAF XF105/Cabin A (Super Space).png",
+      "template_sha256": "0eb84fd2736006755ebeadfd31e36d21a97ceb3b46b95e0ac43f9a6b4f1f16ff",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf",
+      "cab_id": "super_s_cab",
+      "cabin_name": "Super Space",
+      "fleet_number": "TK-22",
+      "mount": "base"
+    },
+    "md_daf_xf_s_cab_plus": {
+      "vehicle_id": "daf.xf",
+      "archive_path": "DAF XF105/Cabin B (Space Cab Plus).png",
+      "template_sha256": "2cd3ac95c9f2d6beb8db9de1d3ec276494100dd0b7075d7613e0d49b31a5b73a",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf",
+      "cab_id": "s_cab_plus",
+      "cabin_name": "Space Cab Plus",
+      "fleet_number": "TK-22",
+      "mount": "base"
+    },
+    "md_daf_xf_space_cab": {
+      "vehicle_id": "daf.xf",
+      "archive_path": "DAF XF105/Cabin C (Space).png",
+      "template_sha256": "ce9c71c0abb46a80ee1af3f2cd9e1ddddbb807ad8da1b24244eae346d05d3ba6",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf",
+      "cab_id": "space_cab",
+      "cabin_name": "Space",
+      "fleet_number": "TK-22",
+      "mount": "base"
+    },
+    "md_daf_xf_euro6_superspace": {
+      "vehicle_id": "daf.xf_euro6",
+      "archive_path": "DAF XF/Cabin A (Super Space).png",
+      "template_sha256": "a7e5ca4f1b6b1052ab1418330f2ea4dee8b61731217e5d56e4a54a0b992e1d8b",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf_euro6",
+      "cab_id": "superspace",
+      "cabin_name": "Super Space",
+      "fleet_number": "TK-23",
+      "mount": "base"
+    },
+    "md_daf_xf_euro6_spacespoiler": {
+      "vehicle_id": "daf.xf_euro6",
+      "archive_path": "DAF XF/Cabin B (Space Aero).png",
+      "template_sha256": "572c48252e6f8058096b26c5df10447cb5203fa4d88b96e731d4bfb8da4762a5",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf_euro6",
+      "cab_id": "spacespoiler",
+      "cabin_name": "Space Aero",
+      "fleet_number": "TK-23",
+      "mount": "base"
+    },
+    "md_daf_xf_euro6_space": {
+      "vehicle_id": "daf.xf_euro6",
+      "archive_path": "DAF XF/Cabin C (Space).png",
+      "template_sha256": "d0ca09548be952399cd10522b4e0a0c26c6a59cb4c41f8fdc4a4ab8e31e11cc2",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf_euro6",
+      "cab_id": "space",
+      "cabin_name": "Space",
+      "fleet_number": "TK-23",
+      "mount": "base"
+    },
+    "md_daf_2021_xg_plus": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Cabin A (XG+).png",
+      "template_sha256": "a82f69b306532a705714d427cb80c77ca0393e8c50119bbf5a3b94f1195bc611",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.2021",
+      "cab_id": "xg_plus",
+      "cabin_name": "XG+",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_xg": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Cabin B (XG).png",
+      "template_sha256": "bcc3610e60f0b0974c6e1bd43129ae2e5a803989d0fc3c93a290f2d3f06cb023",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.2021",
+      "cab_id": "xg",
+      "cabin_name": "XG",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_xf": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Cabin C (XF).png",
+      "template_sha256": "0f274714f77f475125e2b753bb2227243ed74d575198d48d7532a56882a7e4d3",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.2021",
+      "cab_id": "xf",
+      "cabin_name": "XF",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_sun_visor": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Accessories/Sun Visor.png",
+      "template_sha256": "2f93da1d59a7f2a2b8c76027de54c9bed5d59a8c7d8ae7af068afef00ef583e3",
+      "size": [
+        2048,
+        256
+      ],
+      "kind": "auxiliary",
+      "part": "Sun Visor",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_sideskirts_4x": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Accessories/Sideskirts (4x).png",
+      "template_sha256": "3a157733ec1ca33816fb6c0d1af217f7fed6c2426d469b61497c690617bc7324",
+      "size": [
+        2048,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Sideskirts (4x)",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_main_mirrors_camera": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Accessories/Main Mirrors - Camera.png",
+      "template_sha256": "db7f29c1cd2e6d009e60de8295b0a15fe885b7f59c2fa28758df25d565e686be",
+      "size": [
+        2048,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Main Mirrors - Camera",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_2021_main_mirrors_standard": {
+      "vehicle_id": "daf.2021",
+      "archive_path": "DAF NGD/Accessories/Main Mirrors - Standard.png",
+      "template_sha256": "9b5f89a3ea24ddf3aa0f98d05c8a0ac6bbdfb6a221bb32214fab422a0b951597",
+      "size": [
+        2048,
+        2048
+      ],
+      "kind": "auxiliary",
+      "part": "Main Mirrors - Standard",
+      "fleet_number": "TK-20",
+      "mount": "dlc_daf_2021"
+    },
+    "md_daf_xd_slh": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Cabin A (Sleeper High).png",
+      "template_sha256": "49f881a69b32ddd41e614cb36ff6a99333e03e0a2b66151e08a7b1ab626cbf05",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xd",
+      "cab_id": "slh",
+      "cabin_name": "Sleeper High",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_sl": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Cabin B (Sleeper).png",
+      "template_sha256": "48b13a20e9ba5f4b35d5ffaeefdcb489ddf2766d7d9f455e698b9596828acd8f",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xd",
+      "cab_id": "sl",
+      "cabin_name": "Sleeper",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_day": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Cabin C (Day Cab).png",
+      "template_sha256": "749a7050d6bde90894e877292ea24211c35ef3998f5b0beb56f57144c2407122",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xd",
+      "cab_id": "day",
+      "cabin_name": "Day Cab",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_mirrors_camera": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Accessories/Mirrors (Camera).png",
+      "template_sha256": "8f86f5d401ecad796ff173758d02e3d299269027108f8951c8c1350ffd5a38bc",
+      "size": [
+        2048,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Mirrors (Camera)",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_mirrors": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Accessories/Mirrors.png",
+      "template_sha256": "5d30c9e94dec34e02e35797e6518f8272c29a92287a7161ead228cc4c46b1ea8",
+      "size": [
+        1024,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Mirrors",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_sideskirts": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Accessories/Sideskirts.png",
+      "template_sha256": "7aa2fa524db8b37d5c902b00cf197b0e7bf3f9217ec417afeec12ee77bf96bd7",
+      "size": [
+        2048,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Sideskirts",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xd_sun_visor": {
+      "vehicle_id": "daf.xd",
+      "archive_path": "DAF XD/Accessories/Sun Visor.png",
+      "template_sha256": "fabcdcc7846836abbd6ca78a7ddc133303e926e09c6146b3db804beee97a983e",
+      "size": [
+        1024,
+        256
+      ],
+      "kind": "auxiliary",
+      "part": "Sun Visor",
+      "fleet_number": "TK-24",
+      "mount": "dlc_daf_xd"
+    },
+    "md_daf_xf_electric_slh": {
+      "vehicle_id": "daf.xf_electric",
+      "archive_path": "DAF XF Electric/DAF XF Electric.png",
+      "template_sha256": "18b782bcbab5a374e4748ea762512fab14cab4f7066b45693b6fbf8cdb595a9b",
+      "size": [
+        4096,
+        4096
+      ],
+      "kind": "cabin",
+      "layout": "daf.xf_electric",
+      "cab_id": "slh",
+      "cabin_name": "Sleeper High",
+      "fleet_number": "TK-25",
+      "mount": "dlc_daf_xf_electric"
+    },
+    "md_daf_xf_electric_mirrors": {
+      "vehicle_id": "daf.xf_electric",
+      "archive_path": "DAF XF Electric/Accessories/Mirrors.png",
+      "template_sha256": "a4995d75e408f621e45da127b9e0d5a2c38bfcf8659c1dfadd945ac916e11b80",
+      "size": [
+        1024,
+        512
+      ],
+      "kind": "auxiliary",
+      "part": "Mirrors",
+      "fleet_number": "TK-25",
+      "mount": "dlc_daf_xf_electric"
+    },
+    "md_daf_xf_electric_sideskirts": {
+      "vehicle_id": "daf.xf_electric",
+      "archive_path": "DAF XF Electric/Accessories/Sideskirts.png",
+      "template_sha256": "5c95a6a2e5caacdd6a4e3ee0327523b2c4fb9629cf200234610f1c94dee794ed",
+      "size": [
+        2048,
+        1024
+      ],
+      "kind": "auxiliary",
+      "part": "Sideskirts",
+      "fleet_number": "TK-25",
+      "mount": "dlc_daf_xf_electric"
+    }
+  },
+  "heavy_aliases": {
+    "h8_daf_2021_xf": "md_daf_2021_xf",
+    "h8_daf_2021_xg": "md_daf_2021_xg",
+    "h8_daf_2021_xg_plus": "md_daf_2021_xg_plus"
+  },
+  "truck_family_count": 7,
+  "unique_cabin_map_count": 20,
+  "new_paint_job_definitions": 19,
+  "new_texture_count": 29,
+  "refreshed_texture_count": 4,
+  "truck_families_total": 25,
+  "paint_job_definitions_total": 78,
+  "texture_sets_total": 114,
+  "observed_tuning_archives": [
+    "dlc_actros_tuning",
+    "dlc_daf_tuning_pack"
+  ]
+}

@@ -1,4 +1,6 @@
-# Solar Circuit Heavy Support 8×4 — version 0.3
+# Solar Circuit Heavy Support 8×4 — version 0.3 recipe
+
+**Current release: version 0.4.** The [Mercedes/DAF expansion](MERCEDES-DAF-LIVERIES.md) retains all listed heavy restrictions and refreshes the Actros heavy map and three DAF maps. Counts, preview and generation recipe below describe the historical 0.3 stage. Use the current module for installation; download the original 0.3 seed from its GitHub release when reconstructing that stage.
 
 The truck module covers **all standard SCS 8×4 chassis found in the installed ETS2 1.62.3.3 base and truck DLC files**: 11 truck families, 12 chassis definitions and 20 legal cabin/chassis combinations. It adds 20 separately restricted **Solar Circuit - Heavy Support 8x4** paint options. The complete fleet now has 20 truck families and 59 paint-job definitions, retaining the previous 39 definitions.
 
@@ -8,8 +10,8 @@ These are crops of the supplied paint maps, not game renders. Eight new cabin ma
 
 ## Install and upgrade
 
-1. Deactivate/remove any previous `gtsr-trucks-v0.1.scs` or `gtsr-trucks-v0.2.scs` from your active ETS2 mod folder.
-2. Copy [gtsr-trucks-v0.3.scs](../mods/gtsr-trucks-v0.3.scs) into that folder, usually `Documents\Euro Truck Simulator 2\mod`, and enable it in Mod Manager. Use only one truck-module version.
+1. Deactivate/remove older Solar Circuit truck modules, including version 0.3, from your active ETS2 mod folder.
+2. Copy [gtsr-trucks-v0.4.scs](../mods/gtsr-trucks-v0.4.scs) into that folder, usually `Documents\Euro Truck Simulator 2\mod`, and enable it in Mod Manager. Use only one truck-module version.
 3. Configure a supported standard SCS 8×4 chassis and its compatible cabin. Choose **Solar Circuit - Heavy Support 8x4** at the paint shop. Price: EUR 1,000; unlock level: 0. The vehicle's own cabin/chassis unlock requirements still apply.
 4. Inspect both sides, equipment tower, roof, skirts and rear painted parts in daylight before applying across the fleet.
 

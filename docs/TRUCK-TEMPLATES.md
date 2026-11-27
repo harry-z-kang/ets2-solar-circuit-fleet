@@ -184,3 +184,5 @@ The new templates have not been tested in the local ETS2 1.62.3.3 installation. 
 - Representative FH6, S-Way, MAN TGX GX and Renault T High Sleeper wireframes were visually inspected.
 - [Machine-readable catalog](../source/truck-template-catalog.json) includes exact paths, dimensions, source links, cabin IDs and per-file SHA-256 hashes.
 - [Author’s template permissions](https://truckymods.io/euro-truck-simulator-2/tools/ets2-truck-and-trailer-templates-947834) allow modification/use but prohibit reuploading the template pack. This repository therefore includes the catalog and download links; original wireframe images remain outside the public repository.
+
+Current Mercedes-Benz/DAF coverage and template provenance: [version 0.4 guide](MERCEDES-DAF-LIVERIES.md).
