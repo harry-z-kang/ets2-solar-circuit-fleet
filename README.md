@@ -33,6 +33,10 @@ See [README.txt](README.txt) for complete instructions. Open [FLEET-GUIDE.html](
 - `source/` — optional rebuilding utility, dependency list, texture index and validation reports.
 - `credits/` — logo provenance, template attribution and the MIT notice for adapted Paint Job Packer code patterns.
 
+## Templates for additional truck brands
+
+See the [Volvo, Iveco, MAN and Renault template reference](docs/TRUCK-TEMPLATES.md) for 14 SCS truck models, 37 cabin layouts, download links, exact filenames and verified dimensions. This reference supports future livery work; these brands have not yet been added to the installable truck module.
+
 ## Edit and rebuild
 
 Edit a vehicle SVG in `textures/` at its original canvas size. Keep the team logo proportional. Text uses Arial or a compatible system font; no font files are bundled. Editing a reusable decal master does not automatically change the mapped vehicle SVGs.

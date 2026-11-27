@@ -1,0 +1,764 @@
+{
+  "checked_on": "2026-11-26",
+  "scope": "SCS trucks only; coaches and third-party truck mods excluded",
+  "source_author": "Carsmaniac",
+  "release": "v2.1.3",
+  "metadata_commit": "f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e",
+  "archive_download_url": "https://github.com/Carsmaniac/paintjob-packer/releases/download/v2.1.3/templates.zip",
+  "release_page": "https://github.com/Carsmaniac/paintjob-packer/releases/tag/v2.1.3",
+  "png_psd_template_pack_page": "https://forum.scssoft.com/viewtopic.php?f=33&t=272386",
+  "template_permissions_page": "https://truckymods.io/euro-truck-simulator-2/tools/ets2-truck-and-trailer-templates-947834",
+  "archive_bytes": 351533456,
+  "archive_sha256": "9559dc4c74bc8de6dab3123271a085abf04db115536beaeaf6ce551396d2ff2f",
+  "model_count": 14,
+  "main_cabin_count": 37,
+  "auxiliary_template_count": 19,
+  "total_dds_templates": 56,
+  "ignored_appledouble_metadata_files": 29,
+  "verification": "Every catalogued DDS was read from the archive (ZIP CRC verified by zipfile), its header dimensions checked, and its image fully decoded. Every metadata cabin had a matching 4096x4096 main template. One cabin from each brand was visually inspected. No in-game compatibility test was performed.",
+  "redistribution": "Original templates are not included in this repository. Download them from the author. The public template listing prohibits reuploading the template pack.",
+  "models": [
+    {
+      "brand": "Volvo",
+      "model": "Volvo FH3",
+      "internal_vehicle_id": "volvo.fh16",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/volvo.fh16.json",
+      "template_folder": "ets/scs/volvo.fh16/",
+      "main_cabin_count": 3,
+      "template_count": 3,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/volvo.fh16/Cabin A (Globetrotter XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "22cc80567b54caf29824efe3794ed8968d49822672ac5e0513736d192efedaaa",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter XL",
+          "internal_cabin_ids": [
+            "l2h3"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16/Cabin B (Globetrotter).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "c9ca8212b6c97c00c270b14e0f1db29b6662c6e319ed0df5a45b72ac86101f2d",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter",
+          "internal_cabin_ids": [
+            "l2h2"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16/Cabin C (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "81684fd58522812e9fcaaa341864c69804214bab12aff6f39ebe256ad3c5aec8",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "l2h1"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "model": "Volvo FH4",
+      "internal_vehicle_id": "volvo.fh16_2012",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/volvo.fh16_2012.json",
+      "template_folder": "ets/scs/volvo.fh16_2012/",
+      "main_cabin_count": 3,
+      "template_count": 5,
+      "auxiliary_template_count": 2,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/volvo.fh16_2012/Cabin A (Globetrotter XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "7686926b12e6bc4c49a9e54be0caa9d6ef2263a9cb2461fe49e7162c7502316f",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter XL",
+          "internal_cabin_ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16_2012/Cabin B (Globetrotter).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "ab6093329d3b0a0d5927ee235eb401b396f3f4284411a66f121ac2c305373f07",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter",
+          "internal_cabin_ids": [
+            "l2h2"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16_2012/Cabin C (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "9cc5277f63040ecd71b5e8b9c96d77fa9bf84396905c28729d388f3930787b8c",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "l2h1"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16_2012/Side Deflectors (8x).dds",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "02d193fe427ea470ac1da4b4c4f0ad496233c0df035a72f8eb7aa63ecebfcc82",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh16_2012/Sideskirts.dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "64058a78fef69bcf489c39da636dee24d6cacb482ed8a402f577ebf8c1bd2dd7",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "model": "Volvo FH5",
+      "internal_vehicle_id": "volvo.fh_2021",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/volvo.fh_2021.json",
+      "template_folder": "ets/scs/volvo.fh_2021/",
+      "main_cabin_count": 3,
+      "template_count": 5,
+      "auxiliary_template_count": 2,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/volvo.fh_2021/Cabin A (Globetrotter XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "c2a049dc380e1b3dce64079a27b3eee1b4bc13d31cfbb9a41b00241c20ac6d3e",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter XL",
+          "internal_cabin_ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2021/Cabin B (Globetrotter).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "285104cb69005c569db2cd4bf3489e58af3dd8fee1d61c9589440b28878bfbbf",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter",
+          "internal_cabin_ids": [
+            "l2h2"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2021/Cabin C (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "3c56da19484a1bb7c8684759b06f1ecf798232dc8a700ee0da93c47278ace785",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "l2h1"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2021/Side Deflectors (8x).dds",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "02d193fe427ea470ac1da4b4c4f0ad496233c0df035a72f8eb7aa63ecebfcc82",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2021/Sideskirts.dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "c404e810bbb6e435b639966d624f94182167ef966c414d2158cdf6d27dea8f09",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "model": "Volvo FH6",
+      "internal_vehicle_id": "volvo.fh_2024",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/volvo.fh_2024.json",
+      "template_folder": "ets/scs/volvo.fh_2024/",
+      "main_cabin_count": 8,
+      "template_count": 11,
+      "auxiliary_template_count": 3,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin A (Globetrotter XXL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "91b79a8f6b08c7e16e541efc0155f32cd21e9bc52cc46183f35cd521bfcd5575",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter XXL",
+          "internal_cabin_ids": [
+            "l3h3",
+            "l3h34_8x4"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin A Aero (Aero Globetrotter XXL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "777a3e86eafcb6639c9f225e46ce3a09273e6a7bc1981f1fcdb35d7ac3edca54",
+          "kind": "main_cabin",
+          "cabin": "Aero Globetrotter XXL",
+          "internal_cabin_ids": [
+            "l3h3_aero",
+            "l3h3_8x4_a"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin B (Globetrotter XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "aa2b0432a8980937765e0871b1ada53669aa1a39d1cdc4e747e9dff50089538b",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter XL",
+          "internal_cabin_ids": [
+            "l2h3",
+            "l2h3_8x4"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin B Aero (Aero Globetrotter XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "9c8cb788d1fccf85b5bd96f3efe1c293a970ec2ebac66a3fc7f6f30901aea188",
+          "kind": "main_cabin",
+          "cabin": "Aero Globetrotter XL",
+          "internal_cabin_ids": [
+            "l2h3_aero",
+            "l2h3_8x4_a"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin C (Globetrotter).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "e53ef012ee8e4860abc82b3ce1b60489e7f928f0679809ea06f991f6036e17da",
+          "kind": "main_cabin",
+          "cabin": "Globetrotter",
+          "internal_cabin_ids": [
+            "l2h2"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin C Aero (Aero Globetrotter).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "1b49f78a7f50b6f9baa4d5a2faa30c5256408485c177ace8fd05bfdf9f988929",
+          "kind": "main_cabin",
+          "cabin": "Aero Globetrotter",
+          "internal_cabin_ids": [
+            "l2h2_aero"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin D (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "a3bf404601504edba5d078d5ad6ca9eb40a6eddabd9ecd7258f125480477bbc1",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "l2h1"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Cabin D Aero (Aero Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "dd3a63d8ab7018e3ee92e1a2f1b182580f1a6bd07044e341eeb4a3cbcd1e8ba0",
+          "kind": "main_cabin",
+          "cabin": "Aero Sleeper",
+          "internal_cabin_ids": [
+            "l2h1_aero"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Side Deflectors (8x).dds",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "02d193fe427ea470ac1da4b4c4f0ad496233c0df035a72f8eb7aa63ecebfcc82",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Side Deflectors.dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "c2c6ea074885635a7567844646ee0124c24b79c46a6285668d8be79fbf95a6f9",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/volvo.fh_2024/Sideskirts.dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "c404e810bbb6e435b639966d624f94182167ef966c414d2158cdf6d27dea8f09",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "Iveco",
+      "model": "Iveco Stralis",
+      "internal_vehicle_id": "iveco.stralis",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/iveco.stralis.json",
+      "template_folder": "ets/scs/iveco.stralis/",
+      "main_cabin_count": 3,
+      "template_count": 3,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": false,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/iveco.stralis/Cabin A (Active Space Super).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "831356ed0227e3447eee54db7399d92abd394838a1169292ecb086349015e527",
+          "kind": "main_cabin",
+          "cabin": "Active Space Super",
+          "internal_cabin_ids": [
+            "as_higher"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/iveco.stralis/Cabin B (Active Super).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "c585cc78a0e52fbf2b7a2ae2fab25b8e69b5f1659a69f88d0cb940507cf421e8",
+          "kind": "main_cabin",
+          "cabin": "Active Super",
+          "internal_cabin_ids": [
+            "at_higher"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/iveco.stralis/Cabin C (Active Space).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "1618700c249f622723b25048eaa3ae6cb2a06d7876c0c5a16e98c7a4048c3df6",
+          "kind": "main_cabin",
+          "cabin": "Active Space",
+          "internal_cabin_ids": [
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Iveco",
+      "model": "Iveco Stralis Hi-Way",
+      "internal_vehicle_id": "iveco.hiway",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/iveco.hiway.json",
+      "template_folder": "ets/scs/iveco.hiway/",
+      "main_cabin_count": 1,
+      "template_count": 1,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": false,
+      "separate_paint_jobs_by_cabin": false,
+      "templates": [
+        {
+          "archive_path": "ets/scs/iveco.hiway/Cabin A (Hi-Way).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "f863b7e3e2d158a0c03611a3984a866c31fae6718da01e3086405a4160c69d41",
+          "kind": "main_cabin",
+          "cabin": "Hi-Way",
+          "internal_cabin_ids": [
+            "hiway"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Iveco",
+      "model": "Iveco S-Way",
+      "internal_vehicle_id": "iveco.sway",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/iveco.sway.json",
+      "template_folder": "ets/scs/iveco.sway/",
+      "main_cabin_count": 1,
+      "template_count": 2,
+      "auxiliary_template_count": 1,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": false,
+      "templates": [
+        {
+          "archive_path": "ets/scs/iveco.sway/Cabin A (Active Space).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "8ce15dcb84ae8d1f2edcd6d0ea8a49c44af6606bc2c14d931eecc6ccb2c366db",
+          "kind": "main_cabin",
+          "cabin": "Active Space",
+          "internal_cabin_ids": [
+            "as"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/iveco.sway/Sideskirts.dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "402fc36bfc0986ad2d9442f3bbca93d44e9709359426b743282aab82bac20745",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "MAN",
+      "model": "MAN TGX Euro 5",
+      "internal_vehicle_id": "man.tgx",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/man.tgx.json",
+      "template_folder": "ets/scs/man.tgx/",
+      "main_cabin_count": 3,
+      "template_count": 3,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": false,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/man.tgx/Cabin A (XXL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "06cf856b2dfcf5124e379b167167061406b335aafab5d440a7e4450d5955ec84",
+          "kind": "main_cabin",
+          "cabin": "XXL",
+          "internal_cabin_ids": [
+            "xxl_cab"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx/Cabin B (XLX).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "78da84486aded4e2f0353e2d0f1933014d184a7d4adf6394e2f371e1a6098d38",
+          "kind": "main_cabin",
+          "cabin": "XLX",
+          "internal_cabin_ids": [
+            "xlx_cab"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx/Cabin C (XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "31371d49c6022670f77ba46bdc78bac8ae5ce3c05a7d1956b61ce26c25ad124d",
+          "kind": "main_cabin",
+          "cabin": "XL",
+          "internal_cabin_ids": [
+            "xl_cab"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MAN",
+      "model": "MAN TGX Euro 6",
+      "internal_vehicle_id": "man.tgx_euro6",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/man.tgx_euro6.json",
+      "template_folder": "ets/scs/man.tgx_euro6/",
+      "main_cabin_count": 3,
+      "template_count": 8,
+      "auxiliary_template_count": 5,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Cabin A (XXL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "b4506e4c64ee51291cb6ae823241e5d3e9c729a14e9713e056b8c3b42f614360",
+          "kind": "main_cabin",
+          "cabin": "XXL",
+          "internal_cabin_ids": [
+            "xxl_cab"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Cabin B (XLX).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "28a1a5ef45a98504d36e82beb5d9e7b5b9b961f767687c9aa30e33c387f07861",
+          "kind": "main_cabin",
+          "cabin": "XLX",
+          "internal_cabin_ids": [
+            "xlx_cab"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Cabin C (XL).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "0036475f092a37db249fb5d703d76a2aa2a9822519588599fe16ba095d921fd7",
+          "kind": "main_cabin",
+          "cabin": "XL",
+          "internal_cabin_ids": [
+            "xl_cab"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Sideskirts (4x).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "07a76dd0a393dda302483f9df8190060ac6d1c9fa069a6182e942def573c19d8",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Sideskirts (6x2 Long).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "267b25f959b9c05979fa49720053ee5d0a905a410f97468426d9999db26b3ad7",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Sideskirts (6x2 Short).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "fe642ccf92a11d114eb9166bbeb12411e6205dbde35c36a7963ee91b37ece14e",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Sideskirts (6x4).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "7e59012f7ac4693d7e6f15dcc8664977cd55bc5ee165884d21c13eedd5a4aa01",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_euro6/Sideskirts (8x).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "ec1ab511159b32f22d2b3d3d06558010a6a2b56e6bdebc18914e7705879f1769",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "MAN",
+      "model": "MAN TGX",
+      "internal_vehicle_id": "man.tgx_2020",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/man.tgx_2020.json",
+      "template_folder": "ets/scs/man.tgx_2020/",
+      "main_cabin_count": 3,
+      "template_count": 5,
+      "auxiliary_template_count": 2,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/man.tgx_2020/Cabin A (GX).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "cbc3c8ae936a9b72fc3bebd7c3860a661f3d3c5b25c016d20fed69140f2a780e",
+          "kind": "main_cabin",
+          "cabin": "GX",
+          "internal_cabin_ids": [
+            "gx"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_2020/Cabin B (GM).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "5d15effdcafbdb997c71701acd508790ff6cd5c5a7d3715c9f15acdb465add72",
+          "kind": "main_cabin",
+          "cabin": "GM",
+          "internal_cabin_ids": [
+            "gm"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_2020/Cabin C (GN).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "5c1ad503d9e46c37379dd4a2fb5f4a31d85e485ad87673a627fbad7032942c30",
+          "kind": "main_cabin",
+          "cabin": "GN",
+          "internal_cabin_ids": [
+            "gn"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_2020/Cabin Deflectors (Cabin B).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "76398947509c88268f6c9d574c9c571d3a62a7d8d7e7fe1ae258fa41fd8b1441",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/man.tgx_2020/Cabin Deflectors (Cabin C).dds",
+          "width": 2048,
+          "height": 2048,
+          "sha256": "df91a7f0982d06651d9ff38652cbf02faa591859b15badacce21d35031b818f4",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Renault Magnum",
+      "internal_vehicle_id": "renault.magnum",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/renault.magnum.json",
+      "template_folder": "ets/scs/renault.magnum/",
+      "main_cabin_count": 1,
+      "template_count": 1,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": false,
+      "separate_paint_jobs_by_cabin": false,
+      "templates": [
+        {
+          "archive_path": "ets/scs/renault.magnum/Cabin A (Excellence).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "491499af659ca53ce13daf5abb3808e15ae2b80abb3980c35d48218a417146c2",
+          "kind": "main_cabin",
+          "cabin": "Excellence",
+          "internal_cabin_ids": [
+            "solo"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Renault Premium",
+      "internal_vehicle_id": "renault.premium",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/renault.premium.json",
+      "template_folder": "ets/scs/renault.premium/",
+      "main_cabin_count": 2,
+      "template_count": 2,
+      "auxiliary_template_count": 0,
+      "accessory_based_paint_job": false,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/renault.premium/Cabin A (High Roof).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "f54bab79acbc2d9a958700cb505529d7f28fa9d978132c636b88b40ac493f7dd",
+          "kind": "main_cabin",
+          "cabin": "High Roof",
+          "internal_cabin_ids": [
+            "higher"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/renault.premium/Cabin B (Normal Roof).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "202e3e3492e1845a9f14b285cce392fcf38aff589c3bc851b4245368755ce8de",
+          "kind": "main_cabin",
+          "cabin": "Normal Roof",
+          "internal_cabin_ids": [
+            "normal"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Renault T",
+      "internal_vehicle_id": "renault.t",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/renault.t.json",
+      "template_folder": "ets/scs/renault.t/",
+      "main_cabin_count": 2,
+      "template_count": 5,
+      "auxiliary_template_count": 3,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": true,
+      "templates": [
+        {
+          "archive_path": "ets/scs/renault.t/Cabin A (High Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "f3158f9ec1883b9451dbf996b499d7b4fe61d607cdcec62a9798a3a423521191",
+          "kind": "main_cabin",
+          "cabin": "High Sleeper",
+          "internal_cabin_ids": [
+            "high_sleeper"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/renault.t/Cabin B (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "8af6763ff8ced612083f292704bfff38c43b0475960039e8908d105e6340f8f3",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "sleeper"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/renault.t/Sideskirts (4x).dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "1e3f69d1fe5fbcafeed22ae30fff4222806ea2bfb5f19a78229fe0495f7acd3a",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/renault.t/Sideskirts (6x Long).dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "f0922e83f96a1f6a362de239d6c272fda33da3ec75d7dc6271f4f5231b58b48a",
+          "kind": "auxiliary"
+        },
+        {
+          "archive_path": "ets/scs/renault.t/Sideskirts (6x Short).dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "b2e289b859b4388109cf879b8a608814c292a39f2515862b4bfc516fb6a52b88",
+          "kind": "auxiliary"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Renault E-Tech T",
+      "internal_vehicle_id": "renault.etech_t",
+      "metadata_url": "https://github.com/Carsmaniac/paintjob-packer/blob/f58bb7d865c3f5af0c6cd8191623b4a17bda0c1e/vehicles/ets/scs/renault.etech_t.json",
+      "template_folder": "ets/scs/renault.etech_t/",
+      "main_cabin_count": 1,
+      "template_count": 2,
+      "auxiliary_template_count": 1,
+      "accessory_based_paint_job": true,
+      "separate_paint_jobs_by_cabin": false,
+      "templates": [
+        {
+          "archive_path": "ets/scs/renault.etech_t/Cabin A (Sleeper).dds",
+          "width": 4096,
+          "height": 4096,
+          "sha256": "5f95c192504ba5d76f5ec9e8727cc8bb30b52ebd3b4495028037ed5b558fe280",
+          "kind": "main_cabin",
+          "cabin": "Sleeper",
+          "internal_cabin_ids": [
+            "sleeper"
+          ]
+        },
+        {
+          "archive_path": "ets/scs/renault.etech_t/Sideskirts.dds",
+          "width": 2048,
+          "height": 1024,
+          "sha256": "0362a64f62d2861dc297826855b8cc0e7e903dc194ee3b48c83fcdc2e68dfca2",
+          "kind": "auxiliary"
+        }
+      ]
+    }
+  ]
+}
