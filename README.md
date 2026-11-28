@@ -10,7 +10,11 @@ A Georgia Tech Solar Racing inspired personal alumni fleet theme for Euro Truck 
 
 ![Mercedes-Benz and DAF artwork preview](previews/mercedes-daf-preview.png)
 
-**Version 0.5.3 is an installable build for testing.** The three photographed coaches and FH6 Aero XL were checked in Blender 5.3 using the actual packaged DDS files. Final ETS2 material behavior still needs confirmation.
+**Version 0.5.4 is an installable build for testing.** The three photographed coaches and FH6 Aero XL were checked in Blender 5.3 using the actual packaged DDS files. Final ETS2 material behavior still needs confirmation.
+
+## FH6 stripe and logo
+
+The Aero XL Van Leer gold stripe slopes down along the front panel line and continues across the nose. The enlarged logo and **TK-05 / VAN LEER** move down about 15 cm, retaining the reduced 936-pixel width and front-corner clearance. [Five Blender previews and truck-only upgrade](docs/FH6-LARGER-LOGO.md).
 
 ## Painted front panels
 
@@ -32,7 +36,7 @@ The repeatable [Blender workflow](docs/BLENDER-VISUAL-CHECK.md) builds local sce
 
 | Module | Vehicles and layouts | Limits |
 | --- | --- | --- |
-| [25-family truck fleet](mods/gtsr-trucks-v0.5.3.scs) | 77 paint definitions, including 19 new Mercedes/DAF options and all previous stock 8×4 options | [Mercedes/DAF coverage](docs/MERCEDES-DAF-LIVERIES.md); [8×4 coverage](docs/8X4-LIVERIES.md); matching truck DLC required |
+| [25-family truck fleet](mods/gtsr-trucks-v0.5.4.scs) | 77 paint definitions, including 19 new Mercedes/DAF options and all previous stock 8×4 options | [Mercedes/DAF coverage](docs/MERCEDES-DAF-LIVERIES.md); [8×4 coverage](docs/8X4-LIVERIES.md); matching truck DLC required |
 | [SCS box trailers](mods/gtsr-trailers-v0.1.scs) | Owned curtainsider and dry-freighter maps in Long, Double and B-Double layouts; related bodies assigned the matching dry atlas | Related insulated, refrigerated, side-door and moving-floor variants need individual visual checks |
 | [SCS coaches](mods/gtsr-coaches-v0.2.3.scs) | MAN Lion's Coach 13.9 m / 12.1 m; Scania Touring HD 13.7 m / 12.9 m; Volvo 9700 DD | Requires SCS Coaches DLC; third-party coaches are not mapped |
 
@@ -40,7 +44,7 @@ The repeatable [Blender workflow](docs/BLENDER-VISUAL-CHECK.md) builds local sce
 
 1. Download or clone this repository. For an individual module on GitHub, open its file and use **Download raw file**.
 2. Copy the desired `.scs` files from `mods/` into your active ETS2 user-data `mod` folder. On Windows this is usually `Documents\Euro Truck Simulator 2\mod`; OneDrive redirection or a custom `-homedir` can change the location.
-3. Activate the modules in ETS2 Mod Manager. All three can be enabled together. When upgrading, remove/deactivate older truck and coach modules and enable only truck v0.5.3 and coach v0.2.3.
+3. Activate the modules in ETS2 Mod Manager. All three can be enabled together. When upgrading, remove/deactivate older truck and coach modules and enable only truck v0.5.4 and coach v0.2.3.
 4. On the FH6 Aero Globetrotter XL choose **Solar Circuit - Van Leer**. Other matching vehicles retain **Solar Circuit - Alumni Support** or **Solar Circuit - Heavy Support 8x4**. Switch an Aero XL off its retired Heavy selection before upgrading, or choose Van Leer afterward. Price: EUR 1,000; unlock level: 0.
 5. Check both sides, front, rear, roof, seams and painted accessories before applying across your fleet. Use your usual profile backup when testing mods.
 
@@ -67,7 +71,7 @@ See the [Volvo, Iveco, MAN and Renault template reference](docs/TRUCK-TEMPLATES.
 
 ## Edit and rebuild
 
-The expanded truck module uses conditional DLC sections, supported by the rebuild utility. See [PAINTED-FRONT-FIX.md](docs/PAINTED-FRONT-FIX.md) for the current patch recipe, [COACH-LOGO-ALIGNMENT.md](docs/COACH-LOGO-ALIGNMENT.md) for the preceding logo alignment recipe, [FEEDBACK-FIX.md](docs/FEEDBACK-FIX.md) for the preceding feedback recipe, [MERCEDES-DAF-LIVERIES.md](docs/MERCEDES-DAF-LIVERIES.md) for the earlier Mercedes/DAF generator, [8X4-LIVERIES.md](docs/8X4-LIVERIES.md) for the historical 8×4 generator and [TRUCK-LIVERIES.md](docs/TRUCK-LIVERIES.md) for the earlier expansion recipe.
+The expanded truck module uses conditional DLC sections, supported by the rebuild utility. See [FH6-LARGER-LOGO.md](docs/FH6-LARGER-LOGO.md) for the current truck patch recipe, [PAINTED-FRONT-FIX.md](docs/PAINTED-FRONT-FIX.md) for the preceding painted-parts recipe, [COACH-LOGO-ALIGNMENT.md](docs/COACH-LOGO-ALIGNMENT.md) for the preceding logo alignment recipe, [FEEDBACK-FIX.md](docs/FEEDBACK-FIX.md) for the preceding feedback recipe, [MERCEDES-DAF-LIVERIES.md](docs/MERCEDES-DAF-LIVERIES.md) for the earlier Mercedes/DAF generator, [8X4-LIVERIES.md](docs/8X4-LIVERIES.md) for the historical 8×4 generator and [TRUCK-LIVERIES.md](docs/TRUCK-LIVERIES.md) for the earlier expansion recipe.
 
 Edit a vehicle SVG in `textures/` at its original canvas size. Keep the team logo proportional. Text uses Arial or a compatible system font; no font files are bundled. Editing a reusable decal master does not automatically change the mapped vehicle SVGs.
 
@@ -88,7 +92,9 @@ The utility writes updated PNG/DDS files and modules under `rebuilt/`, which Git
 
 ## Validation status
 
-Version 0.5.3: **1479/1479 checks** and **25 saved-scene checks** passed. Ten Blender views reviewed against three native v0.5.2 captures. All 117 unrelated texture sets, Scania side logo pixels and trailer contents are preserved. See the [painted front report](source/accessory-fix-validation.json) and [scene report](source/accessory-fix-blender-validation.json).
+Version 0.5.4: **379/379 checks** and **15 saved-scene checks** passed. Five Blender views and 342 gold-stripe samples reviewed; all opaque logo pixels remain on the painted cab. All 117 unrelated texture sets, accessory assignments and coach/trailer archives are preserved. See the [logo report](source/fh6-logo-validation.json) and [scene report](source/fh6-logo-blender-validation.json).
+
+Historical Version 0.5.3: **1479/1479 checks** and **25 saved-scene checks** passed. Ten Blender views reviewed against three native v0.5.2 captures. All 117 unrelated texture sets, Scania side logo pixels and trailer contents are preserved. See the [painted front report](source/accessory-fix-validation.json) and [scene report](source/accessory-fix-blender-validation.json).
 
 Historical Version 0.5.2: **381/381 checks** and **18 saved-scene checks** passed for the aligned MAN/Scania logos. Eight Blender views reviewed. All 116 unrelated texture sets and the truck/trailer archives are preserved. See the [alignment report](source/logo-alignment-validation.json) and [scene report](source/logo-alignment-blender-validation.json).
 

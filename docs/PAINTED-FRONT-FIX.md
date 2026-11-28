@@ -1,12 +1,14 @@
 # Scania and FH6 painted parts — v0.5.3
 
+These painted-part fixes are retained in the [v0.5.4 FH6 front-stripe and logo release](FH6-LARGER-LOGO.md).
+
 The Scania Touring HD 13.7 m front intake now continues the navy lower panel and gold stripe across the center. On the FH6 Aero Globetrotter XL **Van Leer** livery, painted cab wheel arches and the Exclusive Aero headlight surrounds use navy. All five paintable sunshade options use white.
 
 The Scania intake was missing from the earlier color projection. It uses a reserved island of the existing body atlas, so this patch fills that island using the same physical stripe profile as the surrounding body. The front panel's paint UV alias is `_TEXCOORD1`. The painted wheel arches and Exclusive headlights needed their own FH6 accessory assignments; the painted sunshades previously had navy assignments.
 
 ## Install and select the painted parts
 
-Install [truck v0.5.3](../mods/gtsr-trucks-v0.5.3.scs) and [coach v0.2.3](../mods/gtsr-coaches-v0.2.3.scs), deactivating older truck and coach modules. Trailer v0.1 is unchanged. Paint-job IDs, names and suitability are retained.
+Install [truck v0.5.3](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.3/gtsr-trucks-v0.5.3.scs) and [coach v0.2.3](../mods/gtsr-coaches-v0.2.3.scs), deactivating older truck and coach modules. Trailer v0.1 is unchanged. Paint-job IDs, names and suitability are retained.
 
 - Scania: select the **Standard Painted** front intake, replacing Standard Plastic. The existing Solar Circuit paint job supplies the new front band.
 - FH6 Aero XL: retain **Solar Circuit - Van Leer**, select painted cab fenders, and use Stock Aero or Exclusive Aero headlights. Painted sunshade options now inherit white. **TK-05 / VAN LEER** and the white painted mirrors remain.

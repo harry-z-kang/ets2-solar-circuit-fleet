@@ -1,0 +1,1548 @@
+{
+  "version": "0.5.4",
+  "checks_passed": 379,
+  "checks_total": 379,
+  "failures": [],
+  "linear_logo_scale": 2.2829268292682925,
+  "linear_scale_from_first_draft": 1.44,
+  "final_reduction": 0.9,
+  "proof": {
+    "changed_archive_members": [
+      "Description.txt",
+      "dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds",
+      "manifest.sii"
+    ],
+    "preserved_archive_members": 357,
+    "logo_0_paint_coverage_fraction": 1.0,
+    "logo_1_paint_coverage_fraction": 1.0,
+    "gold_stripe_samples": {
+      "left": 167,
+      "right": 145,
+      "front": 30
+    },
+    "gold_stripe_errors": {
+      "left": 0,
+      "right": 0,
+      "front": 0
+    }
+  },
+  "checks": [
+    {
+      "check": "Source matches calibrated layout",
+      "passed": true
+    },
+    {
+      "check": "Two enlarged side marks",
+      "passed": true
+    },
+    {
+      "check": "Proportional original mark 0",
+      "passed": true
+    },
+    {
+      "check": "Final 10 percent reduction 0",
+      "passed": true
+    },
+    {
+      "check": "Proportional original mark 1",
+      "passed": true
+    },
+    {
+      "check": "Final 10 percent reduction 1",
+      "passed": true
+    },
+    {
+      "check": "Both TK-05 / VAN LEER captions retained",
+      "passed": true
+    },
+    {
+      "check": "Unchanged navy/gold/white base",
+      "passed": true
+    },
+    {
+      "check": "Opaque BC3 with complete mip header",
+      "passed": true
+    },
+    {
+      "check": "Complete DDS payload",
+      "passed": true
+    },
+    {
+      "check": "Decoded body alpha",
+      "passed": true
+    },
+    {
+      "check": "SVG rebuild matches png",
+      "passed": true
+    },
+    {
+      "check": "SVG rebuild matches dds",
+      "passed": true
+    },
+    {
+      "check": "Module integrity and unique members",
+      "passed": true
+    },
+    {
+      "check": "Final DDS packaged",
+      "passed": true
+    },
+    {
+      "check": "All previous painted accessory fixes retained",
+      "passed": true
+    },
+    {
+      "check": "Rebuilt truck preserves every payload",
+      "passed": true
+    },
+    {
+      "check": "Archive inventory retained",
+      "passed": true
+    },
+    {
+      "check": "Only main cab DDS and metadata changed",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xf.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xf.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg_plus.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_daf_2021_xg_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_mercedes_actros2014_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_mercedes_actros2014_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_mercedes_actros2014_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_skirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_2016_skirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_r_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_streamline_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_streamline_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_streamline_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_skirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_skirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture h8_scania_s_2016_skirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-121.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-121.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-121.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-139.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-139.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture man-lions-coach-139.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_camera.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_camera.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_standard.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_standard.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_main_mirrors_standard.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sun_visor.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_sun_visor.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xf.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xf.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xf.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg_plus.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_2021_xg_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_day.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_day.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_day.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors_camera.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors_camera.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_mirrors_camera.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sl.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sl.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sl.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_slh.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_slh.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sun_visor.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sun_visor.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xd_sun_visor.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_mirrors.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_mirrors.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_mirrors.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_slh.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_slh.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_electric_slh.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_space.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_space.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_space.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_spacespoiler.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_spacespoiler.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_spacespoiler.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_superspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_superspace.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_euro6_superspace.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_space_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_space_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_space_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_super_s_cab.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_super_s_cab.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_super_s_cab.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_s_cab_plus.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_s_cab_plus.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_daf_xf_s_cab_plus.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_bigspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_bigspace.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_bigspace.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_gigaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_gigaspace.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_gigaspace.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_streamspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_streamspace.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros2014_streamspace.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l_lw.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l_lw.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_cabin_l_lw.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_megaspace.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_megaspace.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture md_mercedes_actros_megaspace.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-high-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-high-roof.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-high-roof.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-normal-roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-normal-roof.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-normal-roof.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-4x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-4x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-long.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-long.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-short.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-short.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-s-sideskirts-6x-short.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-129.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-129.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-129.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-137.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-137.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scania-touring-137.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-b-double.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-b-double.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-double.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-double.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-long.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-curtainsider-long.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-b-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-b-double.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-b-double.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-double.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-double.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-double.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-long.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-long.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture scs-box-dry-freighter-long.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-gold.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-gold.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-gold.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-navy.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-navy.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-navy.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-white.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-white.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture solid-white.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_hiway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_hiway_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_hiway_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_stralis_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_iveco_sway_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_2020_cabin_deflectors_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_long.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_long.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_short.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x2_short.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x4.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x4.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_6x4.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_8x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_man_tgx_euro6_sideskirts_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_etech_t_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_magnum_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_magnum_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_magnum_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_premium_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_4x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_4x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_4x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_long.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_long.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_long.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_short.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_short.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_renault_t_sideskirts_6x_short.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_2012_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh16_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2021_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a_aero.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_a_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_b.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_b.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_b.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c_aero.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_c_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d_aero.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d_aero.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_cabin_d_aero.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_sideskirts.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_sideskirts.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_sideskirts.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors_8x.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors_8x.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture trk_volvo_fh_2024_side_deflectors_8x.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_chassis.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_chassis.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_chassis.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_roof.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_roof.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_8x4_roof.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_aero_side.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_aero_side.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_aero_side.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_standard_side.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_standard_side.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture vl_fh6_standard_side.svg",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture volvo-9700-dd.dds",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture volvo-9700-dd.png",
+      "passed": true
+    },
+    {
+      "check": "Unchanged texture volvo-9700-dd.svg",
+      "passed": true
+    },
+    {
+      "check": "Byte-identical module gtsr-coaches-v0.2.3.scs",
+      "passed": true
+    },
+    {
+      "check": "Byte-identical module gtsr-trailers-v0.1.scs",
+      "passed": true
+    },
+    {
+      "check": "Pixels outside the stripe and logo/caption areas unchanged",
+      "passed": true
+    },
+    {
+      "check": "Calibrated sloping stripe base",
+      "passed": true
+    },
+    {
+      "check": "Logo opaque pixels remain on painted cab 0",
+      "passed": true
+    },
+    {
+      "check": "Logo opaque pixels remain on painted cab 1",
+      "passed": true
+    },
+    {
+      "check": "Continuous geometry-projected gold stripe left",
+      "passed": true
+    },
+    {
+      "check": "Continuous geometry-projected gold stripe right",
+      "passed": true
+    },
+    {
+      "check": "Continuous geometry-projected gold stripe front",
+      "passed": true
+    }
+  ],
+  "game_runtime_tested": false
+}

@@ -101,6 +101,17 @@ def material(args, definition, paint):
                 links.new(emission.outputs[0], output.inputs['Surface'])
         elif definition['textures'].get('texture_base'):
             REPORT['warnings'].append('Missing base texture; diffuse fallback: '+definition['textures']['texture_base'])
+    # Hide reversed paint inside the cab in Cycles. Keep the approximate opaque
+    # glazing two-sided, since this inspection scene deliberately has no interior.
+    if 'truckpaint' in effect:
+        surface = output.inputs['Surface'].links[0].from_socket
+        facing = nodes.new('ShaderNodeNewGeometry')
+        transparent = nodes.new('ShaderNodeBsdfTransparent')
+        cull = nodes.new('ShaderNodeMixShader')
+        links.new(facing.outputs['Backfacing'], cull.inputs[0])
+        links.new(surface, cull.inputs[1])
+        links.new(transparent.outputs[0], cull.inputs[2])
+        links.new(cull.outputs[0], output.inputs['Surface'])
     MATERIALS[key] = mat
     return mat
 

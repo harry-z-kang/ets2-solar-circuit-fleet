@@ -2,7 +2,7 @@
 
 Blender **5.3.0** was found on this machine through the Scoop `blender` command. The workflow uses Blender's Python API and CPU Cycles rendering. It does not require installing an SCS addon, changing Blender preferences on disk, or opening ETS2.
 
-The importer reads privately converted PIM/PIT files, selects visible parts from the named variant, assigns the actual packaged DDS paint through the correct UV aliases, and assembles doors, end panels and the configured accessories. SCS triangle winding is reversed for Blender, custom normals are rotated, and SCS shadow-only meshes are omitted. Accessory attachment transforms are included. Standard reference tires/rims are assembled from the exported wheel locators.
+The importer reads privately converted PIM/PIT files, selects visible parts from the named variant, assigns the actual packaged DDS paint through the correct UV aliases, and assembles doors, end panels and the configured accessories. SCS triangle winding is reversed for Blender, custom normals are rotated, and SCS shadow-only meshes are omitted. An explicit backface shader prevents reversed cab artwork appearing through gaps where the interior is omitted in Cycles. Accessory attachment transforms are included. Standard reference tires/rims are assembled from the exported wheel locators.
 
 ## Run a check
 
@@ -34,7 +34,7 @@ The second command writes a local HTML gallery and contact sheets. Other vehicle
 
 The override folder supplies edited DDS files, or PNG files if a DDS is absent. Unchanged maps fall back to the current module. Rebuild before inspecting an SVG change; an existing DDS takes priority over a PNG. Existing open Blender scenes can reload external images, but rerunning the command is the reproducible route and records fresh texture hashes.
 
-By default the current module names come from `accessory-fix-layouts.json` (falling back to the earlier logo/feedback/refinement layouts if absent). To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
+By default the current module names come from `fh6-logo-layout.json` (falling back to the earlier accessory/logo/feedback/refinement layouts if absent). To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
 
 ## Recreate private model inputs
 

@@ -1,0 +1,25 @@
+{
+  "version": "0.5.4",
+  "model": "vehicle/truck/volvo_fh_2024/cabin/globe_xl_aero_2024.pim",
+  "paint_triangles": 29407,
+  "profile_z_height_m": [
+    [
+      -100,
+      1.84
+    ],
+    [
+      -3.3,
+      1.84
+    ],
+    [
+      -2.35,
+      2.152
+    ],
+    [
+      100,
+      2.152
+    ]
+  ],
+  "gold_width_m": 0.045,
+  "base_sha256": "5be4fab03d9a5af96ec6fd6afa5317664040a32000dd95eb0a885f815b66a1fd"
+}

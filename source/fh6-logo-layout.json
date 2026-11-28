@@ -1,0 +1,18 @@
+{
+  "version": "0.5.4",
+  "truck_module": "gtsr-trucks-v0.5.4.scs",
+  "coach_module": "gtsr-coaches-v0.2.3.scs",
+  "texture": "trk_volvo_fh_2024_cabin_b_aero",
+  "mount": "dlc_volvo_fh_2024",
+  "logos": [[340, 2910.4902386117135, 936], [2824, 2910.4902386117135, 936]],
+  "previous_logo_width": 410,
+  "first_draft_logo_width": 650,
+  "requested_scale_from_draft": 1.6,
+  "final_reduction": 0.9,
+  "label": "TK-05 / VAN LEER",
+  "label_y": 3137.5097613882865,
+  "logo_lowering_m": 0.152,
+  "stripe_profile": [[-100, 1.84], [-3.30, 1.84], [-2.35, 2.152], [100, 2.152]],
+  "gold_width_m": 0.045,
+  "placement": "Both cab sides; broad multi-panel placement across the door and adjacent cab panel. Original mark proportions and fleet caption size retained; caption moved with the enlarged mark."
+}
