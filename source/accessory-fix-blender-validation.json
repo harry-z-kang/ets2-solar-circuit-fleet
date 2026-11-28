@@ -1,0 +1,108 @@
+{
+  "blender_version": "5.3.0",
+  "checks_passed": 25,
+  "checks_total": 25,
+  "failures": [],
+  "checks": [
+    {
+      "check": "fh6-van-leer saved cameras",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV aero_1",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV chs_8x4_10",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV digital_2",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV fh16_aero_5",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV globe_xl_aero_2024_1",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV paint_aero_0",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV painted_0",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV painted_2021_0",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV quatro_0",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV stock_8x_0",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint UV stock_aero_1",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer paint images loaded",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer external paint hashes",
+      "passed": true
+    },
+    {
+      "check": "fh6-van-leer complete renders",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 saved cameras",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV cab_137h6_9",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV doors_7",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_0.001",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_0.002",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_2",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint UV standard_paint_2.001",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 paint images loaded",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 external paint hashes",
+      "passed": true
+    },
+    {
+      "check": "scania-touring-137 complete renders",
+      "passed": true
+    }
+  ]
+}

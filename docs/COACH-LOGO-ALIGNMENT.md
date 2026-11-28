@@ -1,5 +1,7 @@
 # MAN and Scania logo alignment — v0.5.2
 
+This records the preceding alignment release, retained in the [v0.5.3 painted-front patch](PAINTED-FRONT-FIX.md).
+
 The MAN Lion's Coach L 13.9 m and Scania Touring HD 13.7 m now share the same logo centerline and physical height on both sides. Each side has its own UV placement: using identical texture coordinates had left the MAN's right logo substantially lower.
 
 The unchanged proportional GT Solar Racing mark occupies a 0.50 m tall image frame, centered 1.00 m above reference tire contact. Its top and bottom are 1.25 m and 0.75 m. The small fleet caption moves with the mark. Horizontal centers, stripes, panel colors and fleet numbers are retained.
@@ -25,7 +27,7 @@ These are Blender studio renders using the packaged DDS textures, with approxima
 
 ## Install
 
-Use [coach module v0.2.2](../mods/gtsr-coaches-v0.2.2.scs) and deactivate older coach copies. Existing coach paint IDs and menu choices remain. Truck v0.5.1 and trailer v0.1 are unchanged. The shorter MAN/Scania bodies and Volvo 9700 artwork are unchanged.
+Use [coach module v0.2.2](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.2/gtsr-coaches-v0.2.2.scs) and deactivate older coach copies. Existing coach paint IDs and menu choices remain. Truck v0.5.1 and trailer v0.1 are unchanged. The shorter MAN/Scania bodies and Volvo 9700 artwork are unchanged.
 
 ## Reproduce
 

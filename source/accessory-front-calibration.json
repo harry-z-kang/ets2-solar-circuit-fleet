@@ -1,0 +1,26 @@
+{
+  "version": "0.5.3",
+  "model": "vehicle/bus/scania_touring_23/accessory/f_intake/standard_paint.pim",
+  "paint_triangles": 1218,
+  "paint_uv_alias": "_TEXCOORD1",
+  "front_profile": [
+    [
+      -100,
+      1.3
+    ],
+    [
+      -6.15,
+      1.3
+    ],
+    [
+      -5.1,
+      1.54
+    ],
+    [
+      100,
+      1.54
+    ]
+  ],
+  "gold_width_m": 0.045,
+  "base_sha256": "bc92de9265199491da19217daa0ebd67e734e0ed52e030a7a6902a36ac9d9a00"
+}

@@ -23,7 +23,7 @@ The truck's white lower-front patches were caused by separate painted accessorie
 
 ## Install
 
-Use [truck v0.5.1](../mods/gtsr-trucks-v0.5.1.scs) and [coach v0.2.1](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.1/gtsr-coaches-v0.2.1.scs), with older truck/coach copies deactivated. Trailer v0.1 is unchanged. Select **Solar Circuit - Van Leer** on the Aero XL; existing coach menu names and paint IDs remain unchanged. Normal and stock 8×4 Aero XL suitability are retained.
+Use [truck v0.5.1](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.1/gtsr-trucks-v0.5.1.scs) and [coach v0.2.1](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.1/gtsr-coaches-v0.2.1.scs), with older truck/coach copies deactivated. Trailer v0.1 is unchanged. Select **Solar Circuit - Van Leer** on the Aero XL; existing coach menu names and paint IDs remain unchanged. Normal and stock 8×4 Aero XL suitability are retained.
 
 The active ETS2 profile and user mod folder were not modified. The corrected build was inspected in Blender; its final appearance still needs checking in ETS2, especially painted tuning accessories and material gloss.
 

@@ -34,7 +34,7 @@ The second command writes a local HTML gallery and contact sheets. Other vehicle
 
 The override folder supplies edited DDS files, or PNG files if a DDS is absent. Unchanged maps fall back to the current module. Rebuild before inspecting an SVG change; an existing DDS takes priority over a PNG. Existing open Blender scenes can reload external images, but rerunning the command is the reproducible route and records fresh texture hashes.
 
-By default the current module names come from `logo-alignment-layouts.json` (falling back to the earlier feedback/refinement layouts if absent). To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
+By default the current module names come from `accessory-fix-layouts.json` (falling back to the earlier logo/feedback/refinement layouts if absent). To compare a different build, pass `--truck-module` and `--coach-module`. The extracted paint DDS cache is local; Blender never edits the installed mods or an active game profile.
 
 ## Recreate private model inputs
 
@@ -46,7 +46,7 @@ This machine already has the converter and private exports. After a game update,
 
 Use `--game-dir` for another ETS2 installation and `--converter` for another local ConverterPIX executable. The converter used here is [mwl4/ConverterPIX](https://github.com/mwl4/ConverterPIX), pinned previously to commit `3cd4e73a86d0c6bd28e117664c50a36cabeccf38`. Models are read from the installed base/truck/coach archives and exported only under `work/`. No downloads, addon installation or game-file changes are performed by these scripts.
 
-The selected parts are in `source/blender-vehicles.json`. The FH6 scene represents the stock 8×4 Aero XL with painted front parts and digital painted mirrors. It is an inspection configuration, not a reconstruction of the user's saved accessory inventory.
+The selected parts are in `source/blender-vehicles.json`. The FH6 scene represents the stock 8×4 Aero XL with painted cab fenders, Exclusive Aero headlights, Quatro painted sunshade and digital painted mirrors. The sunshade inspection configuration requires the Volvo tuning pack. The Scania scene includes the Standard Painted front intake. It is an inspection configuration, not a reconstruction of the user's saved accessory inventory.
 
 ## Review checklist and limits
 

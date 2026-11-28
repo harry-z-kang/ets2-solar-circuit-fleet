@@ -1,0 +1,31 @@
+{
+  "version": "0.5.3",
+  "truck_module": "gtsr-trucks-v0.5.3.scs",
+  "coach_module": "gtsr-coaches-v0.2.3.scs",
+  "scania_front": {
+    "texture": "scania-touring-137",
+    "model": "vehicle/bus/scania_touring_23/accessory/f_intake/standard_paint.pim",
+    "locator": "f_intake_cab",
+    "accessory": "f_intake.std_pnt",
+    "game_definition": "def/vehicle/bus/scania.touring_23/accessory/f_intake/standard_paint.sii",
+    "front_profile": [[-100, 1.3], [-6.15, 1.3], [-5.1, 1.54], [100, 1.54]],
+    "gold_width_m": 0.045,
+    "paint_uv_alias": "_TEXCOORD1"
+  },
+  "truck_overrides": {
+    "f_fender_cab.paint": "solid-navy",
+    "f_light_chs.fh16_aero": "solid-navy",
+    "sunshld.dual": "solid-white",
+    "sunshld.quatro": "solid-white",
+    "sunshld.shape1": "solid-white",
+    "sunshld.shape2": "solid-white",
+    "sunshld.triangle": "solid-white"
+  },
+  "painted_sunshields": {
+    "sunshld.dual": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/dual.pim",
+    "sunshld.quatro": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/quatro.pim",
+    "sunshld.shape1": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/sunshield_01.pim",
+    "sunshld.shape2": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/sunshield_02.pim",
+    "sunshld.triangle": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/triangle.pim"
+  }
+}

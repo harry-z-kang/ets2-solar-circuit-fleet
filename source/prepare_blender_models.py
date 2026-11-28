@@ -28,6 +28,10 @@ def main():
     args.models.mkdir(parents=True, exist_ok=True)
     for name in sorted(models):
         archives = ['base_share.scs', 'base_vehicle.scs', 'dlc_volvo_fh_2024.scs']
+        if '/truck/' in name:
+            archives += ['dlc_volvo_fh_2021.scs']
+        if '/sunshld/' in name:
+            archives += ['dlc_volvo_tuning_pack.scs']
         if '/bus/' in name:
             archives += ['dlc_bus.scs']
         command = [str(args.converter.resolve())]

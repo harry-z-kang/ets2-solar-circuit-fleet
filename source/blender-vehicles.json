@@ -64,6 +64,11 @@
         "texture": "scania-touring-137"
       },
       {
+        "model": "vehicle/bus/scania_touring_23/accessory/f_intake/standard_paint.pim",
+        "locator": "f_intake_cab",
+        "texture": "scania-touring-137"
+      },
+      {
         "model": "vehicle/bus/scania_touring_23/accessory/r_bumper/standard_paint.pim",
         "locator": "r_bumper",
         "texture": "scania-touring-137"
@@ -173,6 +178,16 @@
         "texture": "solid-navy"
       },
       {
+        "model": "vehicle/truck/volvo_fh_2021/accessory/f_fender_cab/painted_2021.pim",
+        "locator": "f_fender_cab",
+        "texture": "solid-navy"
+      },
+      {
+        "model": "vehicle/truck/volvo_fh16_2012/accessory/sunshld/quatro.pim",
+        "locator": "sunshld",
+        "texture": "solid-white"
+      },
+      {
         "model": "vehicle/truck/volvo_fh_2024/accessory/f_inlay_chs/painted.pim",
         "locator": "f_inlay_chs",
         "locator_root": "chassis",
@@ -190,7 +205,7 @@
         "texture": "solid-navy"
       },
       {
-        "model": "vehicle/truck/volvo_fh_2024/accessory/f_light_chs/stock_aero.pim",
+        "model": "vehicle/truck/volvo_fh_2024/accessory/f_light_chs/fh16_aero.pim",
         "locator": "f_light_chs",
         "locator_root": "chassis",
         "texture": "solid-navy"

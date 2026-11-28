@@ -37,7 +37,9 @@ def main():
     if args.width < 320 or args.samples < 1:
         parser.error('Use width >= 320 and samples >= 1')
     config = json.loads((ROOT/'source/blender-vehicles.json').read_text())
-    layout_file = ROOT/'source/logo-alignment-layouts.json'
+    layout_file = ROOT/'source/accessory-fix-layouts.json'
+    if not layout_file.exists():
+        layout_file = ROOT/'source/logo-alignment-layouts.json'
     if not layout_file.exists():
         layout_file = ROOT/'source/feedback-fix-layouts.json'
     if not layout_file.exists():
