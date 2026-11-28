@@ -62,12 +62,12 @@ def main():
     target=ROOT/'mods'/layout['truck_module']
     previous=ROOT/'mods/gtsr-trucks-v0.5.3.scs'
     seed=args.truck_seed or (previous if previous.exists() else target)
-    package(seed,target,{layout['mount']+'/gtsr_solar/'+name+'.dds':path.with_suffix('.dds').read_bytes()},{},set(),'0.5.4',
-            'Solar Circuit trucks 0.5.4: FH6 Aero XL Van Leer gold stripe slopes down with the front panel line and continues across the nose. Enlarged 936-pixel logos lowered approximately 15 cm on both cab sides, clear of the front corners. Original logo proportions and TK-05 / VAN LEER retained. Painted accessory fixes and all other paint jobs preserved. Blender checked; final ETS2 appearance awaits confirmation.\n')
+    package(seed,target,{layout['mount']+'/gtsr_solar/'+name+'.dds':path.with_suffix('.dds').read_bytes()},{},set(),'0.5.3',
+            'Solar Circuit trucks 0.5.3: FH6 Aero XL Van Leer gold stripe slopes down with the front panel line and continues across the nose. Enlarged 936-pixel logos lowered approximately 15 cm on both cab sides, clear of the front corners. Original logo proportions and TK-05 / VAN LEER retained. Painted accessory fixes and all other paint jobs preserved. Blender checked; final ETS2 appearance awaits confirmation.\n')
     index=json.loads((ROOT/'source/texture-index.json').read_text())
-    next(t for t in index if t['name']==name)['scope']='FH6 Aero XL sloping front stripe and lowered multi-panel Van Leer logos 0.5.4'
+    next(t for t in index if t['name']==name)['scope']='FH6 Aero XL sloping front stripe and lowered multi-panel Van Leer logos 0.5.3'
     (ROOT/'source/texture-index.json').write_text(json.dumps(index,indent=2)+'\n',encoding='utf-8',newline='\n')
-    print('FH6 logo width 1040 -> 936 px (10 percent reduction), rear edge anchored; truck module 0.5.4.')
+    print('FH6 logo width 1040 -> 936 px (10 percent reduction), rear edge anchored; truck module 0.5.3.')
 
 
 if __name__=='__main__':main()

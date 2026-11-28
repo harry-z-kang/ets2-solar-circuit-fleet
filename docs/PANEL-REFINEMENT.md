@@ -29,7 +29,7 @@ The cab, standard/Aero side deflectors, 8×4 upper deflector and painted 8×4 eq
 ## Install and upgrade
 
 1. If the Aero XL currently uses the old Heavy Support selection, switch it to Alumni Support before replacing the old truck module, or select Van Leer after upgrading. The removed Heavy identifier cannot retain a saved paint selection.
-2. Deactivate/remove older truck and coach module copies. Install only [truck v0.5](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.0/gtsr-trucks-v0.5.scs) and [coach v0.2](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.0/gtsr-coaches-v0.2.scs). The [trailer v0.1](../mods/gtsr-trailers-v0.1.scs) module is unchanged.
+2. Deactivate/remove older truck and coach module copies. Install only [truck v0.5](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.0/gtsr-trucks-v0.5.scs) and [coach v0.2](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.0/gtsr-coaches-v0.2.scs). The [trailer v0.1](https://github.com/harry-z-kang/ets2-solar-circuit-fleet/releases/download/v0.5.0/gtsr-trailers-v0.1.scs) module is unchanged.
 3. Select **Solar Circuit - Van Leer** on the Aero XL. The three coach selections retain their existing **Solar Circuit - Alumni Support** names. Price remains EUR 1,000, unlock level 0.
 4. Inspect doors, both sides, front/rear corners and your painted accessories in daylight. SCS Coaches DLC and the appropriate truck content are required.
 

@@ -1,4 +1,4 @@
-# FH6 front stripe and logo — v0.5.4
+# FH6 front stripe and logo — v0.5.3
 
 The FH6 Aero Globetrotter XL **Van Leer** gold stripe now slopes down toward the nose along the panel line and continues across the front panel. Both sides use the same physical profile, joining the front stripe at the corners.
 
@@ -20,9 +20,9 @@ Both side views, both front three-quarter views and a straight front view were r
 
 ## Install
 
-Replace the previous truck module with [truck v0.5.4](../mods/gtsr-trucks-v0.5.4.scs), deactivate the older truck copy, and retain **Solar Circuit - Van Leer** on the FH6 Aero XL. Coach v0.2.3 and trailer v0.1 are unchanged.
+Replace the previous truck module with [truck v0.5.3](../mods/gtsr-trucks-v0.5.3.scs), deactivate the older truck copy, and retain **Solar Circuit - Van Leer** on the FH6 Aero XL. Coach v0.5.3 and trailer v0.5.3 are unchanged.
 
-Only the FH6 Aero XL main cab DDS and truck version/description change in the archive. All other archive members, 117 unrelated texture sets, accessory assignments, coach/trailer archives, menu names and paint IDs are preserved. No active game profile or user mod folder was modified.
+The FH6 artwork change affects only its main cab DDS. All three module filenames and Mod Manager versions now use v0.5.3. Apart from version/description metadata, other archive members, 117 unrelated texture sets, accessory assignments, coach/trailer gameplay payloads, menu names and paint IDs are preserved. See the [module version checks](../source/module-version-validation.json). No active game profile or user mod folder was modified.
 
 ## Rebuild
 

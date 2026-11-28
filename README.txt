@@ -1,8 +1,8 @@
 SOLAR CIRCUIT — GEORGIA TECH SOLAR RACING INSPIRED FLEET
-Version 0.5.4 | Personal alumni tribute | 27 November 2026
+Version 0.5.3 | Personal alumni tribute | 27 November 2026
 
-FH6 FRONT STRIPE AND LOGO IN 0.5.4
-FH6 Aero XL Van Leer gold stripe slopes down along the front panel line and continues across the nose. The enlarged 936-pixel logo and caption move down about 15 cm, retaining front-corner clearance. Original logo proportions and TK-05 / VAN LEER retained. Replace the truck module with v0.5.4; coach v0.2.3 and trailer v0.1 are unchanged. Five Blender views, 379 checks and 15 saved-scene checks passed. Details: docs/FH6-LARGER-LOGO.md.
+FH6 FRONT STRIPE AND LOGO IN 0.5.3
+FH6 Aero XL Van Leer gold stripe slopes down along the front panel line and continues across the nose. The enlarged 936-pixel logo and caption move down about 15 cm, retaining front-corner clearance. Original logo proportions and TK-05 / VAN LEER retained. Replace the truck module with v0.5.3; coach v0.5.3 and trailer v0.5.3 are unchanged. Five Blender views, 379 checks and 15 saved-scene checks passed. Details: docs/FH6-LARGER-LOGO.md.
 
 PAINTED FRONT PARTS IN 0.5.3
 Scania 13.7 m: Standard Painted front intake now continues the navy/gold band. FH6 Aero XL Van Leer: navy painted cab arches and Exclusive Aero headlight surrounds, white painted sunshades. Ten Blender views, 1479 checks and 25 saved-scene checks passed. Select the painted Scania intake in the configurator. Previews and instructions: docs/PAINTED-FRONT-FIX.md.
@@ -25,13 +25,13 @@ QUICK INSTALL
 5. Inspect both sides, roof, front, rear and accessories in daylight before buying it for every fleet vehicle. Keep your usual profile backup when testing new mods.
 
 MODULES AND EXACT SCOPE
-gtsr-trucks-v0.5.4.scs
+gtsr-trucks-v0.5.3.scs
   25 SCS truck families, 77 paint-job definitions. All seven Mercedes-Benz and DAF families are covered, with 19 new standard-cab options and four refreshed heavy maps. All previous stock 8x4 coverage remains. Exact cabins and dependencies: docs/MERCEDES-DAF-LIVERIES.md. Heavy coverage: docs/8X4-LIVERIES.md. Earlier trucks: docs/TRUCK-LIVERIES.md.
-  Upgrade: deactivate/remove older truck modules and install only truck version 0.5.4 and coach version 0.2.3.
+  Upgrade: deactivate/remove older truck modules and install only truck version 0.5.3 and coach version 0.5.3.
 
-gtsr-trailers-v0.1.scs
+gtsr-trailers-v0.5.3.scs
   Player-owned SCS Box Trailer: curtainsider and dry-freighter maps, each in Long, Double and B-Double layouts. Insulated, refrigerated, side-door and moving-floor bodies are assigned the matching dry-freighter atlas through accessory definitions. Non-body painted accessories use solid navy. Those related body variants still need an individual visual check.
-gtsr-coaches-v0.2.3.scs
+gtsr-coaches-v0.5.3.scs
   SCS Coaches DLC: MAN Lion's Coach 13.9 m and 12.1 m; Scania Touring HD 13.7 m and 12.9 m; Volvo 9700 DD. Five separate 8192 x 4096 body textures. This does not skin third-party coach mods or DBus World vehicle mods.
 
 WHAT HAS BEEN CHECKED

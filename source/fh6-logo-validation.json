@@ -1,5 +1,5 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.3",
   "checks_passed": 379,
   "checks_total": 379,
   "failures": [],
@@ -9,10 +9,9 @@
   "proof": {
     "changed_archive_members": [
       "Description.txt",
-      "dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds",
-      "manifest.sii"
+      "dlc_volvo_fh_2024/gtsr_solar/trk_volvo_fh_2024_cabin_b_aero.dds"
     ],
-    "preserved_archive_members": 357,
+    "preserved_archive_members": 358,
     "logo_0_paint_coverage_fraction": 1.0,
     "logo_1_paint_coverage_fraction": 1.0,
     "gold_stripe_samples": {
@@ -1508,11 +1507,11 @@
       "passed": true
     },
     {
-      "check": "Byte-identical module gtsr-coaches-v0.2.3.scs",
+      "check": "Unchanged gameplay payloads gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Byte-identical module gtsr-trailers-v0.1.scs",
+      "check": "Unchanged gameplay payloads gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {

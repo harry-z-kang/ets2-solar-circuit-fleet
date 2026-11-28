@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4",
-  "checks_passed": 700,
-  "checks_total": 700,
+  "version": "0.5.3",
+  "checks_passed": 703,
+  "checks_total": 703,
   "failures": [],
   "scope": "Public package file sizes, local documentation links, module integrity and install inventory.",
   "checks": [
@@ -15,6 +15,10 @@
     },
     {
       "check": "GitHub file limit .gitignore",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit AGENTS.md",
       "passed": true
     },
     {
@@ -150,7 +154,7 @@
       "passed": true
     },
     {
-      "check": "Local link docs/8X4-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link docs/8X4-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
@@ -282,7 +286,11 @@
       "passed": true
     },
     {
-      "check": "Local link docs/FH6-LARGER-LOGO.md -> ../mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link docs/FH6-LARGER-LOGO.md -> ../mods/gtsr-trucks-v0.5.3.scs",
+      "passed": true
+    },
+    {
+      "check": "Local link docs/FH6-LARGER-LOGO.md -> ../source/module-version-validation.json",
       "passed": true
     },
     {
@@ -350,7 +358,7 @@
       "passed": true
     },
     {
-      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link docs/MERCEDES-DAF-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
@@ -390,7 +398,7 @@
       "passed": true
     },
     {
-      "check": "Local link docs/PAINTED-FRONT-FIX.md -> ../mods/gtsr-coaches-v0.2.3.scs",
+      "check": "Local link docs/PAINTED-FRONT-FIX.md -> ../mods/gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
@@ -435,10 +443,6 @@
     },
     {
       "check": "Local link docs/PANEL-REFINEMENT.md -> ../previews/panel-refinement-preview.png",
-      "passed": true
-    },
-    {
-      "check": "Local link docs/PANEL-REFINEMENT.md -> ../mods/gtsr-trailers-v0.1.scs",
       "passed": true
     },
     {
@@ -494,7 +498,7 @@
       "passed": true
     },
     {
-      "check": "Local link docs/TRUCK-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link docs/TRUCK-LIVERIES.md -> ../mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
@@ -586,15 +590,15 @@
       "passed": true
     },
     {
-      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trailers-v0.1.scs",
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-coaches-v0.2.3.scs",
+      "check": "Local link FLEET-GUIDE.html -> mods/gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
@@ -654,15 +658,15 @@
       "passed": true
     },
     {
-      "check": "GitHub file limit mods/gtsr-coaches-v0.2.3.scs",
+      "check": "GitHub file limit mods/gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "GitHub file limit mods/gtsr-trailers-v0.1.scs",
+      "check": "GitHub file limit mods/gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "GitHub file limit mods/gtsr-trucks-v0.5.4.scs",
+      "check": "GitHub file limit mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
@@ -862,7 +866,7 @@
       "passed": true
     },
     {
-      "check": "Local link README.md -> mods/gtsr-trucks-v0.5.4.scs",
+      "check": "Local link README.md -> mods/gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
@@ -874,11 +878,11 @@
       "passed": true
     },
     {
-      "check": "Local link README.md -> mods/gtsr-trailers-v0.1.scs",
+      "check": "Local link README.md -> mods/gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Local link README.md -> mods/gtsr-coaches-v0.2.3.scs",
+      "check": "Local link README.md -> mods/gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
@@ -939,6 +943,10 @@
     },
     {
       "check": "Local link README.md -> source/fh6-logo-blender-validation.json",
+      "passed": true
+    },
+    {
+      "check": "Local link README.md -> source/module-version-validation.json",
       "passed": true
     },
     {
@@ -1251,6 +1259,10 @@
     },
     {
       "check": "GitHub file limit source/mercedes-daf-vehicles.json",
+      "passed": true
+    },
+    {
+      "check": "GitHub file limit source/module-version-validation.json",
       "passed": true
     },
     {
@@ -2770,39 +2782,39 @@
       "passed": true
     },
     {
-      "check": "Archive integrity gtsr-coaches-v0.2.3.scs",
+      "check": "Archive integrity gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No duplicate archive members gtsr-coaches-v0.2.3.scs",
+      "check": "No duplicate archive members gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No private development inputs gtsr-coaches-v0.2.3.scs",
+      "check": "No private development inputs gtsr-coaches-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Archive integrity gtsr-trailers-v0.1.scs",
+      "check": "Archive integrity gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No duplicate archive members gtsr-trailers-v0.1.scs",
+      "check": "No duplicate archive members gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No private development inputs gtsr-trailers-v0.1.scs",
+      "check": "No private development inputs gtsr-trailers-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "Archive integrity gtsr-trucks-v0.5.4.scs",
+      "check": "Archive integrity gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No duplicate archive members gtsr-trucks-v0.5.4.scs",
+      "check": "No duplicate archive members gtsr-trucks-v0.5.3.scs",
       "passed": true
     },
     {
-      "check": "No private development inputs gtsr-trucks-v0.5.4.scs",
+      "check": "No private development inputs gtsr-trucks-v0.5.3.scs",
       "passed": true
     }
   ]

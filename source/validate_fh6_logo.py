@@ -60,7 +60,7 @@ def main():
             with zipfile.ZipFile(args.before/'gtsr-trucks-v0.5.3.scs') as old:
                 check('Archive inventory retained',set(z.namelist())==set(old.namelist()))
                 changed={n for n in z.namelist() if z.read(n)!=old.read(n)}
-                check('Only main cab DDS and metadata changed',changed=={member,'manifest.sii','Description.txt'})
+                check('Only main cab DDS and metadata changed',{member,'Description.txt'}<=changed<={member,'manifest.sii','Description.txt'})
                 proof['changed_archive_members']=sorted(changed)
                 proof['preserved_archive_members']=len(z.namelist())-len(changed)
     if args.before:
@@ -68,8 +68,9 @@ def main():
         for path in (ROOT/'textures').iterdir():
             if path.stem!=name and path.suffix in {'.svg','.png','.dds'}:
                 check('Unchanged texture '+path.name,sha(path.read_bytes())==baseline[path.relative_to(ROOT).as_posix()])
-        for module in ['gtsr-coaches-v0.2.3.scs','gtsr-trailers-v0.1.scs']:
-            check('Byte-identical module '+module,sha((ROOT/'mods'/module).read_bytes())==baseline['mods/'+module])
+        for module,baseline_module in [('gtsr-coaches-v0.5.3.scs','gtsr-coaches-v0.2.3.scs'),('gtsr-trailers-v0.5.3.scs','gtsr-trailers-v0.1.scs')]:
+            with zipfile.ZipFile(ROOT/'mods'/module) as current, zipfile.ZipFile(args.before/baseline_module) as previous:
+                check('Unchanged gameplay payloads '+module,set(current.namelist())==set(previous.namelist()) and all(current.read(n)==previous.read(n) for n in current.namelist() if n not in {'manifest.sii','Description.txt'}))
         diff=ImageChops.difference(Image.open(args.before/'before.png').convert('RGB'),Image.open(ROOT/'textures'/f'{name}.png').convert('RGB'))
         current_base=Image.open(ROOT/'artwork/panel-bases'/f'{name}.png').convert('RGB')
         base_diff=ImageChops.difference(Image.open(args.before/'before-base.png').convert('RGB'),current_base)

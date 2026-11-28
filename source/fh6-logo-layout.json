@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4",
-  "truck_module": "gtsr-trucks-v0.5.4.scs",
-  "coach_module": "gtsr-coaches-v0.2.3.scs",
+  "version": "0.5.3",
+  "truck_module": "gtsr-trucks-v0.5.3.scs",
+  "coach_module": "gtsr-coaches-v0.5.3.scs",
   "texture": "trk_volvo_fh_2024_cabin_b_aero",
   "mount": "dlc_volvo_fh_2024",
   "logos": [[340, 2910.4902386117135, 936], [2824, 2910.4902386117135, 936]],

@@ -1,0 +1,36 @@
+{
+  "version": "0.5.3",
+  "scope": "Module filenames and version metadata only. Every gameplay payload preserved.",
+  "modules": [
+    {
+      "old": "gtsr-trucks-v0.5.4.scs",
+      "new": "gtsr-trucks-v0.5.3.scs",
+      "changed_members": [
+        "manifest.sii",
+        "Description.txt"
+      ],
+      "preserved_members": 358,
+      "sha256": "7a5d8ccf4fce7651ea58b527c24fd1b9eab9fa982152a95e62ac203e90cb7865"
+    },
+    {
+      "old": "gtsr-coaches-v0.2.3.scs",
+      "new": "gtsr-coaches-v0.5.3.scs",
+      "changed_members": [
+        "Description.txt",
+        "manifest.sii"
+      ],
+      "preserved_members": 19,
+      "sha256": "6d42ce626dabf25b23291a577c92e54f9a123fde74be3d231b495732b881216f"
+    },
+    {
+      "old": "gtsr-trailers-v0.1.scs",
+      "new": "gtsr-trailers-v0.5.3.scs",
+      "changed_members": [
+        "manifest.sii"
+      ],
+      "preserved_members": 21,
+      "sha256": "58bda83ceb832bc4b512195a561a2706dec1ecd0977a86c5dd1dc83382b15cbb"
+    }
+  ],
+  "failures": []
+}
